@@ -1,0 +1,42 @@
+[
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "productName": "Copilot Connectors (Graph Connectors)",
+    "description": "Microsoft Graph Connectors enable third-party data to be indexed and searchable in Microsoft 365 Copilot, Search, and other Microsoft experiences.",
+    "color": "blue",
+    "websiteUrl": "https://learn.microsoft.com/en-us/graph/connecting-external-content-connectors-overview",
+    "totalConnectors": 239,
+    "officialConnectors": 89
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "productName": "Gemini Extensions",
+    "description": "Google Gemini Extensions connect Gemini to Google services and third-party tools for enhanced AI assistance across the Google ecosystem.",
+    "color": "emerald",
+    "websiteUrl": "https://gemini.google.com/extensions",
+    "totalConnectors": 27,
+    "officialConnectors": 27
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "productName": "Model Context Protocol (MCP)",
+    "description": "The Model Context Protocol provides a standard way to connect AI models to external data sources, tools, and services through a unified protocol.",
+    "color": "amber",
+    "websiteUrl": "https://modelcontextprotocol.io",
+    "totalConnectors": 389,
+    "officialConnectors": 389
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "productName": "GPT Actions / GPT Store",
+    "description": "OpenAI GPT Actions allow custom GPTs to interact with external APIs. The GPT Store provides a marketplace for discovering and sharing custom GPTs.",
+    "color": "slate",
+    "websiteUrl": "https://platform.openai.com/docs/actions",
+    "totalConnectors": 12,
+    "officialConnectors": 3
+  }
+]

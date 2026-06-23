@@ -1,0 +1,246 @@
+[
+  {
+    "id": "g-how-connectors-work",
+    "vendorId": "google",
+    "name": "How connectors work",
+    "description": "Connectors securely link Gemini Enterprise – Business edition to different applications and data sources commonly used by businesses and enterprises. These connectors let you search for information...",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-gemini-enterprise-business-edition-will-only-access-what-you-specifically-authorize",
+    "vendorId": "google",
+    "name": "Gemini Enterprise – Business edition will only access what you specifically authorize.",
+    "description": "Ensure that your connector is configured to allow Gemini Enterprise – Business edition to access any data you wish to connect.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-available-connectors",
+    "vendorId": "google",
+    "name": "Available connectors",
+    "description": "To view and enable the connectors in your Gemini Enterprise – Business edition workspace: Sign in to Gemini Enterprise – Business edition (business.gemini.google/).\n  Click Settings & help .\n  Sele...",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-supported-actions-in-gemini-enterprise-business-edition",
+    "vendorId": "google",
+    "name": "Supported actions in Gemini Enterprise – Business edition",
+    "description": "Gemini Enterprise – Business edition allows authorized and authenticated users to take specified actions with supported connectors. Select the app name below to reveal the available actions for eac...",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-supported-actions-for-google-connectors",
+    "vendorId": "google",
+    "name": "Supported actions for Google connectors",
+    "description": "Supported actions for Google connectors extension for Google Gemini.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-google-calendar",
+    "vendorId": "google",
+    "name": "Google Calendar",
+    "description": "Google Calendar extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-google-chat",
+    "vendorId": "google",
+    "name": "Google Chat",
+    "description": "Google Chat extension for Google Gemini.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-google-drive",
+    "vendorId": "google",
+    "name": "Google Drive",
+    "description": "Google Drive extension for Google Gemini.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-google-mail-gmail",
+    "vendorId": "google",
+    "name": "Google Mail (Gmail)",
+    "description": "Google Mail (Gmail) extension for Google Gemini.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-supported-actions-for-third-party-connectors",
+    "vendorId": "google",
+    "name": "Supported actions for third-party connectors",
+    "description": "Supported actions for third-party connectors extension for Google Gemini.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-asana",
+    "vendorId": "google",
+    "name": "Asana",
+    "description": "Asana extension for Google Gemini.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-atlassian-confluence-cloud",
+    "vendorId": "google",
+    "name": "Atlassian Confluence Cloud",
+    "description": "Atlassian Confluence Cloud extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-atlassian-jira-cloud",
+    "vendorId": "google",
+    "name": "Atlassian Jira Cloud",
+    "description": "Atlassian Jira Cloud extension for Google Gemini.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-box",
+    "vendorId": "google",
+    "name": "Box",
+    "description": "Box extension for Google Gemini.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-dropbox",
+    "vendorId": "google",
+    "name": "Dropbox",
+    "description": "Dropbox extension for Google Gemini.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-github",
+    "vendorId": "google",
+    "name": "GitHub",
+    "description": "GitHub extension for Google Gemini.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-hubspot",
+    "vendorId": "google",
+    "name": "HubSpot",
+    "description": "HubSpot extension for Google Gemini.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-linear",
+    "vendorId": "google",
+    "name": "Linear",
+    "description": "Linear extension for Google Gemini.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-microsoft-onedrive",
+    "vendorId": "google",
+    "name": "Microsoft OneDrive",
+    "description": "Microsoft OneDrive extension for Google Gemini.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-microsoft-outlook",
+    "vendorId": "google",
+    "name": "Microsoft Outlook",
+    "description": "Microsoft Outlook extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-microsoft-sharepoint",
+    "vendorId": "google",
+    "name": "Microsoft SharePoint",
+    "description": "Microsoft SharePoint extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-microsoft-teams",
+    "vendorId": "google",
+    "name": "Microsoft Teams",
+    "description": "Microsoft Teams extension for Google Gemini.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-monday",
+    "vendorId": "google",
+    "name": "Monday",
+    "description": "Monday extension for Google Gemini.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-notion",
+    "vendorId": "google",
+    "name": "Notion",
+    "description": "Notion extension for Google Gemini.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-slack",
+    "vendorId": "google",
+    "name": "Slack",
+    "description": "Slack extension for Google Gemini.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-zendesk",
+    "vendorId": "google",
+    "name": "Zendesk",
+    "description": "Zendesk extension for Google Gemini.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-help",
+    "vendorId": "google",
+    "name": "Help",
+    "description": "1 of 1Connect your Google apps and third-party data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://support.google.com/g?hl=en#topic=16538431"
+  }
+]

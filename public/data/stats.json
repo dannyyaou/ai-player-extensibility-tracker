@@ -1,0 +1,26 @@
+{
+  "totalConnectors": 667,
+  "totalVendors": 4,
+  "totalCategories": 12,
+  "coverageEntries": 25,
+  "vendorCounts": {
+    "microsoft": 239,
+    "anthropic": 389,
+    "google": 27,
+    "openai": 12
+  },
+  "categoryCounts": {
+    "communication": 78,
+    "productivity": 204,
+    "crm": 16,
+    "data": 144,
+    "dev-tools": 110,
+    "cloud-storage": 40,
+    "hr": 11,
+    "support": 25,
+    "project-mgmt": 18,
+    "marketing": 7,
+    "finance": 11,
+    "security": 3
+  }
+}

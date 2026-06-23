@@ -1,0 +1,14 @@
+[
+  { "id": "productivity", "name": "Productivity & Collaboration", "icon": "📋" },
+  { "id": "crm", "name": "CRM & Sales", "icon": "💼" },
+  { "id": "dev-tools", "name": "Developer Tools", "icon": "🔧" },
+  { "id": "cloud-storage", "name": "Cloud Storage & Files", "icon": "☁️" },
+  { "id": "communication", "name": "Communication", "icon": "💬" },
+  { "id": "project-mgmt", "name": "Project Management", "icon": "📊" },
+  { "id": "hr", "name": "HR & People", "icon": "👥" },
+  { "id": "finance", "name": "Finance & Accounting", "icon": "💰" },
+  { "id": "security", "name": "Security & Compliance", "icon": "🔒" },
+  { "id": "data", "name": "Data & Analytics", "icon": "📈" },
+  { "id": "support", "name": "Customer Support", "icon": "🎧" },
+  { "id": "marketing", "name": "Marketing", "icon": "📣" }
+]

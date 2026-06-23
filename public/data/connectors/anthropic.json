@@ -1,0 +1,3892 @@
+[
+  {
+    "id": "a-10x-genomics-cloud",
+    "vendorId": "anthropic",
+    "name": "10x Genomics Cloud",
+    "description": "Interact with 10x Genomics Cloud platform",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/10x-genomics-cloud"
+  },
+  {
+    "id": "a-activecampaign",
+    "vendorId": "anthropic",
+    "name": "ActiveCampaign",
+    "description": "Autonomous marketing to transform how you work",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/activecampaign"
+  },
+  {
+    "id": "a-actively",
+    "vendorId": "anthropic",
+    "name": "Actively",
+    "description": "1:1 account agents for GTM teams",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/actively"
+  },
+  {
+    "id": "a-adisinsight",
+    "vendorId": "anthropic",
+    "name": "AdisInsight",
+    "description": "Pharmaceutical drug & clinical trial intelligence",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adisinsight"
+  },
+  {
+    "id": "a-adobe-customer-journey-analytics",
+    "vendorId": "anthropic",
+    "name": "Adobe Customer Journey Analytics",
+    "description": "Run reports using your metrics, dimensions, and segments",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-cja"
+  },
+  {
+    "id": "a-adobe-experience-manager",
+    "vendorId": "anthropic",
+    "name": "Adobe Experience Manager",
+    "description": "Manage your Adobe Experience Manager content",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-experience-manager"
+  },
+  {
+    "id": "a-adobe-for-creativity",
+    "vendorId": "anthropic",
+    "name": "Adobe for creativity",
+    "description": "Ideate, create, and deliver with Adobe pro tools",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-creativity"
+  },
+  {
+    "id": "a-adobe-journey-optimizer",
+    "vendorId": "anthropic",
+    "name": "Adobe Journey Optimizer",
+    "description": "Understand and troubleshoot your Journeys and Campaigns",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-journey-optimizer"
+  },
+  {
+    "id": "a-adobe-marketing-agent",
+    "vendorId": "anthropic",
+    "name": "Adobe Marketing Agent",
+    "description": "Marketing campaign and audience insights from Adobe",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-marketing-agent"
+  },
+  {
+    "id": "a-adobe-workfront",
+    "vendorId": "anthropic",
+    "name": "Adobe Workfront",
+    "description": "Manage planning, projects, tasks, and approvals",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/adobe-workfront"
+  },
+  {
+    "id": "a-affinity",
+    "vendorId": "anthropic",
+    "name": "Affinity",
+    "description": "Search, update, and prep deals without switching tabs.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/affinity"
+  },
+  {
+    "id": "a-agentic-presentations-by-slidesgpt",
+    "vendorId": "anthropic",
+    "name": "Agentic Presentations by SlidesGPT",
+    "description": "Make presentations and slides, export to PowerPoint",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/slidesgpt"
+  },
+  {
+    "id": "a-ahrefs",
+    "vendorId": "anthropic",
+    "name": "Ahrefs",
+    "description": "SEO & AI search analytics",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ahrefs"
+  },
+  {
+    "id": "a-aiera",
+    "vendorId": "anthropic",
+    "name": "Aiera",
+    "description": "Live events, filings, company publications, and more",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/aiera"
+  },
+  {
+    "id": "a-airops",
+    "vendorId": "anthropic",
+    "name": "AirOps",
+    "description": "Craft content that wins AI search",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/airops"
+  },
+  {
+    "id": "a-airtable",
+    "vendorId": "anthropic",
+    "name": "Airtable",
+    "description": "Bring your structured data to Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/airtable"
+  },
+  {
+    "id": "a-airwallex",
+    "vendorId": "anthropic",
+    "name": "Airwallex",
+    "description": "Integrate with the Airwallex Platform using Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/airwallex"
+  },
+  {
+    "id": "a-aiwyn-tax",
+    "vendorId": "anthropic",
+    "name": "Aiwyn Tax",
+    "description": "Estimate your federal & state taxes with Aiwyn's tax engine",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/aiwyn-tax"
+  },
+  {
+    "id": "a-alltrails",
+    "vendorId": "anthropic",
+    "name": "AllTrails",
+    "description": "Find your next hike",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/alltrails"
+  },
+  {
+    "id": "a-alma",
+    "vendorId": "anthropic",
+    "name": "Alma",
+    "description": "Your nutrition data, inside every Claude conversation.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/alma"
+  },
+  {
+    "id": "a-alphaxiv",
+    "vendorId": "anthropic",
+    "name": "alphaXiv",
+    "description": "Fast search and full-text access over arXiv pre-prints",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/alphaxiv"
+  },
+  {
+    "id": "a-amplitude",
+    "vendorId": "anthropic",
+    "name": "Amplitude",
+    "description": "Give your teams powerful behavioral insights",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/amplitude"
+  },
+  {
+    "id": "a-apollo-io",
+    "vendorId": "anthropic",
+    "name": "Apollo.io",
+    "description": "Find buyers. Book more meetings. Close more deals.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/apollo"
+  },
+  {
+    "id": "a-appfolio-realm-x",
+    "vendorId": "anthropic",
+    "name": "AppFolio Realm-X",
+    "description": "Operate your portfolio directly from Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/appfolio-realm-x"
+  },
+  {
+    "id": "a-asana",
+    "vendorId": "anthropic",
+    "name": "Asana",
+    "description": "Connect to Asana to coordinate tasks, projects, and goals",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/asana"
+  },
+  {
+    "id": "a-atlassian-rovo",
+    "vendorId": "anthropic",
+    "name": "Atlassian Rovo",
+    "description": "Access Jira & Confluence from Claude",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/atlassian"
+  },
+  {
+    "id": "a-attention",
+    "vendorId": "anthropic",
+    "name": "Attention",
+    "description": "Search, analyze, and act on client conversations",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/attention"
+  },
+  {
+    "id": "a-attio",
+    "vendorId": "anthropic",
+    "name": "Attio",
+    "description": "Search, manage, and update your Attio CRM from Claude",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/attio"
+  },
+  {
+    "id": "a-audible",
+    "vendorId": "anthropic",
+    "name": "Audible",
+    "description": "Ask for audiobook recommendations & preview audiobooks",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/audible"
+  },
+  {
+    "id": "a-aura",
+    "vendorId": "anthropic",
+    "name": "Aura",
+    "description": "Company intelligence & workforce analytics",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/aura"
+  },
+  {
+    "id": "a-aurora",
+    "vendorId": "anthropic",
+    "name": "Aurora",
+    "description": "Search your Consilio matters, docs, and more.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/aurora"
+  },
+  {
+    "id": "a-autodesk-product-help",
+    "vendorId": "anthropic",
+    "name": "Autodesk Product Help",
+    "description": "Securely access Autodesk's help documentation",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/autodesk-product-help"
+  },
+  {
+    "id": "a-aws-marketplace",
+    "vendorId": "anthropic",
+    "name": "AWS Marketplace",
+    "description": "Discover, evaluate, and buy solutions for the cloud",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/aws-marketplace"
+  },
+  {
+    "id": "a-base44",
+    "vendorId": "anthropic",
+    "name": "Base44",
+    "description": "Build and manage Base44 apps",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/base44"
+  },
+  {
+    "id": "a-benchling",
+    "vendorId": "anthropic",
+    "name": "Benchling",
+    "description": "Connect to R&D data, source experiments, and notebooks",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/benchling"
+  },
+  {
+    "id": "a-benevity",
+    "vendorId": "anthropic",
+    "name": "Benevity",
+    "description": "Find and engage with verified nonprofits",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/benevity"
+  },
+  {
+    "id": "a-bigdata-com",
+    "vendorId": "anthropic",
+    "name": "Bigdata.com",
+    "description": "Access real-time financial data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/bigdata"
+  },
+  {
+    "id": "a-biorender",
+    "vendorId": "anthropic",
+    "name": "BioRender",
+    "description": "Search for and use scientific templates and icons",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/biorender"
+  },
+  {
+    "id": "a-biorxiv",
+    "vendorId": "anthropic",
+    "name": "bioRxiv",
+    "description": "Access to bioRxiv and medRxiv preprint data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/biorxiv"
+  },
+  {
+    "id": "a-bitly",
+    "vendorId": "anthropic",
+    "name": "Bitly",
+    "description": "Shorten links, generate QR Codes, and track performance",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/bitly"
+  },
+  {
+    "id": "a-blackbaud",
+    "vendorId": "anthropic",
+    "name": "Blackbaud",
+    "description": "Search, explore, and query Blackbaud data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/blackbaud"
+  },
+  {
+    "id": "a-blockscout",
+    "vendorId": "anthropic",
+    "name": "Blockscout",
+    "description": "Access and analyze blockchain data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/blockscout"
+  },
+  {
+    "id": "a-boardwise",
+    "vendorId": "anthropic",
+    "name": "BoardWise",
+    "description": "Calm board-defense guidance for licensed pros.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/boardwise"
+  },
+  {
+    "id": "a-booking-com",
+    "vendorId": "anthropic",
+    "name": "Booking.com",
+    "description": "Find hotels, homes and more",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/booking"
+  },
+  {
+    "id": "a-box",
+    "vendorId": "anthropic",
+    "name": "Box",
+    "description": "Search, edit and get insights on your Box content",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/box"
+  },
+  {
+    "id": "a-braze",
+    "vendorId": "anthropic",
+    "name": "Braze",
+    "description": "Connect to your Braze workspace to analyze trends and gather insights on Braze Campaigns and Canvases",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/braze"
+  },
+  {
+    "id": "a-brevo",
+    "vendorId": "anthropic",
+    "name": "Brevo",
+    "description": "Analyze campaigns, know your audience and create drafts",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/brevo"
+  },
+  {
+    "id": "a-brex",
+    "vendorId": "anthropic",
+    "name": "Brex",
+    "description": "Intelligent finance automation",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/brex"
+  },
+  {
+    "id": "a-brighthire",
+    "vendorId": "anthropic",
+    "name": "BrightHire",
+    "description": "Search, summarize and analyze hiring data",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/brighthire"
+  },
+  {
+    "id": "a-calendly",
+    "vendorId": "anthropic",
+    "name": "Calendly",
+    "description": "Manage event types, availability, and bookings.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/calendly"
+  },
+  {
+    "id": "a-campfire",
+    "vendorId": "anthropic",
+    "name": "Campfire",
+    "description": "Search, analyze, and export Campfire data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/campfire"
+  },
+  {
+    "id": "a-canary-data",
+    "vendorId": "anthropic",
+    "name": "Canary Data",
+    "description": "Perform world-class investment analysis",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/canary-data"
+  },
+  {
+    "id": "a-candid",
+    "vendorId": "anthropic",
+    "name": "Candid",
+    "description": "Research nonprofits and funders using Candid's data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/candid"
+  },
+  {
+    "id": "a-canva",
+    "vendorId": "anthropic",
+    "name": "Canva",
+    "description": "Search, create, autofill, and export Canva designs from a prompt",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/canva"
+  },
+  {
+    "id": "a-cargoai",
+    "vendorId": "anthropic",
+    "name": "CargoAi",
+    "description": "Instant air cargo rates, quotes & tracking",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cargoai"
+  },
+  {
+    "id": "a-carta",
+    "vendorId": "anthropic",
+    "name": "Carta",
+    "description": "The connected ERP for private capital",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/carta"
+  },
+  {
+    "id": "a-cb-insights",
+    "vendorId": "anthropic",
+    "name": "CB Insights",
+    "description": "Predictive intelligence on private companies",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cb-insights"
+  },
+  {
+    "id": "a-cdata",
+    "vendorId": "anthropic",
+    "name": "CData",
+    "description": "Managed MCP platform for 350 sources",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cdata-connect-ai"
+  },
+  {
+    "id": "a-chembl",
+    "vendorId": "anthropic",
+    "name": "ChEMBL",
+    "description": "Access to the ChEMBL Database",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/chembl"
+  },
+  {
+    "id": "a-chronograph",
+    "vendorId": "anthropic",
+    "name": "Chronograph",
+    "description": "Interact with your Chronograph data directly in Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/chronograph"
+  },
+  {
+    "id": "a-circleback",
+    "vendorId": "anthropic",
+    "name": "Circleback",
+    "description": "Search and access context from meetings",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/circleback"
+  },
+  {
+    "id": "a-clarify",
+    "vendorId": "anthropic",
+    "name": "Clarify",
+    "description": "Query your CRM. Create records. Ask anything.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clarify"
+  },
+  {
+    "id": "a-clarity-ai",
+    "vendorId": "anthropic",
+    "name": "Clarity AI",
+    "description": "Simulate fund classifications under proposed SFDR 2.0",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clarity-ai"
+  },
+  {
+    "id": "a-clarivate-ipone-compumark-trademarks",
+    "vendorId": "anthropic",
+    "name": "Clarivate IPOne CompuMark Trademarks",
+    "description": "Trusted Trademark Intelligence from Clarivate CompuMark",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clarivate-compumark"
+  },
+  {
+    "id": "a-clay",
+    "vendorId": "anthropic",
+    "name": "Clay",
+    "description": "Find prospects. Research accounts. Personalize outreach",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clay"
+  },
+  {
+    "id": "a-clerk",
+    "vendorId": "anthropic",
+    "name": "Clerk",
+    "description": "Add authentication, organizations, and billing",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clerk"
+  },
+  {
+    "id": "a-clickup",
+    "vendorId": "anthropic",
+    "name": "ClickUp",
+    "description": "Project management & collaboration for teams & agents",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clickup"
+  },
+  {
+    "id": "a-clinical-trials",
+    "vendorId": "anthropic",
+    "name": "Clinical Trials",
+    "description": "Access ClinicalTrials.gov data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clinical-trials"
+  },
+  {
+    "id": "a-clockwise",
+    "vendorId": "anthropic",
+    "name": "Clockwise",
+    "description": "Advanced scheduling and time management for work.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/clockwise"
+  },
+  {
+    "id": "a-close",
+    "vendorId": "anthropic",
+    "name": "Close",
+    "description": "Securely connect Claude to your Close data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/close"
+  },
+  {
+    "id": "a-cloudflare",
+    "vendorId": "anthropic",
+    "name": "Cloudflare",
+    "description": "Build applications with compute, storage, and AI",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cloudflare"
+  },
+  {
+    "id": "a-cloudinary",
+    "vendorId": "anthropic",
+    "name": "Cloudinary",
+    "description": "Manage, transform and deliver your images & videos",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cloudinary"
+  },
+  {
+    "id": "a-cms-coverage",
+    "vendorId": "anthropic",
+    "name": "CMS Coverage",
+    "description": "Access the CMS Coverage Database",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cms-coverage"
+  },
+  {
+    "id": "a-cocounsel-legal",
+    "vendorId": "anthropic",
+    "name": "CoCounsel Legal",
+    "description": "Thomson Reuters CoCounsel Legal, in Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cocounsel-legal"
+  },
+  {
+    "id": "a-cognito-forms",
+    "vendorId": "anthropic",
+    "name": "Cognito Forms",
+    "description": "Manage entries, analyze submissions, and download files",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cognito-forms"
+  },
+  {
+    "id": "a-coindesk",
+    "vendorId": "anthropic",
+    "name": "CoinDesk",
+    "description": "Access Live & Historical Crypto Data, Indices",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/coindesk"
+  },
+  {
+    "id": "a-common-room",
+    "vendorId": "anthropic",
+    "name": "Common Room",
+    "description": "Your GTM Copilot",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/common-room"
+  },
+  {
+    "id": "a-computer-by-devrev",
+    "vendorId": "anthropic",
+    "name": "Computer by DevRev",
+    "description": "Manage your workspace, issues, tickets, customers, and more without leaving Claude.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/devrev"
+  },
+  {
+    "id": "a-consensus",
+    "vendorId": "anthropic",
+    "name": "Consensus",
+    "description": "Explore scientific research",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/consensus"
+  },
+  {
+    "id": "a-contentsquare",
+    "vendorId": "anthropic",
+    "name": "Contentsquare",
+    "description": "Experience analytics platform for digital businesses",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/contentsquare"
+  },
+  {
+    "id": "a-context7",
+    "vendorId": "anthropic",
+    "name": "Context7",
+    "description": "Up-to-date docs for LLMs and AI code editors",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/context7"
+  },
+  {
+    "id": "a-coralogix",
+    "vendorId": "anthropic",
+    "name": "Coralogix",
+    "description": "Explore and debug your Coralogix observability data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/coralogix"
+  },
+  {
+    "id": "a-cortellis-regulatory-intelligence",
+    "vendorId": "anthropic",
+    "name": "Cortellis Regulatory Intelligence",
+    "description": "Trusted Regulatory Answers, by Clarivate Cortellis",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cortellis-regulatory"
+  },
+  {
+    "id": "a-coupler-io",
+    "vendorId": "anthropic",
+    "name": "Coupler.io",
+    "description": "Access business data from hundreds of sources",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/coupler-io"
+  },
+  {
+    "id": "a-coursera",
+    "vendorId": "anthropic",
+    "name": "Coursera",
+    "description": "Transform your prompts into active skill-building",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/coursera"
+  },
+  {
+    "id": "a-courtlistener",
+    "vendorId": "anthropic",
+    "name": "CourtListener",
+    "description": "Legal research across millions of court records",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/courtlistener"
+  },
+  {
+    "id": "a-courtroom5",
+    "vendorId": "anthropic",
+    "name": "Courtroom5",
+    "description": "Civil legal guidance for self-represented litigants",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/courtroom5"
+  },
+  {
+    "id": "a-craft",
+    "vendorId": "anthropic",
+    "name": "Craft",
+    "description": "Notes & second brain",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/craft"
+  },
+  {
+    "id": "a-crossbeam",
+    "vendorId": "anthropic",
+    "name": "Crossbeam",
+    "description": "Explore partner data and ecosystem insights in Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/crossbeam"
+  },
+  {
+    "id": "a-crypto-com",
+    "vendorId": "anthropic",
+    "name": "Crypto.com",
+    "description": "Real time prices, orders, charts, and more for crypto",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/crypto-com"
+  },
+  {
+    "id": "a-customer-io",
+    "vendorId": "anthropic",
+    "name": "Customer.io",
+    "description": "Explore customer data and generate insights via Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/customer-io"
+  },
+  {
+    "id": "a-daloopa",
+    "vendorId": "anthropic",
+    "name": "Daloopa",
+    "description": "Financial fundamental data and KPIs with hyperlinks",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/daloopa"
+  },
+  {
+    "id": "a-databricks",
+    "vendorId": "anthropic",
+    "name": "Databricks",
+    "description": "Managed MCP servers with Unity Catalog and Mosaic AI",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/databricks"
+  },
+  {
+    "id": "a-datadog",
+    "vendorId": "anthropic",
+    "name": "Datadog",
+    "description": "Debug and resolve issues using Datadog telemetry",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/datadog"
+  },
+  {
+    "id": "a-datagrail",
+    "vendorId": "anthropic",
+    "name": "DataGrail",
+    "description": "Secure, production-ready AI orchestration for privacy",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/datagrail"
+  },
+  {
+    "id": "a-datahub",
+    "vendorId": "anthropic",
+    "name": "DataHub",
+    "description": "Connect AI agents to enterprise data & context",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/datahub"
+  },
+  {
+    "id": "a-datasite",
+    "vendorId": "anthropic",
+    "name": "Datasite",
+    "description": "Manage your M&A data room from Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/datasite"
+  },
+  {
+    "id": "a-day-ai",
+    "vendorId": "anthropic",
+    "name": "Day AI",
+    "description": "Know everything about your prospects & customers with CRMx",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/day-ai"
+  },
+  {
+    "id": "a-d-b-risk-analytics",
+    "vendorId": "anthropic",
+    "name": "D&B Risk Analytics",
+    "description": "Execute risk workflows powered by the D&B Commercial Graph™",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dnb-risk-analytics"
+  },
+  {
+    "id": "a-dbt",
+    "vendorId": "anthropic",
+    "name": "dbt",
+    "description": "Explore, query, and build with dbt projects",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dbt"
+  },
+  {
+    "id": "a-definely",
+    "vendorId": "anthropic",
+    "name": "Definely",
+    "description": "Structured contract review tools for legal teams",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/definely"
+  },
+  {
+    "id": "a-descript",
+    "vendorId": "anthropic",
+    "name": "Descript",
+    "description": "Import, edit, or create video with prompts",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/descript"
+  },
+  {
+    "id": "a-descrybe-legal-engine",
+    "vendorId": "anthropic",
+    "name": "Descrybe Legal Engine",
+    "description": "Ground your work in clean, structured U.S. primary law",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/descrybe-legal-engine"
+  },
+  {
+    "id": "a-dice",
+    "vendorId": "anthropic",
+    "name": "Dice",
+    "description": "Find active tech jobs on Dice",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dice"
+  },
+  {
+    "id": "a-digits",
+    "vendorId": "anthropic",
+    "name": "Digits",
+    "description": "Track and analyze your finances with Digits",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/digits"
+  },
+  {
+    "id": "a-directbooker",
+    "vendorId": "anthropic",
+    "name": "DirectBooker",
+    "description": "Compare hotels, then book direct",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/directbooker"
+  },
+  {
+    "id": "a-docuseal",
+    "vendorId": "anthropic",
+    "name": "DocuSeal",
+    "description": "Sign, send & manage documents with DocuSeal",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/docuseal"
+  },
+  {
+    "id": "a-docusign",
+    "vendorId": "anthropic",
+    "name": "Docusign",
+    "description": "Intelligent, secure contract management by Docusign",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/docusign"
+  },
+  {
+    "id": "a-doordash",
+    "vendorId": "anthropic",
+    "name": "DoorDash",
+    "description": "Food delivery & Reservations",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/doordash"
+  },
+  {
+    "id": "a-dovetail",
+    "vendorId": "anthropic",
+    "name": "Dovetail",
+    "description": "Turn scattered feedback into decisions grounded in customer evidence",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dovetail"
+  },
+  {
+    "id": "a-dremio-cloud",
+    "vendorId": "anthropic",
+    "name": "Dremio Cloud",
+    "description": "Analyze and get insights from your lakehouse data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dremio-cloud"
+  },
+  {
+    "id": "a-egnyte",
+    "vendorId": "anthropic",
+    "name": "Egnyte",
+    "description": "Securely access and analyze Egnyte content.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/egnyte"
+  },
+  {
+    "id": "a-embat",
+    "vendorId": "anthropic",
+    "name": "Embat",
+    "description": "Ask Embat about cash, debt, payments, and accounting",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/embat"
+  },
+  {
+    "id": "a-enterpret",
+    "vendorId": "anthropic",
+    "name": "Enterpret",
+    "description": "Get answers from unified feedback of your customers.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/enterpret"
+  },
+  {
+    "id": "a-era-context",
+    "vendorId": "anthropic",
+    "name": "Era Context",
+    "description": "Manage your personal finances using Claude",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/era-context"
+  },
+  {
+    "id": "a-eraser",
+    "vendorId": "anthropic",
+    "name": "Eraser",
+    "description": "Generate, manage, and update Eraser diagrams and files",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/eraser"
+  },
+  {
+    "id": "a-euler",
+    "vendorId": "anthropic",
+    "name": "EULER",
+    "description": "Manage your partner program and access your Partner Data Lake with Claude.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/euler"
+  },
+  {
+    "id": "a-everlaw",
+    "vendorId": "anthropic",
+    "name": "Everlaw",
+    "description": "Search and explore your Everlaw database in Claude.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/everlaw"
+  },
+  {
+    "id": "a-exa",
+    "vendorId": "anthropic",
+    "name": "Exa",
+    "description": "Web Search + Code Docs Search",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/exa"
+  },
+  {
+    "id": "a-excalidraw",
+    "vendorId": "anthropic",
+    "name": "Excalidraw",
+    "description": "MCP for creating interactive hand-drawn diagrams in Excalidraw",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/excalidraw-app-demo"
+  },
+  {
+    "id": "a-expedia",
+    "vendorId": "anthropic",
+    "name": "Expedia",
+    "description": "Plan trips, flights and hotels",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/expedia"
+  },
+  {
+    "id": "a-factset-ai-ready-data",
+    "vendorId": "anthropic",
+    "name": "FactSet AI-Ready Data",
+    "description": "Access institutional-quality financial data and analytics",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/factset"
+  },
+  {
+    "id": "a-fathom",
+    "vendorId": "anthropic",
+    "name": "Fathom",
+    "description": "Your meetings, now part of every Claude conversation",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fathom"
+  },
+  {
+    "id": "a-fellow-ai",
+    "vendorId": "anthropic",
+    "name": "Fellow.ai",
+    "description": "Chat with your meetings to uncover actionable insights",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fellow-ai"
+  },
+  {
+    "id": "a-felt-maps",
+    "vendorId": "anthropic",
+    "name": "Felt Maps",
+    "description": "Map and analyze your geospatial data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/felt-maps"
+  },
+  {
+    "id": "a-fever-event-discovery",
+    "vendorId": "anthropic",
+    "name": "Fever Event Discovery",
+    "description": "Discover live entertainment events worldwide",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fever-event-discovery"
+  },
+  {
+    "id": "a-figma",
+    "vendorId": "anthropic",
+    "name": "Figma",
+    "description": "Turn code into editable designs, visuals, and diagrams",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/figma"
+  },
+  {
+    "id": "a-fireflies",
+    "vendorId": "anthropic",
+    "name": "Fireflies",
+    "description": "Analyze and generate insights from meeting transcripts",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fireflies"
+  },
+  {
+    "id": "a-fiscal-ai",
+    "vendorId": "anthropic",
+    "name": "Fiscal.ai",
+    "description": "Clean Public Equity Fundamental Data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fiscal-ai"
+  },
+  {
+    "id": "a-fitch-solutions",
+    "vendorId": "anthropic",
+    "name": "Fitch Solutions",
+    "description": "Fitch credit intelligence, inside your AI workflow",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fitch-solutions"
+  },
+  {
+    "id": "a-fmp",
+    "vendorId": "anthropic",
+    "name": "FMP",
+    "description": "Comprehensive financial datasets",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fmp"
+  },
+  {
+    "id": "a-freshservice",
+    "vendorId": "anthropic",
+    "name": "Freshservice",
+    "description": "Manage tickets, assets, changes, and IT requests",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/freshservice"
+  },
+  {
+    "id": "a-function-beta",
+    "vendorId": "anthropic",
+    "name": "Function (beta)",
+    "description": "View lab test results summaries, get nutrition plans",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/function"
+  },
+  {
+    "id": "a-fyxer",
+    "vendorId": "anthropic",
+    "name": "Fyxer",
+    "description": "Search your inbox, and draft replies in your voice",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/fyxer"
+  },
+  {
+    "id": "a-g2",
+    "vendorId": "anthropic",
+    "name": "G2",
+    "description": "Bring real buyer signals into AI workflows",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/g2"
+  },
+  {
+    "id": "a-gainsight-cs",
+    "vendorId": "anthropic",
+    "name": "Gainsight (CS)",
+    "description": "Query, write back and automate with real-time CS data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gainsight-cs"
+  },
+  {
+    "id": "a-gainsight-staircase-ai",
+    "vendorId": "anthropic",
+    "name": "Gainsight (Staircase AI)",
+    "description": "Power AI Workflows with Customer Context",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gainsight-staircase-ai"
+  },
+  {
+    "id": "a-gamma",
+    "vendorId": "anthropic",
+    "name": "Gamma",
+    "description": "Create presentations, docs, socials, and sites with AI",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gamma"
+  },
+  {
+    "id": "a-github-mcp",
+    "vendorId": "anthropic",
+    "name": "GitHub MCP",
+    "description": "The Official GitHub MCP Server",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/github"
+  },
+  {
+    "id": "a-gitlab",
+    "vendorId": "anthropic",
+    "name": "GitLab",
+    "description": "Connect AI tools securely to your GitLab data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gitlab"
+  },
+  {
+    "id": "a-glean",
+    "vendorId": "anthropic",
+    "name": "Glean",
+    "description": "Bring enterprise context to Claude and your AI tools",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/glean"
+  },
+  {
+    "id": "a-glovo",
+    "vendorId": "anthropic",
+    "name": "Glovo",
+    "description": "Anything delivered in minutes",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/glovo"
+  },
+  {
+    "id": "a-gmail",
+    "vendorId": "anthropic",
+    "name": "Gmail",
+    "description": "Search your emails, surface insights, and draft replies",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gmail"
+  },
+  {
+    "id": "a-gocardless",
+    "vendorId": "anthropic",
+    "name": "GoCardless",
+    "description": "Ask about your payments, customers, and payouts",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gocardless"
+  },
+  {
+    "id": "a-godaddy",
+    "vendorId": "anthropic",
+    "name": "GoDaddy",
+    "description": "Search domains and check availability",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/godaddy"
+  },
+  {
+    "id": "a-goodnotes",
+    "vendorId": "anthropic",
+    "name": "Goodnotes",
+    "description": "Turn AI insights into documents",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/goodnotes"
+  },
+  {
+    "id": "a-google-calendar",
+    "vendorId": "anthropic",
+    "name": "Google Calendar",
+    "description": "Schedule meetings based on availability, manage invites, and RSVP on your behalf",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/google-calendar"
+  },
+  {
+    "id": "a-google-cloud-bigquery",
+    "vendorId": "anthropic",
+    "name": "Google Cloud BigQuery",
+    "description": "BigQuery: Advanced analytical insights for agents",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/bigquery"
+  },
+  {
+    "id": "a-google-compute-engine",
+    "vendorId": "anthropic",
+    "name": "Google Compute Engine",
+    "description": "MCP server for Google Compute Engine",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/google-compute-engine"
+  },
+  {
+    "id": "a-google-drive",
+    "vendorId": "anthropic",
+    "name": "Google Drive",
+    "description": "Search and read your Docs, Sheets, and Slides in Claude",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/google-drive"
+  },
+  {
+    "id": "a-govtribe",
+    "vendorId": "anthropic",
+    "name": "GovTribe",
+    "description": "Search government procurement & spending data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/govtribe"
+  },
+  {
+    "id": "a-grain",
+    "vendorId": "anthropic",
+    "name": "Grain",
+    "description": "Put your meetings to work",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/grain"
+  },
+  {
+    "id": "a-granola",
+    "vendorId": "anthropic",
+    "name": "Granola",
+    "description": "The AI notepad for meetings",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/granola"
+  },
+  {
+    "id": "a-granted",
+    "vendorId": "anthropic",
+    "name": "Granted",
+    "description": "Discover every grant opportunity in existence.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/granted"
+  },
+  {
+    "id": "a-graphos-mcp-tools",
+    "vendorId": "anthropic",
+    "name": "GraphOS MCP Tools",
+    "description": "Search Apollo docs, specs, and best practices",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/graphos-tools"
+  },
+  {
+    "id": "a-grasshopper-bank",
+    "vendorId": "anthropic",
+    "name": "Grasshopper Bank",
+    "description": "Query and analyze your financial data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/grasshopper-bank"
+  },
+  {
+    "id": "a-guidepoint",
+    "vendorId": "anthropic",
+    "name": "Guidepoint",
+    "description": "Real-time access to trusted expert knowledge",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/guidepoint"
+  },
+  {
+    "id": "a-guru",
+    "vendorId": "anthropic",
+    "name": "Guru",
+    "description": "Search and interact with your company knowledge",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/guru"
+  },
+  {
+    "id": "a-gusto",
+    "vendorId": "anthropic",
+    "name": "Gusto",
+    "description": "Query and analyze your Gusto data",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/gusto"
+  },
+  {
+    "id": "a-harmonic",
+    "vendorId": "anthropic",
+    "name": "Harmonic",
+    "description": "Discover, research, and enrich companies and people",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/harmonic"
+  },
+  {
+    "id": "a-harness-io",
+    "vendorId": "anthropic",
+    "name": "Harness.io",
+    "description": "Build, Ship and Secure your apps on Harness Platform",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/harness"
+  },
+  {
+    "id": "a-harvey",
+    "vendorId": "anthropic",
+    "name": "Harvey",
+    "description": "Answer legal queries, search vaults, and research",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/harvey"
+  },
+  {
+    "id": "a-healthex-beta",
+    "vendorId": "anthropic",
+    "name": "HealthEx (beta)",
+    "description": "Connect your health records for personalized insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/healthex"
+  },
+  {
+    "id": "a-hex",
+    "vendorId": "anthropic",
+    "name": "Hex",
+    "description": "Answer questions with the Hex agent",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/hex"
+  },
+  {
+    "id": "a-highspot",
+    "vendorId": "anthropic",
+    "name": "Highspot",
+    "description": "Search, share content, and take action to win deals",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/highspot"
+  },
+  {
+    "id": "a-honeycomb",
+    "vendorId": "anthropic",
+    "name": "Honeycomb",
+    "description": "Query and explore observability data and SLOs",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/honeycomb"
+  },
+  {
+    "id": "a-hubspot",
+    "vendorId": "anthropic",
+    "name": "Hubspot",
+    "description": "Chat with your CRM data to get personalized insights",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/hubspot"
+  },
+  {
+    "id": "a-hugging-face",
+    "vendorId": "anthropic",
+    "name": "Hugging Face",
+    "description": "Access the HF Hub and thousands of Gradio Apps",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/hugging-face"
+  },
+  {
+    "id": "a-hyperframes-by-heygen",
+    "vendorId": "anthropic",
+    "name": "HyperFrames by HeyGen",
+    "description": "Build animated slides and motion graphics with HTML",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/hyperframes-heygen"
+  },
+  {
+    "id": "a-ibisworld",
+    "vendorId": "anthropic",
+    "name": "IBISWorld",
+    "description": "Financials, risk data and analysis on 50,000 industries",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ibisworld"
+  },
+  {
+    "id": "a-icd-10-codes",
+    "vendorId": "anthropic",
+    "name": "ICD-10 Codes",
+    "description": "Access ICD-10-CM and ICD-10-PCS code sets",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/icd-10-codes"
+  },
+  {
+    "id": "a-ice-data-services",
+    "vendorId": "anthropic",
+    "name": "ICE Data Services",
+    "description": "Analyze U.S. fixed income trade and reference data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ice-data-services"
+  },
+  {
+    "id": "a-ifttt",
+    "vendorId": "anthropic",
+    "name": "IFTTT",
+    "description": "Connect, control, and automate 1,000+ apps with IFTTT",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ifttt"
+  },
+  {
+    "id": "a-imanage-work",
+    "vendorId": "anthropic",
+    "name": "iManage Work",
+    "description": "Governed knowledge. AI ready.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/imanage"
+  },
+  {
+    "id": "a-incident-io",
+    "vendorId": "anthropic",
+    "name": "incident.io",
+    "description": "See and manage everything in incident.io",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/incident-io"
+  },
+  {
+    "id": "a-indeed",
+    "vendorId": "anthropic",
+    "name": "Indeed",
+    "description": "Search for jobs on Indeed",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/indeed"
+  },
+  {
+    "id": "a-instacart",
+    "vendorId": "anthropic",
+    "name": "Instacart",
+    "description": "Groceries and more delivered as fast as 30 minutes",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/instacart"
+  },
+  {
+    "id": "a-instrumentl",
+    "vendorId": "anthropic",
+    "name": "Instrumentl",
+    "description": "Find, evaluate, and manage your grants",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/instrumentl"
+  },
+  {
+    "id": "a-intapp-celeste",
+    "vendorId": "anthropic",
+    "name": "Intapp Celeste",
+    "description": "Securely, compliantly access Intapp Celeste products",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/intapp-celeste"
+  },
+  {
+    "id": "a-interactive-brokers-ibkr",
+    "vendorId": "anthropic",
+    "name": "Interactive Brokers (IBKR)",
+    "description": "Trade, invest, analyze, and manage global markets",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/interactive-brokers"
+  },
+  {
+    "id": "a-intercom",
+    "vendorId": "anthropic",
+    "name": "Intercom",
+    "description": "AI access to Intercom data for better customer insights",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/intercom"
+  },
+  {
+    "id": "a-intuit-quickbooks",
+    "vendorId": "anthropic",
+    "name": "Intuit QuickBooks",
+    "description": "Business Finances made simple",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/intuit-quickbooks"
+  },
+  {
+    "id": "a-intuit-turbotax",
+    "vendorId": "anthropic",
+    "name": "Intuit TurboTax",
+    "description": "Estimate tax refunds and connect with live tax experts",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/intuit-turbotax"
+  },
+  {
+    "id": "a-ironclad-contracts",
+    "vendorId": "anthropic",
+    "name": "Ironclad Contracts",
+    "description": "Plain language search for faster contract answers",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ironclad-contracts"
+  },
+  {
+    "id": "a-isolved-people-cloud",
+    "vendorId": "anthropic",
+    "name": "isolved People Cloud",
+    "description": "Manage your time off without leaving Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/isolved"
+  },
+  {
+    "id": "a-jam",
+    "vendorId": "anthropic",
+    "name": "Jam",
+    "description": "Record screen and collect automatic context for issues",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/jam"
+  },
+  {
+    "id": "a-jentic",
+    "vendorId": "anthropic",
+    "name": "Jentic",
+    "description": "One connection to access all your tools securely",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/jentic"
+  },
+  {
+    "id": "a-jotform",
+    "vendorId": "anthropic",
+    "name": "Jotform",
+    "description": "Create forms & analyze submissions inside Claude",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/jotform"
+  },
+  {
+    "id": "a-ketryx",
+    "vendorId": "anthropic",
+    "name": "Ketryx",
+    "description": "Search and explore regulated software lifecycle data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ketryx"
+  },
+  {
+    "id": "a-kindora-funder-discovery",
+    "vendorId": "anthropic",
+    "name": "Kindora Funder Discovery",
+    "description": "Find funders who support causes like yours",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/kindora-funder-discovery"
+  },
+  {
+    "id": "a-kiwi-com",
+    "vendorId": "anthropic",
+    "name": "Kiwi.com",
+    "description": "Search flights in Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/kiwi-com"
+  },
+  {
+    "id": "a-klaviyo",
+    "vendorId": "anthropic",
+    "name": "Klaviyo",
+    "description": "Report, strategize & create with real-time Klaviyo data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/klaviyo"
+  },
+  {
+    "id": "a-kpler",
+    "vendorId": "anthropic",
+    "name": "Kpler",
+    "description": "Explore Kpler's maritime and commodities intelligence",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/kpler"
+  },
+  {
+    "id": "a-krisp",
+    "vendorId": "anthropic",
+    "name": "Krisp",
+    "description": "Add your meetings context via transcripts and notes",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/krisp"
+  },
+  {
+    "id": "a-lastminute-com",
+    "vendorId": "anthropic",
+    "name": "lastminute.com",
+    "description": "Search, compare and book flights, dynamic packages (flight + hotel) and hotels across global airlines and hotel suppliers.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lastminute-com"
+  },
+  {
+    "id": "a-lawve-ai",
+    "vendorId": "anthropic",
+    "name": "Lawve AI",
+    "description": "Discover expert-written skills for legal work",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lawve-ai"
+  },
+  {
+    "id": "a-learning-commons-knowledge-graph",
+    "vendorId": "anthropic",
+    "name": "Learning Commons Knowledge Graph",
+    "description": "K-12 standards, skills, and learning progressions",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/learning-commons-knowledge-graph"
+  },
+  {
+    "id": "a-legal-data-hunter",
+    "vendorId": "anthropic",
+    "name": "Legal Data Hunter",
+    "description": "Search 23M+ legal docs in 160+ jurisdictions.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/legal-data-hunter"
+  },
+  {
+    "id": "a-legalzoom",
+    "vendorId": "anthropic",
+    "name": "LegalZoom",
+    "description": "Attorney guidance & tools for business & personal needs",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/legalzoom"
+  },
+  {
+    "id": "a-lightfield",
+    "vendorId": "anthropic",
+    "name": "Lightfield",
+    "description": "CRM that remembers everything and works for you.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lightfield"
+  },
+  {
+    "id": "a-lilt",
+    "vendorId": "anthropic",
+    "name": "LILT",
+    "description": "High-quality translation with human verification",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lilt"
+  },
+  {
+    "id": "a-linear",
+    "vendorId": "anthropic",
+    "name": "Linear",
+    "description": "Manage issues, projects & team workflows in Linear",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/linear"
+  },
+  {
+    "id": "a-listen-labs",
+    "vendorId": "anthropic",
+    "name": "Listen Labs",
+    "description": "Analyze user insights from Listen Labs",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/listen-labs"
+  },
+  {
+    "id": "a-lloyd-by-the-l-suite",
+    "vendorId": "anthropic",
+    "name": "Lloyd by The L Suite",
+    "description": "Inhouse counsel insights for members of The L Suite",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lloyd"
+  },
+  {
+    "id": "a-local-falcon",
+    "vendorId": "anthropic",
+    "name": "Local Falcon",
+    "description": "AI visibility and local search intelligence platform",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/local-falcon"
+  },
+  {
+    "id": "a-lorikeet",
+    "vendorId": "anthropic",
+    "name": "Lorikeet",
+    "description": "A universal concierge for complex businesses",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lorikeet"
+  },
+  {
+    "id": "a-lovable",
+    "vendorId": "anthropic",
+    "name": "Lovable",
+    "description": "Build, iterate, inspect, and deploy Lovable apps",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lovable"
+  },
+  {
+    "id": "a-lseg",
+    "vendorId": "anthropic",
+    "name": "LSEG",
+    "description": "Access best in class data & analytics across a broad spectrum of asset classes",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/london-stock-exchange-group"
+  },
+  {
+    "id": "a-lucid",
+    "vendorId": "anthropic",
+    "name": "Lucid",
+    "description": "Ideate, diagram, and align teams",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lucid"
+  },
+  {
+    "id": "a-lumin",
+    "vendorId": "anthropic",
+    "name": "Lumin",
+    "description": "Manage documents, send signature requests, and convert Markdown to PDF",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lumin"
+  },
+  {
+    "id": "a-lunarcrush",
+    "vendorId": "anthropic",
+    "name": "LunarCrush",
+    "description": "Add real-time social media data to your searches",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lunarcrush"
+  },
+  {
+    "id": "a-lusha",
+    "vendorId": "anthropic",
+    "name": "Lusha",
+    "description": "Find and enrich B2B contacts and companies",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/lusha"
+  },
+  {
+    "id": "a-magic-patterns",
+    "vendorId": "anthropic",
+    "name": "Magic Patterns",
+    "description": "Discuss and iterate on Magic Patterns designs",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/magic-patterns"
+  },
+  {
+    "id": "a-mailerlite",
+    "vendorId": "anthropic",
+    "name": "MailerLite",
+    "description": "Turn Claude into your email marketing assistant",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mailerlite"
+  },
+  {
+    "id": "a-make",
+    "vendorId": "anthropic",
+    "name": "Make",
+    "description": "Run Make scenarios and manage your Make account",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/make"
+  },
+  {
+    "id": "a-malwarebytes",
+    "vendorId": "anthropic",
+    "name": "Malwarebytes",
+    "description": "Check links, phones, and emails for scams",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/malwarebytes"
+  },
+  {
+    "id": "a-medidata",
+    "vendorId": "anthropic",
+    "name": "Medidata",
+    "description": "Medidata provides clinical trial software solutions",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/medidata"
+  },
+  {
+    "id": "a-melon",
+    "vendorId": "anthropic",
+    "name": "Melon",
+    "description": "Browse music charts & your personalized music picks",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/melon"
+  },
+  {
+    "id": "a-mem",
+    "vendorId": "anthropic",
+    "name": "Mem",
+    "description": "The AI notebook for everything on your mind",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mem"
+  },
+  {
+    "id": "a-mercury",
+    "vendorId": "anthropic",
+    "name": "Mercury",
+    "description": "Search, analyze and understand your finances on Mercury",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mercury"
+  },
+  {
+    "id": "a-mermaid-chart",
+    "vendorId": "anthropic",
+    "name": "Mermaid Chart",
+    "description": "Validates Mermaid syntax, renders diagrams as high-quality SVG, and displays them instantly in an interactive UI where users can preview, zoom, and iterate in real time.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mermaid-chart"
+  },
+  {
+    "id": "a-metabase",
+    "vendorId": "anthropic",
+    "name": "Metabase",
+    "description": "Query and explore your Metabase data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/metabase"
+  },
+  {
+    "id": "a-metaview",
+    "vendorId": "anthropic",
+    "name": "Metaview",
+    "description": "The AI platform for recruiting.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/metaview"
+  },
+  {
+    "id": "a-microsoft-365",
+    "vendorId": "anthropic",
+    "name": "Microsoft 365",
+    "description": "Access SharePoint, OneDrive, Outlook, and Teams context directly in Claude",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/microsoft-365"
+  },
+  {
+    "id": "a-microsoft-dataverse",
+    "vendorId": "anthropic",
+    "name": "Microsoft Dataverse",
+    "description": "Query, create, update, and search your Dataverse data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/dataverse"
+  },
+  {
+    "id": "a-microsoft-learn",
+    "vendorId": "anthropic",
+    "name": "Microsoft Learn",
+    "description": "Search trusted Microsoft docs to power your development",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/microsoft-learn"
+  },
+  {
+    "id": "a-midpage-legal-research",
+    "vendorId": "anthropic",
+    "name": "Midpage Legal Research",
+    "description": "Conduct legal research and create work product",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/midpage"
+  },
+  {
+    "id": "a-mintlify",
+    "vendorId": "anthropic",
+    "name": "Mintlify",
+    "description": "Search, read, and edit your documentation",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mintlify"
+  },
+  {
+    "id": "a-miro",
+    "vendorId": "anthropic",
+    "name": "Miro",
+    "description": "From a single prompt, build workshops, visualize complex ideas, search across boards, and act on feedback agentically",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/miro"
+  },
+  {
+    "id": "a-mixpanel",
+    "vendorId": "anthropic",
+    "name": "Mixpanel",
+    "description": "Analyze, query, and manage your Mixpanel data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mixpanel"
+  },
+  {
+    "id": "a-monday",
+    "vendorId": "anthropic",
+    "name": "Monday",
+    "description": "Manage projects, boards, and workflows in monday.com",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/monday"
+  },
+  {
+    "id": "a-monte-carlo",
+    "vendorId": "anthropic",
+    "name": "Monte Carlo",
+    "description": "Data & AI observability",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/monte-carlo"
+  },
+  {
+    "id": "a-moody-s-analytics",
+    "vendorId": "anthropic",
+    "name": "Moody's Analytics",
+    "description": "Risk insights, analytics, and decision intelligence",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/moodys-analytics"
+  },
+  {
+    "id": "a-morningstar",
+    "vendorId": "anthropic",
+    "name": "Morningstar",
+    "description": "Up-to-date investment and market insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/morningstar"
+  },
+  {
+    "id": "a-morningstar-credit-analytics",
+    "vendorId": "anthropic",
+    "name": "Morningstar Credit Analytics",
+    "description": "Structured credit insights and analytics",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/morningstar-credit-analytics"
+  },
+  {
+    "id": "a-motherduck",
+    "vendorId": "anthropic",
+    "name": "MotherDuck",
+    "description": "Get answers from your data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/motherduck"
+  },
+  {
+    "id": "a-motion-creative-analytics",
+    "vendorId": "anthropic",
+    "name": "Motion Creative Analytics",
+    "description": "Analyze your Meta ad creative & competitor ad libraries",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/motion"
+  },
+  {
+    "id": "a-msci",
+    "vendorId": "anthropic",
+    "name": "MSCI",
+    "description": "Turn data into insight",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/msci"
+  },
+  {
+    "id": "a-mt-newswires",
+    "vendorId": "anthropic",
+    "name": "MT Newswires",
+    "description": "Trusted real-time global financial news provider",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/mt-newswires"
+  },
+  {
+    "id": "a-n8n",
+    "vendorId": "anthropic",
+    "name": "n8n",
+    "description": "Access and run your n8n workflows",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/n8n"
+  },
+  {
+    "id": "a-natoma",
+    "vendorId": "anthropic",
+    "name": "Natoma",
+    "description": "Access all your internal tools, enterprise apps & data.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/natoma"
+  },
+  {
+    "id": "a-netdocuments",
+    "vendorId": "anthropic",
+    "name": "NetDocuments",
+    "description": "Securely access your documents in NetDocuments",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/netdocuments"
+  },
+  {
+    "id": "a-netlify",
+    "vendorId": "anthropic",
+    "name": "Netlify",
+    "description": "Create, deploy, manage, and secure websites on Netlify",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/netlify"
+  },
+  {
+    "id": "a-nimble",
+    "vendorId": "anthropic",
+    "name": "Nimble",
+    "description": "Real-time web search & extraction for AI agents",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/nimble"
+  },
+  {
+    "id": "a-notion",
+    "vendorId": "anthropic",
+    "name": "Notion",
+    "description": "Connect your Notion workspace to search, update, and power workflows across tools",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/notion"
+  },
+  {
+    "id": "a-npi-registry",
+    "vendorId": "anthropic",
+    "name": "NPI Registry",
+    "description": "Access US National Provider Identifier (NPI) Registry",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/npi-registry"
+  },
+  {
+    "id": "a-omni-analytics",
+    "vendorId": "anthropic",
+    "name": "Omni Analytics",
+    "description": "Query your data using natural language through Omni's semantic model",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/omni-analytics"
+  },
+  {
+    "id": "a-ontra",
+    "vendorId": "anthropic",
+    "name": "Ontra",
+    "description": "Query your Ontra data directly from any AI tool",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ontra"
+  },
+  {
+    "id": "a-open-targets",
+    "vendorId": "anthropic",
+    "name": "Open Targets",
+    "description": "Drug target discovery and prioritisation platform",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/open-targets"
+  },
+  {
+    "id": "a-oracle-netsuite",
+    "vendorId": "anthropic",
+    "name": "Oracle NetSuite",
+    "description": "Connect Claude to NetSuite data for analysis & insights",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/oracle-netsuite"
+  },
+  {
+    "id": "a-order-by-cash-app",
+    "vendorId": "anthropic",
+    "name": "Order by Cash App",
+    "description": "Discover local food spots and order with a conversation",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/cash-app"
+  },
+  {
+    "id": "a-orion-by-gravity",
+    "vendorId": "anthropic",
+    "name": "Orion by Gravity",
+    "description": "Get insights from your autonomous AI analyst",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/orion"
+  },
+  {
+    "id": "a-otter-ai",
+    "vendorId": "anthropic",
+    "name": "Otter.ai",
+    "description": "Unlock your meeting intelligence",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/otter-ai"
+  },
+  {
+    "id": "a-otto-travel",
+    "vendorId": "anthropic",
+    "name": "Otto Travel",
+    "description": "Plan, book, and manage business travel",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/otto-travel"
+  },
+  {
+    "id": "a-outlook",
+    "vendorId": "anthropic",
+    "name": "Outlook",
+    "description": "Outlook connector for Claude.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/outlook"
+  },
+  {
+    "id": "a-outreach",
+    "vendorId": "anthropic",
+    "name": "Outreach",
+    "description": "Unleash your team's best performance with Outreach AI",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/outreach"
+  },
+  {
+    "id": "a-owkin",
+    "vendorId": "anthropic",
+    "name": "Owkin",
+    "description": "Interact with AI agents built for biology",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/owkin"
+  },
+  {
+    "id": "a-pagerduty",
+    "vendorId": "anthropic",
+    "name": "PagerDuty",
+    "description": "Manage incidents, services and on-call schedules",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pagerduty"
+  },
+  {
+    "id": "a-pandadoc",
+    "vendorId": "anthropic",
+    "name": "PandaDoc",
+    "description": "Create, send, sign and track documents",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pandadoc"
+  },
+  {
+    "id": "a-paypal",
+    "vendorId": "anthropic",
+    "name": "PayPal",
+    "description": "Access PayPal payments platform",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/paypal"
+  },
+  {
+    "id": "a-paytm-for-business",
+    "vendorId": "anthropic",
+    "name": "Paytm for Business",
+    "description": "Make Claude your Paytm Payments assistant",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/paytm-for-business"
+  },
+  {
+    "id": "a-peec-ai",
+    "vendorId": "anthropic",
+    "name": "Peec AI",
+    "description": "Analyze your brand's visibility across LLMs",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/peec-ai"
+  },
+  {
+    "id": "a-pendo",
+    "vendorId": "anthropic",
+    "name": "Pendo",
+    "description": "Connect to Pendo for product and user insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pendo"
+  },
+  {
+    "id": "a-pg-aiguide",
+    "vendorId": "anthropic",
+    "name": "pg-aiguide",
+    "description": "Search pg and Tiger docs, learn database skills",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pg-aiguide"
+  },
+  {
+    "id": "a-phoenix-by-hg-insights",
+    "vendorId": "anthropic",
+    "name": "Phoenix by HG Insights",
+    "description": "AI-powered B2B data intelligence & analytics",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/phoenix"
+  },
+  {
+    "id": "a-pigment",
+    "vendorId": "anthropic",
+    "name": "Pigment",
+    "description": "Analyze business data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pigment"
+  },
+  {
+    "id": "a-pitchbook",
+    "vendorId": "anthropic",
+    "name": "PitchBook",
+    "description": "PitchBook data, embedded in the way you work.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pitchbook"
+  },
+  {
+    "id": "a-plaid",
+    "vendorId": "anthropic",
+    "name": "Plaid",
+    "description": "Monitor, debug, and optimize your Plaid integration",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/plaid"
+  },
+  {
+    "id": "a-planetscale",
+    "vendorId": "anthropic",
+    "name": "PlanetScale",
+    "description": "Authenticated access to your Postgres and MySQL DBs",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/planetscale"
+  },
+  {
+    "id": "a-playmcp",
+    "vendorId": "anthropic",
+    "name": "PlayMCP",
+    "description": "Connect and use PlayMCP servers in your toolbox",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/playmcp"
+  },
+  {
+    "id": "a-polar-analytics",
+    "vendorId": "anthropic",
+    "name": "Polar Analytics",
+    "description": "Bring all your data in one place & connect it to Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/polar-analytics"
+  },
+  {
+    "id": "a-port-io",
+    "vendorId": "anthropic",
+    "name": "Port IO",
+    "description": "Build and query your developer portal and trigger developer workflows",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/port-io"
+  },
+  {
+    "id": "a-posthog",
+    "vendorId": "anthropic",
+    "name": "PostHog",
+    "description": "Query, analyze, and manage your PostHog insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/posthog"
+  },
+  {
+    "id": "a-postman",
+    "vendorId": "anthropic",
+    "name": "Postman",
+    "description": "Give API context to your coding agents",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/postman"
+  },
+  {
+    "id": "a-privacy-com",
+    "vendorId": "anthropic",
+    "name": "Privacy.com",
+    "description": "Manage virtual cards and track your spending patterns",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/privacy"
+  },
+  {
+    "id": "a-process-street",
+    "vendorId": "anthropic",
+    "name": "Process Street",
+    "description": "Explore and update your Process Street data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/process-street"
+  },
+  {
+    "id": "a-profound",
+    "vendorId": "anthropic",
+    "name": "Profound",
+    "description": "Pull Profound Visibility, Citation, & AI Bot Visit Data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/profound"
+  },
+  {
+    "id": "a-pubmed",
+    "vendorId": "anthropic",
+    "name": "PubMed",
+    "description": "Search biomedical literature from PubMed",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pubmed"
+  },
+  {
+    "id": "a-pylon",
+    "vendorId": "anthropic",
+    "name": "Pylon",
+    "description": "Search and manage Pylon support issues",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/pylon"
+  },
+  {
+    "id": "a-qlik",
+    "vendorId": "anthropic",
+    "name": "Qlik",
+    "description": "Analyze, integrate, and take action on your data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/qlik"
+  },
+  {
+    "id": "a-qonto",
+    "vendorId": "anthropic",
+    "name": "Qonto",
+    "description": "Manage your Qonto business finances from Claude",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/qonto"
+  },
+  {
+    "id": "a-quartr",
+    "vendorId": "anthropic",
+    "name": "Quartr",
+    "description": "Financial data and AI infrastructure for company research.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/quartr"
+  },
+  {
+    "id": "a-quicknode",
+    "vendorId": "anthropic",
+    "name": "QuickNode",
+    "description": "Manage blockchain infrastructure right in Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/quicknode"
+  },
+  {
+    "id": "a-quo",
+    "vendorId": "anthropic",
+    "name": "Quo",
+    "description": "Surface call insights and missed opportunities",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/quo"
+  },
+  {
+    "id": "a-ramp",
+    "vendorId": "anthropic",
+    "name": "Ramp",
+    "description": "Search, access, and analyze your Ramp financial data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ramp"
+  },
+  {
+    "id": "a-ramp-data",
+    "vendorId": "anthropic",
+    "name": "Ramp Data",
+    "description": "Search and analyze Ramp spend across 50,000+ businesses",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ramp-data"
+  },
+  {
+    "id": "a-razorpay",
+    "vendorId": "anthropic",
+    "name": "Razorpay",
+    "description": "Turn Claude into your Razorpay Dashboard Assistant",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/razorpay"
+  },
+  {
+    "id": "a-read-ai",
+    "vendorId": "anthropic",
+    "name": "Read AI",
+    "description": "Bring your meetings into Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/read-ai"
+  },
+  {
+    "id": "a-relativity",
+    "vendorId": "anthropic",
+    "name": "Relativity",
+    "description": "Organize Data. Discover the Truth. Act on It.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/relativity"
+  },
+  {
+    "id": "a-replit",
+    "vendorId": "anthropic",
+    "name": "Replit",
+    "description": "Turn ideas into apps and websites instantly",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/replit"
+  },
+  {
+    "id": "a-resy",
+    "vendorId": "anthropic",
+    "name": "Resy",
+    "description": "Find and book restaurants instantly",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/resy"
+  },
+  {
+    "id": "a-retool",
+    "vendorId": "anthropic",
+    "name": "Retool",
+    "description": "Build production apps and manage Retool with AI agents",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/retool"
+  },
+  {
+    "id": "a-rillet",
+    "vendorId": "anthropic",
+    "name": "Rillet",
+    "description": "Query your live GL and financials in plain English",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/rillet"
+  },
+  {
+    "id": "a-salesloft",
+    "vendorId": "anthropic",
+    "name": "Salesloft",
+    "description": "Query live data about deals, engagement, and pipeline",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/salesloft"
+  },
+  {
+    "id": "a-sandboxaq",
+    "vendorId": "anthropic",
+    "name": "SandboxAQ",
+    "description": "Large Quantitative Models for scientific discovery",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sandboxaq"
+  },
+  {
+    "id": "a-sanity",
+    "vendorId": "anthropic",
+    "name": "Sanity",
+    "description": "Create, query, and manage structured content in Sanity",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sanity"
+  },
+  {
+    "id": "a-scholar-gateway",
+    "vendorId": "anthropic",
+    "name": "Scholar Gateway",
+    "description": "Enhance responses with scholarly research and citations",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/scholar-gateway"
+  },
+  {
+    "id": "a-scite",
+    "vendorId": "anthropic",
+    "name": "Scite",
+    "description": "Evidence-based answers grounded in research",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/scite"
+  },
+  {
+    "id": "a-semrush",
+    "vendorId": "anthropic",
+    "name": "Semrush",
+    "description": "SEO, competitor research, and traffic analysis",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/semrush"
+  },
+  {
+    "id": "a-send",
+    "vendorId": "anthropic",
+    "name": "Send",
+    "description": "Create shareable documents, one-pagers, and decks",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/send"
+  },
+  {
+    "id": "a-sentry",
+    "vendorId": "anthropic",
+    "name": "Sentry",
+    "description": "Search, query, and debug errors intelligently",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sentry"
+  },
+  {
+    "id": "a-shapes",
+    "vendorId": "anthropic",
+    "name": "Shapes",
+    "description": "Analyse your live people data, right in Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/shapes"
+  },
+  {
+    "id": "a-shopify",
+    "vendorId": "anthropic",
+    "name": "Shopify",
+    "description": "Build, manage, and analyze your Shopify store",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/shopify"
+  },
+  {
+    "id": "a-sigma",
+    "vendorId": "anthropic",
+    "name": "Sigma",
+    "description": "Query, search, and explore your data with Sigma",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sigma"
+  },
+  {
+    "id": "a-signnow",
+    "vendorId": "anthropic",
+    "name": "SignNow",
+    "description": "Automate eSignature workflows directly from Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/signnow"
+  },
+  {
+    "id": "a-similarweb",
+    "vendorId": "anthropic",
+    "name": "Similarweb",
+    "description": "Real time web, mobile app, and market data.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/similarweb"
+  },
+  {
+    "id": "a-slack",
+    "vendorId": "anthropic",
+    "name": "Slack",
+    "description": "Send messages, create canvases, and fetch Slack data!",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/slack"
+  },
+  {
+    "id": "a-smartsheet",
+    "vendorId": "anthropic",
+    "name": "Smartsheet",
+    "description": "Analyze and manage Smartsheet data with Claude",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/smartsheet"
+  },
+  {
+    "id": "a-snowflake",
+    "vendorId": "anthropic",
+    "name": "Snowflake",
+    "description": "Retrieve both structured and unstructured data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/snowflake"
+  },
+  {
+    "id": "a-solve-intelligence",
+    "vendorId": "anthropic",
+    "name": "Solve Intelligence",
+    "description": "Search, draft, and chart patents",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/solve-intelligence"
+  },
+  {
+    "id": "a-sourcegraph",
+    "vendorId": "anthropic",
+    "name": "Sourcegraph",
+    "description": "Give Claude full enterprise-scale codebase context.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sourcegraph"
+  },
+  {
+    "id": "a-s-p-global",
+    "vendorId": "anthropic",
+    "name": "S&P Global",
+    "description": "Query a range of S&P Global datasets, like Financials",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/s-p-global"
+  },
+  {
+    "id": "a-spinach-ai",
+    "vendorId": "anthropic",
+    "name": "Spinach AI",
+    "description": "The system of action for conversation data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/spinach-ai"
+  },
+  {
+    "id": "a-splice",
+    "vendorId": "anthropic",
+    "name": "Splice",
+    "description": "Search Splice's sounds catalog, build stacks & more!",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/splice"
+  },
+  {
+    "id": "a-spotify",
+    "vendorId": "anthropic",
+    "name": "Spotify",
+    "description": "Music and podcast recommendations, just for you.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/spotify"
+  },
+  {
+    "id": "a-sprouts-data-intelligence",
+    "vendorId": "anthropic",
+    "name": "Sprouts Data Intelligence",
+    "description": "From query to qualified lead in seconds.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sprouts"
+  },
+  {
+    "id": "a-square",
+    "vendorId": "anthropic",
+    "name": "Square",
+    "description": "Search and manage transaction, merchant, and payment data",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/square"
+  },
+  {
+    "id": "a-starburst",
+    "vendorId": "anthropic",
+    "name": "Starburst",
+    "description": "Securely retrieve data from your federated data sources",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/starburst"
+  },
+  {
+    "id": "a-strava",
+    "vendorId": "anthropic",
+    "name": "Strava",
+    "description": "Analyze, summarize, and explore your Strava data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/strava"
+  },
+  {
+    "id": "a-stripe",
+    "vendorId": "anthropic",
+    "name": "Stripe",
+    "description": "Payment processing and financial infrastructure tools",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/stripe"
+  },
+  {
+    "id": "a-stubhub",
+    "vendorId": "anthropic",
+    "name": "StubHub",
+    "description": "Find tickets on the World's Largest Ticket Marketplace",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/stubhub"
+  },
+  {
+    "id": "a-stytch",
+    "vendorId": "anthropic",
+    "name": "Stytch",
+    "description": "Manage your Stytch Project",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/stytch"
+  },
+  {
+    "id": "a-sumble",
+    "vendorId": "anthropic",
+    "name": "Sumble",
+    "description": "Deep research any account's teams, tech, and people",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sumble"
+  },
+  {
+    "id": "a-supabase",
+    "vendorId": "anthropic",
+    "name": "Supabase",
+    "description": "Manage databases, authentication, and storage",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/supabase"
+  },
+  {
+    "id": "a-superhuman-mail",
+    "vendorId": "anthropic",
+    "name": "Superhuman Mail",
+    "description": "The most productive email app ever, for Gmail & Outlook",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/superhuman-mail"
+  },
+  {
+    "id": "a-supermetrics",
+    "vendorId": "anthropic",
+    "name": "Supermetrics",
+    "description": "Google Ads, Facebook Ads, Google Analytics, TikTok & 200+ marketing data sources",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/supermetrics"
+  },
+  {
+    "id": "a-surveymonkey",
+    "vendorId": "anthropic",
+    "name": "SurveyMonkey",
+    "description": "Design surveys, collect responses, and analyze results",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/surveymonkey"
+  },
+  {
+    "id": "a-swagger",
+    "vendorId": "anthropic",
+    "name": "Swagger",
+    "description": "Build, govern, and document APIs",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/swagger"
+  },
+  {
+    "id": "a-sybill",
+    "vendorId": "anthropic",
+    "name": "Sybill",
+    "description": "Ask AI about your sales calls, deals & pipeline",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sybill"
+  },
+  {
+    "id": "a-synapse-org",
+    "vendorId": "anthropic",
+    "name": "Synapse.org",
+    "description": "Search and metadata tools for Synapse scientific data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/synapse-org"
+  },
+  {
+    "id": "a-synthesize-bio",
+    "vendorId": "anthropic",
+    "name": "Synthesize Bio",
+    "description": "Generate gene expression from a virtual human",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/synthesize-bio"
+  },
+  {
+    "id": "a-tango",
+    "vendorId": "anthropic",
+    "name": "Tango",
+    "description": "Search for US Government Contracting Data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tango"
+  },
+  {
+    "id": "a-taskrabbit-booking-assistance",
+    "vendorId": "anthropic",
+    "name": "Taskrabbit Booking Assistance",
+    "description": "Find & book local Taskrabbit services near you",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/taskrabbit"
+  },
+  {
+    "id": "a-tavily",
+    "vendorId": "anthropic",
+    "name": "Tavily",
+    "description": "Connect your AI agents to the web",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tavily"
+  },
+  {
+    "id": "a-third-bridge",
+    "vendorId": "anthropic",
+    "name": "Third Bridge",
+    "description": "Expert-led enhanced insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/third-bridge"
+  },
+  {
+    "id": "a-thoughtspot-spotter",
+    "vendorId": "anthropic",
+    "name": "ThoughtSpot Spotter",
+    "description": "Your AI data analyst, from question to trusted insights",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/thoughtspot-spotter"
+  },
+  {
+    "id": "a-thumbtack",
+    "vendorId": "anthropic",
+    "name": "Thumbtack",
+    "description": "Find and hire local pros in Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/thumbtack"
+  },
+  {
+    "id": "a-ticket-tailor",
+    "vendorId": "anthropic",
+    "name": "Ticket Tailor",
+    "description": "Event platform for managing tickets, orders & more",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ticket-tailor"
+  },
+  {
+    "id": "a-tines",
+    "vendorId": "anthropic",
+    "name": "Tines",
+    "description": "Securely deploy servers in a matter of seconds in Tines",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tines"
+  },
+  {
+    "id": "a-tldv",
+    "vendorId": "anthropic",
+    "name": "tldv",
+    "description": "Fetch Transcripts & Notes from Meet, Zoom & Teams",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tldv"
+  },
+  {
+    "id": "a-todoist",
+    "vendorId": "anthropic",
+    "name": "Todoist",
+    "description": "Search, complete, and manage your tasks in Todoist",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/todoist"
+  },
+  {
+    "id": "a-tomtom-maps",
+    "vendorId": "anthropic",
+    "name": "TomTom Maps",
+    "description": "TomTom maps, routing, geocoding & traffic data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tomtom-maps"
+  },
+  {
+    "id": "a-tool-universe",
+    "vendorId": "anthropic",
+    "name": "Tool Universe",
+    "description": "AI scientists with 600+ scientific tools",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tool-universe"
+  },
+  {
+    "id": "a-topcounsel-by-the-l-suite",
+    "vendorId": "anthropic",
+    "name": "TopCounsel by The L Suite",
+    "description": "Outside Counsel recommendations from Inhouse Counsel",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/topcounsel"
+  },
+  {
+    "id": "a-tray-ai",
+    "vendorId": "anthropic",
+    "name": "Tray.ai",
+    "description": "Automate 700+ apps & workflows with governance",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tray-ai"
+  },
+  {
+    "id": "a-trellis",
+    "vendorId": "anthropic",
+    "name": "Trellis",
+    "description": "Claude for Trial Court Litigators",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/trellis"
+  },
+  {
+    "id": "a-trimble-sketchup",
+    "vendorId": "anthropic",
+    "name": "Trimble SketchUp",
+    "description": "Create and iterate 3D models for use in SketchUp",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/sketchup"
+  },
+  {
+    "id": "a-tripadvisor",
+    "vendorId": "anthropic",
+    "name": "Tripadvisor",
+    "description": "Find your perfect hotel based on Tripadvisor reviews",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tripadvisor"
+  },
+  {
+    "id": "a-trivago",
+    "vendorId": "anthropic",
+    "name": "Trivago",
+    "description": "Find your ideal hotel at the best price.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/trivago"
+  },
+  {
+    "id": "a-tropic",
+    "vendorId": "anthropic",
+    "name": "Tropic",
+    "description": "Save money on Software + AI contracts",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/tropic"
+  },
+  {
+    "id": "a-turkish-airlines",
+    "vendorId": "anthropic",
+    "name": "Turkish Airlines",
+    "description": "Search flights, plan trips, and manage bookings",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/turkish-airlines"
+  },
+  {
+    "id": "a-turquoise",
+    "vendorId": "anthropic",
+    "name": "Turquoise",
+    "description": "Query Turquoise's proprietary healthcare pricing data",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/turquoise"
+  },
+  {
+    "id": "a-twilio",
+    "vendorId": "anthropic",
+    "name": "Twilio",
+    "description": "Build powerful communications and customer engagement",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/twilio"
+  },
+  {
+    "id": "a-uber",
+    "vendorId": "anthropic",
+    "name": "Uber",
+    "description": "Get Uber price & time estimates for any ride option",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/uber"
+  },
+  {
+    "id": "a-uber-eats",
+    "vendorId": "anthropic",
+    "name": "Uber Eats",
+    "description": "Explore restaurants and dishes",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/uber-eats"
+  },
+  {
+    "id": "a-udemy-business",
+    "vendorId": "anthropic",
+    "name": "Udemy Business",
+    "description": "Search and explore skill-building resources",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/udemy-business"
+  },
+  {
+    "id": "a-unthread",
+    "vendorId": "anthropic",
+    "name": "Unthread",
+    "description": "Manage and automate your support tickets",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/unthread"
+  },
+  {
+    "id": "a-unwrap",
+    "vendorId": "anthropic",
+    "name": "Unwrap",
+    "description": "Search and analyze customer feedback",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/unwrap"
+  },
+  {
+    "id": "a-upwork",
+    "vendorId": "anthropic",
+    "name": "Upwork",
+    "description": "Hire talent with confidence",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/upwork"
+  },
+  {
+    "id": "a-vani-by-zoho",
+    "vendorId": "anthropic",
+    "name": "Vani by Zoho",
+    "description": "Search, create, edit, and share Vani Spaces",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/vani"
+  },
+  {
+    "id": "a-vercel",
+    "vendorId": "anthropic",
+    "name": "Vercel",
+    "description": "Analyze, debug, and manage projects and deployments",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/vercel"
+  },
+  {
+    "id": "a-verisk-underwriting-intelligence",
+    "vendorId": "anthropic",
+    "name": "Verisk Underwriting Intelligence",
+    "description": "Ask questions. Get underwriting insights from Verisk.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/verisk-underwriting-intelligence"
+  },
+  {
+    "id": "a-verisk-xactrestore",
+    "vendorId": "anthropic",
+    "name": "Verisk XactRestore",
+    "description": "Natural-language estimating for XactRestore",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/verisk-xactrestore"
+  },
+  {
+    "id": "a-viator",
+    "vendorId": "anthropic",
+    "name": "Viator",
+    "description": "Book travel experiences around the world",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/viator"
+  },
+  {
+    "id": "a-vibe-prospecting",
+    "vendorId": "anthropic",
+    "name": "Vibe Prospecting",
+    "description": "Find company & contact data",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/vibeprospecting"
+  },
+  {
+    "id": "a-visier",
+    "vendorId": "anthropic",
+    "name": "Visier",
+    "description": "Find people, productivity and business impact insights",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/visier"
+  },
+  {
+    "id": "a-webex-meetings",
+    "vendorId": "anthropic",
+    "name": "Webex Meetings",
+    "description": "AI-powered workflows for Webex meetings",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/webex-meetings"
+  },
+  {
+    "id": "a-webflow",
+    "vendorId": "anthropic",
+    "name": "Webflow",
+    "description": "Design pages, manage CMS content, and automate site tasks",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/webflow"
+  },
+  {
+    "id": "a-whimsical",
+    "vendorId": "anthropic",
+    "name": "Whimsical",
+    "description": "Create flowcharts, mindmaps, wireframes and diagrams",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/whimsical"
+  },
+  {
+    "id": "a-windsor-ai",
+    "vendorId": "anthropic",
+    "name": "Windsor.ai",
+    "description": "Connect Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads + 320 more",
+    "categoryId": "marketing",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/windsor-ai"
+  },
+  {
+    "id": "a-wix",
+    "vendorId": "anthropic",
+    "name": "Wix",
+    "description": "Manage and build sites and apps on Wix",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/wix"
+  },
+  {
+    "id": "a-wolfram",
+    "vendorId": "anthropic",
+    "name": "Wolfram",
+    "description": "Inject precise, real-time computation and knowledge",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/wolfram"
+  },
+  {
+    "id": "a-wordpress-com",
+    "vendorId": "anthropic",
+    "name": "WordPress.com",
+    "description": "Secure AI access to manage your WordPress.com sites",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/wordpress-com"
+  },
+  {
+    "id": "a-workable",
+    "vendorId": "anthropic",
+    "name": "Workable",
+    "description": "Your AI assistant for Hiring and HR — inside Workable",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/workable"
+  },
+  {
+    "id": "a-workato",
+    "vendorId": "anthropic",
+    "name": "Workato",
+    "description": "Automate workflows and connect your business apps",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/workato"
+  },
+  {
+    "id": "a-wrike",
+    "vendorId": "anthropic",
+    "name": "Wrike",
+    "description": "Manage, update and move work forward from Claude",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/wrike"
+  },
+  {
+    "id": "a-wyndham-hotels-and-resorts",
+    "vendorId": "anthropic",
+    "name": "Wyndham Hotels and Resorts",
+    "description": "Discover the right Wyndham Hotel for you, faster",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/wyndham-hotels"
+  },
+  {
+    "id": "a-xero",
+    "vendorId": "anthropic",
+    "name": "Xero",
+    "description": "Access your Xero financials from any conversation",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/xero"
+  },
+  {
+    "id": "a-yardi-matrix",
+    "vendorId": "anthropic",
+    "name": "Yardi Matrix",
+    "description": "Real estate market intelligence from Yardi Matrix",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/yardi-matrix"
+  },
+  {
+    "id": "a-yardi-virtuoso",
+    "vendorId": "anthropic",
+    "name": "Yardi Virtuoso",
+    "description": "Real-time Yardi data & insights",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/yardi-virtuoso"
+  },
+  {
+    "id": "a-zapier",
+    "vendorId": "anthropic",
+    "name": "Zapier",
+    "description": "Automate workflows across thousands of apps via conversation",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zapier"
+  },
+  {
+    "id": "a-ziprecruiter",
+    "vendorId": "anthropic",
+    "name": "ZipRecruiter",
+    "description": "Job search made easy",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/ziprecruiter"
+  },
+  {
+    "id": "a-zocks",
+    "vendorId": "anthropic",
+    "name": "Zocks",
+    "description": "Analyze client conversations, patterns, and insights.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zocks"
+  },
+  {
+    "id": "a-zoho-books",
+    "vendorId": "anthropic",
+    "name": "Zoho Books",
+    "description": "Zoho Books MCP for Smart Finance Ops",
+    "categoryId": "finance",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoho-books"
+  },
+  {
+    "id": "a-zoho-crm",
+    "vendorId": "anthropic",
+    "name": "Zoho CRM",
+    "description": "MCP Server for Zoho CRM Workflows",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoho-crm"
+  },
+  {
+    "id": "a-zoho-desk",
+    "vendorId": "anthropic",
+    "name": "Zoho Desk",
+    "description": "Zoho Desk MCP for Customer Support Automation",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoho-desk"
+  },
+  {
+    "id": "a-zoho-projects",
+    "vendorId": "anthropic",
+    "name": "Zoho Projects",
+    "description": "Zoho Projects MCP for Task & Project Automation",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoho-projects"
+  },
+  {
+    "id": "a-zoom-for-claude",
+    "vendorId": "anthropic",
+    "name": "Zoom for Claude",
+    "description": "Search, recap, and act on your Zoom meetings",
+    "categoryId": "data",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoom-for-claude"
+  },
+  {
+    "id": "a-zoominfo",
+    "vendorId": "anthropic",
+    "name": "ZoomInfo",
+    "description": "Enrich contacts & accounts with GTM intelligence",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/zoominfo"
+  }
+]
