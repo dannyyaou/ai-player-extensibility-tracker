@@ -4,7 +4,7 @@
     "vendorId": "openai",
     "name": "Web Browsing",
     "description": "Browse the web to find current information and answer questions with citations.",
-    "categoryId": "data",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -13,7 +13,7 @@
     "vendorId": "openai",
     "name": "Code Interpreter",
     "description": "Execute Python code in a sandboxed environment for data analysis and computation.",
-    "categoryId": "dev-tools",
+    "categoryId": "cloud-storage",
     "type": "official",
     "status": "stable"
   },
@@ -22,7 +22,7 @@
     "vendorId": "openai",
     "name": "DALL-E",
     "description": "Generate and edit images using DALL-E directly within ChatGPT.",
-    "categoryId": "productivity",
+    "categoryId": "communication",
     "type": "official",
     "status": "stable"
   },
@@ -31,7 +31,7 @@
     "vendorId": "openai",
     "name": "Zapier",
     "description": "Connect to 5000+ apps through Zapier automations via GPT Actions.",
-    "categoryId": "productivity",
+    "categoryId": "dev-tools",
     "type": "third-party",
     "status": "stable"
   },
@@ -40,7 +40,7 @@
     "vendorId": "openai",
     "name": "Canva",
     "description": "Create designs, presentations, and social media content using Canva.",
-    "categoryId": "marketing",
+    "categoryId": "design",
     "type": "third-party",
     "status": "stable"
   },
@@ -76,7 +76,7 @@
     "vendorId": "openai",
     "name": "Google Sheets",
     "description": "Read and manipulate Google Sheets data via GPT Actions.",
-    "categoryId": "data",
+    "categoryId": "productivity",
     "type": "third-party",
     "status": "stable"
   },

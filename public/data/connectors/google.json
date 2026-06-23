@@ -4,7 +4,7 @@
     "vendorId": "google",
     "name": "How connectors work",
     "description": "Connectors securely link Gemini Enterprise \u2013 Business edition to different applications and data sources commonly used by businesses and enterprises. These connectors let you search for information...",
-    "categoryId": "data",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -13,7 +13,7 @@
     "vendorId": "google",
     "name": "Gemini Enterprise \u2013 Business edition will only access what you specifically authorize.",
     "description": "Ensure that your connector is configured to allow\u00a0Gemini Enterprise \u2013 Business edition to access any data you wish to connect.",
-    "categoryId": "dev-tools",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -31,7 +31,7 @@
     "vendorId": "google",
     "name": "Supported actions in\u00a0Gemini Enterprise \u2013 Business edition",
     "description": "Gemini Enterprise \u2013 Business edition\u00a0allows authorized and authenticated users to take specified actions with supported connectors. Select the app name below to reveal the available actions for eac...",
-    "categoryId": "dev-tools",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -40,7 +40,7 @@
     "vendorId": "google",
     "name": "Supported actions for Google connectors",
     "description": "Supported actions for Google connectors extension for Google Gemini.",
-    "categoryId": "support",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -85,7 +85,7 @@
     "vendorId": "google",
     "name": "Supported actions for third-party connectors",
     "description": "Supported actions for third-party connectors extension for Google Gemini.",
-    "categoryId": "support",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -211,7 +211,7 @@
     "vendorId": "google",
     "name": "Notion",
     "description": "Notion extension for Google Gemini.",
-    "categoryId": "project-mgmt",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },
@@ -238,7 +238,7 @@
     "vendorId": "google",
     "name": "Help",
     "description": "1 of 1Connect your Google apps and third-party data",
-    "categoryId": "data",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://support.google.com/g?hl=en#topic=16538431"

@@ -1,7 +1,7 @@
 {
   "totalConnectors": 667,
   "totalVendors": 4,
-  "totalCategories": 13,
+  "totalCategories": 17,
   "coverageEntries": 25,
   "vendorCounts": {
     "microsoft": 239,
@@ -10,18 +10,22 @@
     "openai": 12
   },
   "categoryCounts": {
-    "communication": 78,
-    "productivity": 192,
-    "crm": 16,
-    "data": 142,
-    "dev-tools": 108,
-    "cloud-storage": 40,
-    "hr": 11,
-    "support": 23,
-    "project-mgmt": 18,
+    "productivity": 319,
+    "dev-tools": 72,
+    "cloud-storage": 49,
+    "data": 34,
+    "communication": 32,
+    "project-mgmt": 24,
+    "design": 22,
+    "support": 22,
+    "legal": 20,
+    "crm": 18,
+    "healthcare": 12,
+    "travel": 12,
+    "hr": 10,
+    "finance": 10,
     "marketing": 7,
-    "finance": 11,
-    "security": 3,
-    "healthcare": 12
+    "education": 3,
+    "ecommerce": 1
   }
 }

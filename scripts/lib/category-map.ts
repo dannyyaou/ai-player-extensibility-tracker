@@ -44,20 +44,30 @@ export const msCategoryMap: Record<string, string> = {
 };
 
 // Keyword-based categorization for MCP servers (no categories in the API)
+// ORDER MATTERS: specific categories first, broad catch-alls last.
 const mcpKeywordMap: Array<{ keywords: string[]; categoryId: string }> = [
-  { keywords: ['slack', 'discord', 'email', 'gmail', 'smtp', 'imap', 'chat', 'telegram', 'teams'], categoryId: 'communication' },
-  { keywords: ['salesforce', 'crm', 'hubspot', 'pipedrive', 'zoho crm'], categoryId: 'crm' },
-  { keywords: ['github', 'gitlab', 'bitbucket', 'docker', 'kubernetes', 'npm', 'code', 'git', 'ci', 'cd', 'jenkins', 'terraform', 'aws', 'azure', 'gcp', 'sentry', 'debug', 'compiler', 'ide', 'lint', 'build', 'deploy', 'puppeteer', 'playwright', 'selenium', 'test'], categoryId: 'dev-tools' },
-  { keywords: ['drive', 'dropbox', 'box', 's3', 'storage', 'file', 'filesystem', 'blob', 'minio', 'ftp', 'sftp'], categoryId: 'cloud-storage' },
-  { keywords: ['jira', 'asana', 'trello', 'linear', 'monday', 'project', 'todoist', 'clickup', 'notion', 'basecamp'], categoryId: 'project-mgmt' },
-  { keywords: ['workday', 'bamboo', 'gusto', 'adp', 'human resource', 'recruit', 'hiring', 'employee'], categoryId: 'hr' },
-  { keywords: ['stripe', 'quickbooks', 'xero', 'invoice', 'payment', 'accounting', 'finance', 'bank', 'plaid'], categoryId: 'finance' },
-  { keywords: ['security', 'auth', 'oauth', 'vault', 'encrypt', 'compliance', 'firewall', 'waf', 'siem'], categoryId: 'security' },
-  { keywords: ['postgres', 'mysql', 'mongo', 'redis', 'elastic', 'bigquery', 'snowflake', 'sql', 'database', 'analytics', 'data', 'supabase', 'firebase', 'search', 'fetch', 'scrape', 'web', 'browse', 'crawl', 'memory', 'knowledge'], categoryId: 'data' },
-  { keywords: ['zendesk', 'intercom', 'freshdesk', 'support', 'helpdesk', 'ticket', 'servicenow'], categoryId: 'support' },
-  { keywords: ['mailchimp', 'sendgrid', 'marketing', 'campaign', 'social media', 'seo', 'ads', 'canva'], categoryId: 'marketing' },
-  { keywords: ['health', 'medical', 'clinical', 'pharma', 'veeva', 'fhir', 'hl7', 'epic', 'cerner', 'medidata', 'pubmed', 'genomic', 'biotech', 'drug', 'oncolog', 'patient', 'hospital'], categoryId: 'healthcare' },
-  { keywords: ['google docs', 'confluence', 'sharepoint', 'productivity', 'office', 'document', 'wiki', 'notes', 'calendar', 'schedule', 'meeting'], categoryId: 'productivity' },
+  // Specific named products first (before broad keywords can steal them)
+  { keywords: ['salesforce', 'hubspot', 'pipedrive', 'zoho crm', 'dynamics 365', 'crm'], categoryId: 'crm' },
+  { keywords: ['slack', 'discord', 'email', 'gmail', 'smtp', 'imap', 'chat', 'telegram', 'teams', 'messaging', 'sms', 'twilio'], categoryId: 'communication' },
+  { keywords: ['jira', 'asana', 'trello', 'linear', 'monday', 'todoist', 'clickup', 'basecamp', 'project management'], categoryId: 'project-mgmt' },
+  { keywords: ['zendesk', 'intercom', 'freshdesk', 'helpdesk', 'ticket', 'servicenow', 'customer support', 'freshservice'], categoryId: 'support' },
+  { keywords: ['workday', 'bamboohr', 'gusto', 'adp', 'human resource', 'recruit', 'hiring', 'employee', 'payroll', 'workforce'], categoryId: 'hr' },
+  { keywords: ['stripe', 'quickbooks', 'xero', 'invoice', 'payment', 'accounting', 'bank', 'plaid', 'bookkeeping', 'ledger', 'fintech'], categoryId: 'finance' },
+  { keywords: ['health', 'medical', 'clinical', 'pharma', 'veeva', 'fhir', 'hl7', 'cerner', 'medidata', 'pubmed', 'genomic', 'biotech', 'drug', 'oncolog', 'patient', 'hospital', 'therapy', 'dental', 'nursing'], categoryId: 'healthcare' },
+  { keywords: ['legal', 'law', 'court', 'attorney', 'lawyer', 'litigation', 'cocounsel', 'everlaw', 'harvey', 'jurisdiction', 'statute', 'prolaw', 'practical law', 'west km', 'netdocuments', 'imanage'], categoryId: 'legal' },
+  { keywords: ['coursera', 'udemy', 'edtech', 'education', 'learning', 'tutoring', 'lesson', 'curriculum', 'student', 'teacher', 'training', 'quiz'], categoryId: 'education' },
+  { keywords: ['canva', 'figma', 'adobe', 'design', 'creative', 'illustration', 'sketch', 'photoshop', 'graphic', 'video edit', 'image'], categoryId: 'design' },
+  { keywords: ['shopify', 'woocommerce', 'ecommerce', 'e-commerce', 'product catalog', 'retail', 'inventory', 'order management'], categoryId: 'ecommerce' },
+  { keywords: ['booking.com', 'travel', 'flight', 'hotel', 'airbnb', 'airline', 'trip', 'reservation', 'tourism', 'viator', 'tripadvisor', 'trivago', 'expedia', 'kiwi.com', 'lastminute', 'wyndham'], categoryId: 'travel' },
+  // Dev tools — tighter keywords, named products preferred
+  { keywords: ['github', 'gitlab', 'bitbucket', 'docker', 'kubernetes', 'npm', 'ci/cd', 'jenkins', 'terraform', 'sentry', 'compiler', 'ide', 'lint', 'playwright', 'selenium', 'sdk', 'api', 'devops', 'programming', 'source code', 'repository', 'pull request', 'merge request', 'commit'], categoryId: 'dev-tools' },
+  { keywords: ['drive', 'dropbox', 'box', 's3', 'storage', 'file', 'filesystem', 'blob', 'minio', 'ftp', 'sftp', 'cloud storage'], categoryId: 'cloud-storage' },
+  { keywords: ['siem', 'firewall', 'waf', 'encrypt', 'vulnerability', 'threat', 'antivirus', 'ediscovery', 'zero trust', 'penetration'], categoryId: 'security' },
+  { keywords: ['mailchimp', 'sendgrid', 'marketing', 'campaign', 'social media', 'seo', 'ads', 'advertising', 'branding', 'newsletter'], categoryId: 'marketing' },
+  // Data — tighter, named products preferred
+  { keywords: ['postgres', 'mysql', 'mongo', 'redis', 'elastic', 'bigquery', 'snowflake', 'sql', 'database', 'analytics', 'supabase', 'firebase', 'tableau', 'looker', 'dbt', 'etl', 'data warehouse', 'data pipeline'], categoryId: 'data' },
+  // Productivity last — intentionally broad catch-all
+  { keywords: ['confluence', 'sharepoint', 'notion', 'google docs', 'office', 'document', 'wiki', 'notes', 'calendar', 'schedule', 'meeting', 'productivity', 'workspace', 'collaboration'], categoryId: 'productivity' },
 ];
 
 export function categorizeMcpServer(name: string, description: string): string {

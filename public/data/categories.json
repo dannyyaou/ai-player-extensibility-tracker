@@ -11,5 +11,10 @@
   { "id": "data", "name": "Data & Analytics", "icon": "📈" },
   { "id": "support", "name": "Customer Support", "icon": "🎧" },
   { "id": "marketing", "name": "Marketing", "icon": "📣" },
-  { "id": "healthcare", "name": "Healthcare & Life Sciences", "icon": "🏥" }
+  { "id": "healthcare", "name": "Healthcare & Life Sciences", "icon": "🏥" },
+  { "id": "legal", "name": "Legal", "icon": "⚖️" },
+  { "id": "education", "name": "Education & Training", "icon": "🎓" },
+  { "id": "design", "name": "Design & Creative", "icon": "🎨" },
+  { "id": "ecommerce", "name": "E-Commerce & Retail", "icon": "🛒" },
+  { "id": "travel", "name": "Travel & Hospitality", "icon": "✈️" }
 ]
