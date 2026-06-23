@@ -9,6 +9,13 @@ const navLinks = [
   { href: '/coverage', label: 'Coverage Matrix' },
 ];
 
+const vendorLinks = [
+  { href: '/vendor/microsoft', label: 'Microsoft' },
+  { href: '/vendor/google', label: 'Google' },
+  { href: '/vendor/anthropic', label: 'Anthropic' },
+  { href: '/vendor/openai', label: 'OpenAI' },
+];
+
 export default function Navigation() {
   const pathname = usePathname();
 
@@ -34,6 +41,21 @@ export default function Navigation() {
                   pathname === link.href
                     ? 'bg-indigo-50 text-indigo-600'
                     : 'text-slate-600 hover:text-slate-900 hover:bg-slate-50'
+                )}
+              >
+                {link.label}
+              </Link>
+            ))}
+            <span className="mx-1 h-5 w-px bg-slate-200" />
+            {vendorLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={cn(
+                  'px-2.5 py-1.5 rounded-lg text-xs font-medium transition-colors',
+                  pathname === link.href
+                    ? 'bg-indigo-50 text-indigo-600'
+                    : 'text-slate-500 hover:text-slate-900 hover:bg-slate-50'
                 )}
               >
                 {link.label}

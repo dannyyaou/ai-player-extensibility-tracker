@@ -30,7 +30,7 @@ export default function Dashboard() {
       </div>
 
       {/* Market Position Summary — Lead vs Lag cards */}
-      <MarketPositionSummary vendors={vendors} connectors={connectors} coverage={coverage} />
+      <MarketPositionSummary vendors={vendors} connectors={connectors} />
 
       {/* Stat cards */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -71,7 +71,7 @@ export default function Dashboard() {
       {/* Charts row — connector totals + per-vendor coverage comparison */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <CoverageChart vendors={vendors} />
-        <VendorCoverageComparison vendors={vendors} coverage={coverage} />
+        <VendorCoverageComparison vendors={vendors} connectors={connectors} />
       </div>
 
       {/* Category breakdown */}

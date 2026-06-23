@@ -1,4 +1,4 @@
-import { Vendor, Connector, Category, CoverageEntry, Stats } from '@/types';
+import { Vendor, Connector, Category, CoverageEntry, Stats, VendorId } from '@/types';
 
 import vendorsData from '../../public/data/vendors.json';
 import categoriesData from '../../public/data/categories.json';
@@ -42,4 +42,59 @@ export function getCoverage(): CoverageEntry[] {
 
 export function getStats(): Stats {
   return statsData as Stats;
+}
+
+const categoryIdToName: Record<string, string> = {};
+for (const cat of categoriesData as Category[]) {
+  categoryIdToName[cat.id] = cat.name;
+}
+
+/**
+ * Build a comprehensive coverage matrix from all connector data.
+ * Groups connectors by normalised name and checks which vendors offer each.
+ * Microsoft is filtered to official connectors only.
+ */
+export function getFullCoverageMatrix(): CoverageEntry[] {
+  const map = new Map<string, {
+    displayName: string;
+    category: string;
+    microsoft: boolean;
+    google: boolean;
+    anthropic: boolean;
+    openai: boolean;
+  }>();
+
+  const allConnectors = Object.entries(connectorsByVendor).flatMap(([vendorId, list]) =>
+    (list as Connector[])
+      .filter(c => vendorId !== 'microsoft' || c.type === 'official')
+      .map(c => ({ ...c, vendorId: vendorId as VendorId }))
+  );
+
+  for (const c of allConnectors) {
+    const key = c.name.toLowerCase().trim();
+    if (!map.has(key)) {
+      map.set(key, {
+        displayName: c.name,
+        category: categoryIdToName[c.categoryId] || c.categoryId,
+        microsoft: false,
+        google: false,
+        anthropic: false,
+        openai: false,
+      });
+    }
+    const entry = map.get(key)!;
+    entry[c.vendorId] = true;
+  }
+
+  return Array.from(map.values())
+    .map(e => ({
+      dataSource: e.displayName,
+      category: e.category,
+      importance: 'nice-to-have' as const,
+      microsoft: e.microsoft,
+      google: e.google,
+      anthropic: e.anthropic,
+      openai: e.openai,
+    }))
+    .sort((a, b) => a.dataSource.localeCompare(b.dataSource));
 }

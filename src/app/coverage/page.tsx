@@ -1,22 +1,24 @@
-import { getCoverage } from '@/lib/data';
+import { getFullCoverageMatrix } from '@/lib/data';
 import CoverageTable from '@/components/CoverageTable';
 
 export default function CoveragePage() {
-  const coverage = getCoverage();
-
-  const criticalCount = coverage.filter((e) => e.importance === 'critical').length;
-  const importantCount = coverage.filter((e) => e.importance === 'important').length;
+  const coverage = getFullCoverageMatrix();
 
   // Extract unique categories for the filter dropdown
   const categories = Array.from(new Set(coverage.map(e => e.category))).sort();
+
+  // Count vendors per entry
+  const msCount = coverage.filter(e => e.microsoft).length;
+  const allVendorCount = coverage.filter(e => e.microsoft && e.google && e.anthropic && e.openai).length;
 
   return (
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-bold text-slate-900">Coverage Matrix</h1>
         <p className="text-sm text-slate-600 mt-1">
-          Compare which popular data sources are supported by each vendor.
-          Tracking {coverage.length} data sources ({criticalCount} critical, {importantCount} important).
+          Full connector coverage across all vendors.
+          Tracking {coverage.length} unique connectors ({msCount} by Microsoft, {allVendorCount} offered by all 4 vendors).
+          Microsoft shows official connectors only.
         </p>
       </div>
 

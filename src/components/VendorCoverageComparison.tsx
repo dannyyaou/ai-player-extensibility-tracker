@@ -1,10 +1,10 @@
 'use client';
 
-import { CoverageEntry, Vendor, VendorId } from '@/types';
+import { Connector, Vendor, VendorId } from '@/types';
 
 interface VendorCoverageComparisonProps {
   vendors: Vendor[];
-  coverage: CoverageEntry[];
+  connectors: Connector[];
 }
 
 const VENDOR_COLORS: Record<string, { bar: string; bg: string; text: string }> = {
@@ -13,41 +13,47 @@ const VENDOR_COLORS: Record<string, { bar: string; bg: string; text: string }> =
   openai: { bar: '#475569', bg: 'bg-slate-100', text: 'text-slate-700' },
 };
 
-export default function VendorCoverageComparison({ vendors, coverage }: VendorCoverageComparisonProps) {
+function normalise(name: string) {
+  return name.toLowerCase().trim();
+}
+
+export default function VendorCoverageComparison({ vendors, connectors }: VendorCoverageComparisonProps) {
   const competitors: VendorId[] = ['google', 'anthropic', 'openai'];
+  const msOfficial = connectors.filter(c => c.vendorId === 'microsoft' && c.type === 'official');
+  const msNames = new Set(msOfficial.map(c => normalise(c.name)));
 
   const comparisonData = competitors.map(vid => {
     const vendor = vendors.find(v => v.id === vid);
-    // Sources this competitor covers
-    const competitorSources = coverage.filter(e => e[vid]);
-    // Of those, how many does Microsoft also cover
-    const sharedSources = competitorSources.filter(e => e.microsoft);
-    // Sources Microsoft covers that this competitor doesn't
-    const msOnlySources = coverage.filter(e => e.microsoft && !e[vid]);
+    const competitorConnectors = connectors.filter(c => c.vendorId === vid);
+    const competitorNames = new Set(competitorConnectors.map(c => normalise(c.name)));
 
-    const overlapPct = competitorSources.length > 0
-      ? Math.round((sharedSources.length / competitorSources.length) * 100)
+    // How many of this competitor's connectors does MS also have (by name)
+    const shared = competitorConnectors.filter(c => msNames.has(normalise(c.name))).length;
+    // MS official connectors this competitor doesn't have
+    const msOnly = msOfficial.filter(c => !competitorNames.has(normalise(c.name))).length;
+
+    const overlapPct = competitorConnectors.length > 0
+      ? Math.round((shared / competitorConnectors.length) * 100)
       : 0;
 
     return {
       id: vid,
       name: vendor?.name || vid,
-      totalConnectors: vendor?.totalConnectors ?? 0,
-      competitorSources: competitorSources.length,
-      sharedSources: sharedSources.length,
-      msOnlySources: msOnlySources.length,
-      gapSources: competitorSources.length - sharedSources.length,
+      totalConnectors: competitorConnectors.length,
+      shared,
+      msOnly,
+      gap: competitorConnectors.length - shared,
       overlapPct,
     };
   });
 
-  const msTotal = vendors.find(v => v.id === 'microsoft')?.totalConnectors ?? 0;
+  const msTotal = msOfficial.length;
 
   return (
     <div className="glass-card p-6">
       <h2 className="font-semibold text-slate-900 mb-1">Coverage Comparison vs. Competitors</h2>
       <p className="text-xs text-slate-500 mb-5">
-        How much of each competitor&apos;s coverage matrix Microsoft also covers (based on {coverage.length} tracked sources)
+        How much of each competitor&apos;s connector catalog Microsoft also covers (official MS connectors only)
       </p>
 
       <div className="space-y-5">
@@ -58,7 +64,7 @@ export default function VendorCoverageComparison({ vendors, coverage }: VendorCo
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <span className={`text-sm font-semibold ${colors.text}`}>{comp.name}</span>
-                  <span className="text-xs text-slate-400">({comp.totalConnectors} total connectors)</span>
+                  <span className="text-xs text-slate-400">({comp.totalConnectors} connectors)</span>
                 </div>
                 <span className="text-sm font-bold text-blue-600">{comp.overlapPct}% covered</span>
               </div>
@@ -71,7 +77,7 @@ export default function VendorCoverageComparison({ vendors, coverage }: VendorCo
                 />
                 <div className="absolute inset-0 flex items-center justify-center">
                   <span className="text-xs font-medium text-slate-700">
-                    {comp.sharedSources} of {comp.competitorSources} sources
+                    {comp.shared} of {comp.totalConnectors} connectors
                   </span>
                 </div>
               </div>
@@ -79,15 +85,15 @@ export default function VendorCoverageComparison({ vendors, coverage }: VendorCo
               {/* Detail chips */}
               <div className="flex gap-3 text-xs">
                 <span className="text-blue-600">
-                  MS only: {comp.msOnlySources}
+                  MS only: {comp.msOnly}
                 </span>
                 <span className="text-slate-400">|</span>
                 <span className={colors.text}>
-                  {comp.name} only: {comp.gapSources}
+                  {comp.name} only: {comp.gap}
                 </span>
                 <span className="text-slate-400">|</span>
                 <span className="text-slate-600">
-                  Shared: {comp.sharedSources}
+                  Shared: {comp.shared}
                 </span>
               </div>
             </div>
@@ -107,7 +113,7 @@ export default function VendorCoverageComparison({ vendors, coverage }: VendorCo
             Gap (competitor only)
           </span>
           <span className="ml-auto text-slate-600 font-medium">
-            Microsoft total: {msTotal} connectors
+            Microsoft total: {msTotal} official connectors
           </span>
         </div>
       </div>
