@@ -7,13 +7,14 @@ export function generateStaticParams() {
   return vendors.map((v) => ({ id: v.id }));
 }
 
-export default function VendorDetailPage({ params }: { params: { id: string } }) {
-  const vendor = getVendor(params.id);
+export default async function VendorDetailPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const vendor = getVendor(id);
   if (!vendor) {
     notFound();
   }
 
-  const connectors = getConnectors(params.id);
+  const connectors = getConnectors(id);
   const categories = getCategories();
 
   return (
