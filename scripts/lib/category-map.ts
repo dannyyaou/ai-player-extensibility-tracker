@@ -56,6 +56,7 @@ const mcpKeywordMap: Array<{ keywords: string[]; categoryId: string }> = [
   { keywords: ['postgres', 'mysql', 'mongo', 'redis', 'elastic', 'bigquery', 'snowflake', 'sql', 'database', 'analytics', 'data', 'supabase', 'firebase', 'search', 'fetch', 'scrape', 'web', 'browse', 'crawl', 'memory', 'knowledge'], categoryId: 'data' },
   { keywords: ['zendesk', 'intercom', 'freshdesk', 'support', 'helpdesk', 'ticket', 'servicenow'], categoryId: 'support' },
   { keywords: ['mailchimp', 'sendgrid', 'marketing', 'campaign', 'social media', 'seo', 'ads', 'canva'], categoryId: 'marketing' },
+  { keywords: ['health', 'medical', 'clinical', 'pharma', 'veeva', 'fhir', 'hl7', 'epic', 'cerner', 'medidata', 'pubmed', 'genomic', 'biotech', 'drug', 'oncolog', 'patient', 'hospital'], categoryId: 'healthcare' },
   { keywords: ['google docs', 'confluence', 'sharepoint', 'productivity', 'office', 'document', 'wiki', 'notes', 'calendar', 'schedule', 'meeting'], categoryId: 'productivity' },
 ];
 

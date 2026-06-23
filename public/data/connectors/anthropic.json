@@ -4,7 +4,7 @@
     "vendorId": "anthropic",
     "name": "10x Genomics Cloud",
     "description": "Interact with 10x Genomics Cloud platform",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/10x-genomics-cloud"
@@ -34,7 +34,7 @@
     "vendorId": "anthropic",
     "name": "AdisInsight",
     "description": "Pharmaceutical drug & clinical trial intelligence",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/adisinsight"
@@ -674,7 +674,7 @@
     "vendorId": "anthropic",
     "name": "Clinical Trials",
     "description": "Access ClinicalTrials.gov data",
-    "categoryId": "data",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/clinical-trials"
@@ -983,7 +983,7 @@
     "id": "a-d-b-risk-analytics",
     "vendorId": "anthropic",
     "name": "D&B Risk Analytics",
-    "description": "Execute risk workflows powered by the D&B Commercial Graph™",
+    "description": "Execute risk workflows powered by the D&B Commercial Graph\u2122",
     "categoryId": "dev-tools",
     "type": "official",
     "status": "stable",
@@ -1624,7 +1624,7 @@
     "vendorId": "anthropic",
     "name": "HealthEx (beta)",
     "description": "Connect your health records for personalized insights",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/healthex"
@@ -2164,7 +2164,7 @@
     "vendorId": "anthropic",
     "name": "Medidata",
     "description": "Medidata provides clinical trial software solutions",
-    "categoryId": "dev-tools",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/medidata"
@@ -2484,7 +2484,7 @@
     "vendorId": "anthropic",
     "name": "Open Targets",
     "description": "Drug target discovery and prioritisation platform",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/open-targets"
@@ -2774,7 +2774,7 @@
     "vendorId": "anthropic",
     "name": "PubMed",
     "description": "Search biomedical literature from PubMed",
-    "categoryId": "data",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/pubmed"
@@ -3514,7 +3514,7 @@
     "vendorId": "anthropic",
     "name": "Turquoise",
     "description": "Query Turquoise's proprietary healthcare pricing data",
-    "categoryId": "dev-tools",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/turquoise"
@@ -3733,7 +3733,7 @@
     "id": "a-workable",
     "vendorId": "anthropic",
     "name": "Workable",
-    "description": "Your AI assistant for Hiring and HR — inside Workable",
+    "description": "Your AI assistant for Hiring and HR \u2014 inside Workable",
     "categoryId": "dev-tools",
     "type": "official",
     "status": "stable",

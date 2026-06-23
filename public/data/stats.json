@@ -1,7 +1,7 @@
 {
   "totalConnectors": 667,
   "totalVendors": 4,
-  "totalCategories": 12,
+  "totalCategories": 13,
   "coverageEntries": 25,
   "vendorCounts": {
     "microsoft": 239,
@@ -11,16 +11,17 @@
   },
   "categoryCounts": {
     "communication": 78,
-    "productivity": 204,
+    "productivity": 192,
     "crm": 16,
-    "data": 144,
-    "dev-tools": 110,
+    "data": 142,
+    "dev-tools": 108,
     "cloud-storage": 40,
     "hr": 11,
-    "support": 25,
+    "support": 23,
     "project-mgmt": 18,
     "marketing": 7,
     "finance": 11,
-    "security": 3
+    "security": 3,
+    "healthcare": 12
   }
 }

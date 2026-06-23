@@ -10,5 +10,6 @@
   { "id": "security", "name": "Security & Compliance", "icon": "🔒" },
   { "id": "data", "name": "Data & Analytics", "icon": "📈" },
   { "id": "support", "name": "Customer Support", "icon": "🎧" },
-  { "id": "marketing", "name": "Marketing", "icon": "📣" }
+  { "id": "marketing", "name": "Marketing", "icon": "📣" },
+  { "id": "healthcare", "name": "Healthcare & Life Sciences", "icon": "🏥" }
 ]
