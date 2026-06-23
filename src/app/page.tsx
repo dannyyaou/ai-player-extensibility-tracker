@@ -6,6 +6,7 @@ import EnhancedStatCard from '@/components/EnhancedStatCard';
 import MarketPositionSummary from '@/components/MarketPositionSummary';
 import CategoryLeadershipTable from '@/components/CategoryLeadershipTable';
 import CoverageGapAnalysis from '@/components/CoverageGapAnalysis';
+import VendorCoverageComparison from '@/components/VendorCoverageComparison';
 
 export default function Dashboard() {
   const vendors = getVendors();
@@ -18,14 +19,6 @@ export default function Dashboard() {
   const officialCount = connectors.filter(c => c.type === 'official').length;
   const communityCount = connectors.filter(c => c.type === 'community' || c.type === 'third-party').length;
 
-  const criticalEntries = coverage.filter(e => e.importance === 'critical');
-  const criticalCovered = criticalEntries.filter(e =>
-    e.microsoft || e.google || e.anthropic || e.openai
-  ).length;
-  const criticalPct = criticalEntries.length > 0
-    ? Math.round((criticalCovered / criticalEntries.length) * 100)
-    : 0;
-
   return (
     <div className="space-y-8">
       {/* Title + description */}
@@ -36,10 +29,10 @@ export default function Dashboard() {
         </p>
       </div>
 
-      {/* Market Position Summary — prominently first */}
+      {/* Market Position Summary — Lead vs Lag cards */}
       <MarketPositionSummary vendors={vendors} connectors={connectors} coverage={coverage} />
 
-      {/* Enhanced stat cards */}
+      {/* Stat cards */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         <EnhancedStatCard
           label="Total Connectors"
@@ -58,9 +51,9 @@ export default function Dashboard() {
           color="emerald"
         />
         <EnhancedStatCard
-          label="Critical Coverage"
-          value={`${criticalPct}%`}
-          detail={`${criticalCovered} of ${criticalEntries.length} critical sources`}
+          label="Coverage Sources"
+          value={stats.coverageEntries}
+          detail="Data sources tracked in matrix"
           color="amber"
         />
       </div>
@@ -75,11 +68,14 @@ export default function Dashboard() {
         </div>
       </div>
 
-      {/* Charts row */}
+      {/* Charts row — connector totals + per-vendor coverage comparison */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         <CoverageChart vendors={vendors} />
-        <CategoryBreakdown categories={categories} stats={stats} />
+        <VendorCoverageComparison vendors={vendors} coverage={coverage} />
       </div>
+
+      {/* Category breakdown */}
+      <CategoryBreakdown categories={categories} stats={stats} />
 
       {/* Category Leadership Table */}
       <CategoryLeadershipTable categories={categories} connectors={connectors} />

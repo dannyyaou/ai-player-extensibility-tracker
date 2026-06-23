@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/ai-extensibility-monitor",
-  assetPrefix: "/ai-extensibility-monitor/",
+  basePath: "/ai-player-extensibility-tracker",
+  assetPrefix: "/ai-player-extensibility-tracker/",
   images: {
     unoptimized: true,
   },
