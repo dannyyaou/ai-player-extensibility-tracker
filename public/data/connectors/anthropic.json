@@ -344,7 +344,7 @@
     "vendorId": "anthropic",
     "name": "Benchling",
     "description": "Connect to R&D data, source experiments, and notebooks",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/benchling"
@@ -374,7 +374,7 @@
     "vendorId": "anthropic",
     "name": "BioRender",
     "description": "Search for and use scientific templates and icons",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/biorender"
@@ -384,7 +384,7 @@
     "vendorId": "anthropic",
     "name": "bioRxiv",
     "description": "Access to bioRxiv and medRxiv preprint data",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/biorxiv"
@@ -584,7 +584,7 @@
     "vendorId": "anthropic",
     "name": "ChEMBL",
     "description": "Access to the ChEMBL Database",
-    "categoryId": "data",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/chembl"
@@ -784,7 +784,7 @@
     "vendorId": "anthropic",
     "name": "Consensus",
     "description": "Explore scientific research",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/consensus"
@@ -824,7 +824,7 @@
     "vendorId": "anthropic",
     "name": "Cortellis Regulatory Intelligence",
     "description": "Trusted Regulatory Answers, by Clarivate Cortellis",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/cortellis-regulatory"
@@ -1324,7 +1324,7 @@
     "vendorId": "anthropic",
     "name": "Function (beta)",
     "description": "View lab test results summaries, get nutrition plans",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/function"
@@ -1884,7 +1884,7 @@
     "vendorId": "anthropic",
     "name": "Ketryx",
     "description": "Search and explore regulated software lifecycle data",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/ketryx"
@@ -2564,7 +2564,7 @@
     "vendorId": "anthropic",
     "name": "Owkin",
     "description": "Interact with AI agents built for biology",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/owkin"
@@ -2964,7 +2964,7 @@
     "vendorId": "anthropic",
     "name": "Scholar Gateway",
     "description": "Enhance responses with scholarly research and citations",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/scholar-gateway"
@@ -2974,7 +2974,7 @@
     "vendorId": "anthropic",
     "name": "Scite",
     "description": "Evidence-based answers grounded in research",
-    "categoryId": "dev-tools",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/scite"
@@ -3304,7 +3304,7 @@
     "vendorId": "anthropic",
     "name": "Synthesize Bio",
     "description": "Generate gene expression from a virtual human",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/synthesize-bio"

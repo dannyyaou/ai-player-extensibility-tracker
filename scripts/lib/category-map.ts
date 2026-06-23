@@ -53,7 +53,7 @@ const mcpKeywordMap: Array<{ keywords: string[]; categoryId: string }> = [
   { keywords: ['zendesk', 'intercom', 'freshdesk', 'helpdesk', 'ticket', 'servicenow', 'customer support', 'freshservice'], categoryId: 'support' },
   { keywords: ['workday', 'bamboohr', 'gusto', 'adp', 'human resource', 'recruit', 'hiring', 'employee', 'payroll', 'workforce'], categoryId: 'hr' },
   { keywords: ['stripe', 'quickbooks', 'xero', 'invoice', 'payment', 'accounting', 'bank', 'plaid', 'bookkeeping', 'ledger', 'fintech'], categoryId: 'finance' },
-  { keywords: ['health', 'medical', 'clinical', 'pharma', 'veeva', 'fhir', 'hl7', 'cerner', 'medidata', 'pubmed', 'genomic', 'biotech', 'drug', 'oncolog', 'patient', 'hospital', 'therapy', 'dental', 'nursing'], categoryId: 'healthcare' },
+  { keywords: ['health', 'medical', 'clinical', 'pharma', 'veeva', 'fhir', 'hl7', 'cerner', 'medidata', 'pubmed', 'genomic', 'biotech', 'drug', 'oncolog', 'patient', 'hospital', 'therapy', 'dental', 'nursing', 'benchling', 'biorxiv', 'medrxiv', 'biorender', 'chembl', 'owkin', 'ketryx', 'synthesize bio', 'open targets', 'cortellis', 'life science', 'preclinical', 'assay', 'biology'], categoryId: 'healthcare' },
   { keywords: ['legal', 'law', 'court', 'attorney', 'lawyer', 'litigation', 'cocounsel', 'everlaw', 'harvey', 'jurisdiction', 'statute', 'prolaw', 'practical law', 'west km', 'netdocuments', 'imanage'], categoryId: 'legal' },
   { keywords: ['coursera', 'udemy', 'edtech', 'education', 'learning', 'tutoring', 'lesson', 'curriculum', 'student', 'teacher', 'training', 'quiz'], categoryId: 'education' },
   { keywords: ['canva', 'figma', 'adobe', 'design', 'creative', 'illustration', 'sketch', 'photoshop', 'graphic', 'video edit', 'image'], categoryId: 'design' },
