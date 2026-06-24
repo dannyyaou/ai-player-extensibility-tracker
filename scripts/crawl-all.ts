@@ -1,5 +1,5 @@
 /**
- * Orchestrator: launches a single Chromium instance and runs all 4 vendor
+ * Orchestrator: launches a single Chromium instance and runs all 5 vendor
  * crawlers in parallel, then updates vendors.json and stats.json.
  */
 import * as path from 'path';
@@ -9,6 +9,7 @@ import { crawlMicrosoft } from './crawl-microsoft';
 import { crawlAnthropic } from './crawl-anthropic';
 import { crawlGoogle } from './crawl-google';
 import { crawlOpenAI } from './crawl-openai';
+import { crawlGlean } from './crawl-glean';
 
 interface Vendor {
   id: string;
@@ -38,13 +39,14 @@ async function main() {
   const browser = await chromium.launch({ headless: true });
 
   try {
-    // Run all 4 crawlers in parallel
+    // Run all 5 crawlers in parallel
     console.log('Starting crawlers...\n');
-    const [msConnectors, anthropicConnectors, googleConnectors, openaiConnectors] = await Promise.all([
+    const [msConnectors, anthropicConnectors, googleConnectors, openaiConnectors, gleanConnectors] = await Promise.all([
       crawlMicrosoft(browser),
       crawlAnthropic(browser),
       crawlGoogle(browser),
       crawlOpenAI(browser),
+      crawlGlean(browser),
     ]);
 
     console.log('\nCrawl complete.');
@@ -52,6 +54,7 @@ async function main() {
     console.log(`  Anthropic: ${anthropicConnectors.length} connectors`);
     console.log(`  Google: ${googleConnectors.length} connectors`);
     console.log(`  OpenAI: ${openaiConnectors.length} connectors`);
+    console.log(`  Glean: ${gleanConnectors.length} connectors`);
 
     // Fall back to existing data if crawl returned nothing
     const allByVendor: Record<string, Connector[]> = {
@@ -59,6 +62,7 @@ async function main() {
       anthropic: anthropicConnectors.length > 0 ? anthropicConnectors : readJsonFile(path.join(CONNECTORS_DIR, 'anthropic.json')),
       google: googleConnectors.length > 0 ? googleConnectors : readJsonFile(path.join(CONNECTORS_DIR, 'google.json')),
       openai: openaiConnectors.length > 0 ? openaiConnectors : readJsonFile(path.join(CONNECTORS_DIR, 'openai.json')),
+      glean: gleanConnectors.length > 0 ? gleanConnectors : readJsonFile(path.join(CONNECTORS_DIR, 'glean.json')),
     };
 
     // Update vendors.json with new counts

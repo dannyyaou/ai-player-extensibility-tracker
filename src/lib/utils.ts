@@ -14,6 +14,7 @@ export const vendorColors: Record<string, { bg: string; text: string; border: st
   google: { bg: 'bg-emerald-500', text: 'text-emerald-600', border: 'border-emerald-200', light: 'bg-emerald-50' },
   anthropic: { bg: 'bg-amber-500', text: 'text-amber-600', border: 'border-amber-200', light: 'bg-amber-50' },
   openai: { bg: 'bg-slate-700', text: 'text-slate-700', border: 'border-slate-300', light: 'bg-slate-100' },
+  glean: { bg: 'bg-violet-500', text: 'text-violet-600', border: 'border-violet-200', light: 'bg-violet-50' },
 };
 
 export const statusColors: Record<string, string> = {

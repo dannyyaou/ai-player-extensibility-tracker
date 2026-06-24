@@ -16,7 +16,7 @@ export default function MarketPositionSummary({ vendors, connectors = [] }: Mark
   // Build name sets from actual connector data — Microsoft official only
   const msOfficial = connectors.filter(c => c.vendorId === 'microsoft' && c.type === 'official');
   const msNames = new Set(msOfficial.map(c => normalise(c.name)));
-  const competitorIds = ['google', 'anthropic', 'openai'] as const;
+  const competitorIds = ['google', 'anthropic', 'openai', 'glean'] as const;
 
   const competitorSets = competitorIds.map(vid => {
     const vendor = vendors.find(v => v.id === vid);

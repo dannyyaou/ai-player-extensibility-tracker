@@ -6,17 +6,18 @@ interface CategoryLeadershipTableProps {
   connectors: Connector[];
 }
 
-const vendorIds: VendorId[] = ['microsoft', 'google', 'anthropic', 'openai'];
+const vendorIds: VendorId[] = ['microsoft', 'google', 'anthropic', 'openai', 'glean'];
 const vendorNames: Record<VendorId, string> = {
   microsoft: 'Microsoft',
   google: 'Google',
   anthropic: 'Anthropic',
   openai: 'OpenAI',
+  glean: 'Glean',
 };
 
 export default function CategoryLeadershipTable({ categories, connectors }: CategoryLeadershipTableProps) {
   const rows = categories.map(cat => {
-    const counts: Record<VendorId, number> = { microsoft: 0, google: 0, anthropic: 0, openai: 0 };
+    const counts: Record<VendorId, number> = { microsoft: 0, google: 0, anthropic: 0, openai: 0, glean: 0 };
     for (const c of connectors) {
       if (c.categoryId === cat.id && counts[c.vendorId as VendorId] !== undefined) {
         counts[c.vendorId as VendorId]++;

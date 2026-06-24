@@ -1,0 +1,3448 @@
+[
+  {
+    "id": "gl-15five",
+    "vendorId": "glean",
+    "name": "15Five",
+    "description": "15Five connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/15five",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-activecampaign",
+    "vendorId": "glean",
+    "name": "ActiveCampaign",
+    "description": "ActiveCampaign connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-adobe",
+    "vendorId": "glean",
+    "name": "Adobe",
+    "description": "Adobe connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-adobe-experience-manager",
+    "vendorId": "glean",
+    "name": "Adobe Experience Manager",
+    "description": "Adobe Experience Manager connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/adobe-experience-manager",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-affinity",
+    "vendorId": "glean",
+    "name": "Affinity",
+    "description": "Affinity connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/affinity",
+    "integrationTypes": [
+      "MCP",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-aha",
+    "vendorId": "glean",
+    "name": "Aha!",
+    "description": "Aha! connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/aha",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-ahrefs",
+    "vendorId": "glean",
+    "name": "Ahrefs",
+    "description": "Ahrefs connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-aiera",
+    "vendorId": "glean",
+    "name": "Aiera",
+    "description": "Aiera connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-airops",
+    "vendorId": "glean",
+    "name": "AirOps",
+    "description": "AirOps connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-airtable",
+    "vendorId": "glean",
+    "name": "Airtable",
+    "description": "Airtable connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/airtable",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-aiwyn-tax",
+    "vendorId": "glean",
+    "name": "Aiwyn Tax",
+    "description": "Aiwyn Tax connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-amazon-s3",
+    "vendorId": "glean",
+    "name": "Amazon S3",
+    "description": "Amazon S3 connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/amazon-s3",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-amplitude",
+    "vendorId": "glean",
+    "name": "Amplitude",
+    "description": "Amplitude connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/amplitude",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-apify",
+    "vendorId": "glean",
+    "name": "Apify",
+    "description": "Apify connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-apollo",
+    "vendorId": "glean",
+    "name": "Apollo",
+    "description": "Apollo connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/apollo",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-ariba",
+    "vendorId": "glean",
+    "name": "Ariba",
+    "description": "Ariba connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/ariba",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-asana",
+    "vendorId": "glean",
+    "name": "Asana",
+    "description": "Asana connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/asana",
+    "integrationTypes": [
+      "Native",
+      "MCP app",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-atlan",
+    "vendorId": "glean",
+    "name": "Atlan",
+    "description": "Atlan connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-atlassian-rovo",
+    "vendorId": "glean",
+    "name": "Atlassian Rovo",
+    "description": "Atlassian Rovo connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/atlassian-rovo",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-attio",
+    "vendorId": "glean",
+    "name": "Attio",
+    "description": "Attio connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-aura",
+    "vendorId": "glean",
+    "name": "Aura",
+    "description": "Aura connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-autodesk-fusion",
+    "vendorId": "glean",
+    "name": "Autodesk Fusion",
+    "description": "Autodesk Fusion connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-azure",
+    "vendorId": "glean",
+    "name": "Azure",
+    "description": "Azure connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-azure-devops",
+    "vendorId": "glean",
+    "name": "Azure DevOps",
+    "description": "Azure DevOps connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/azure-devops",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-azure-file-share",
+    "vendorId": "glean",
+    "name": "Azure File Share",
+    "description": "Azure File Share connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-backstage",
+    "vendorId": "glean",
+    "name": "Backstage",
+    "description": "Backstage connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/backstage",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-bamboohr",
+    "vendorId": "glean",
+    "name": "BambooHR",
+    "description": "BambooHR connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/bamboohr",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-base44",
+    "vendorId": "glean",
+    "name": "Base44",
+    "description": "Base44 connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-benchling",
+    "vendorId": "glean",
+    "name": "Benchling",
+    "description": "Benchling connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/benchling",
+    "integrationTypes": [
+      "Push API",
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-bigdata",
+    "vendorId": "glean",
+    "name": "BigData",
+    "description": "BigData connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-biorender",
+    "vendorId": "glean",
+    "name": "BioRender",
+    "description": "BioRender connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-bitbucket",
+    "vendorId": "glean",
+    "name": "Bitbucket",
+    "description": "Bitbucket connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/bitbucket",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-bitly",
+    "vendorId": "glean",
+    "name": "Bitly",
+    "description": "Bitly connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-box",
+    "vendorId": "glean",
+    "name": "Box",
+    "description": "Box connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/box",
+    "integrationTypes": [
+      "Native",
+      "MCP app",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-buildkite",
+    "vendorId": "glean",
+    "name": "Buildkite",
+    "description": "Buildkite connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-bynder",
+    "vendorId": "glean",
+    "name": "Bynder",
+    "description": "Bynder connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/bynder",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-canva",
+    "vendorId": "glean",
+    "name": "Canva",
+    "description": "Canva connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/canva",
+    "integrationTypes": [
+      "MCP tool",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-cb-insights",
+    "vendorId": "glean",
+    "name": "CB Insights",
+    "description": "CB Insights connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/cb-insights",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-cdata-connect-ai",
+    "vendorId": "glean",
+    "name": "CData Connect AI",
+    "description": "CData Connect AI connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-chronograph",
+    "vendorId": "glean",
+    "name": "Chronograph",
+    "description": "Chronograph connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-circleback",
+    "vendorId": "glean",
+    "name": "Circleback",
+    "description": "Circleback connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-clari-copilot",
+    "vendorId": "glean",
+    "name": "Clari Copilot",
+    "description": "Clari Copilot connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/clari-copilot",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-clarify",
+    "vendorId": "glean",
+    "name": "Clarify",
+    "description": "Clarify connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-clay",
+    "vendorId": "glean",
+    "name": "Clay",
+    "description": "Clay connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/clay",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-clerk",
+    "vendorId": "glean",
+    "name": "Clerk",
+    "description": "Clerk connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-clickup",
+    "vendorId": "glean",
+    "name": "ClickUp",
+    "description": "ClickUp connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/clickup",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-close",
+    "vendorId": "glean",
+    "name": "Close",
+    "description": "Close connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-cloudflare",
+    "vendorId": "glean",
+    "name": "Cloudflare",
+    "description": "Cloudflare connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-cloudinary",
+    "vendorId": "glean",
+    "name": "Cloudinary",
+    "description": "Cloudinary connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-coda",
+    "vendorId": "glean",
+    "name": "Coda",
+    "description": "Coda connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/coda",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-common-room",
+    "vendorId": "glean",
+    "name": "Common Room",
+    "description": "Common Room connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-confluence",
+    "vendorId": "glean",
+    "name": "Confluence",
+    "description": "Confluence connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/confluence",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-contentful",
+    "vendorId": "glean",
+    "name": "Contentful",
+    "description": "Contentful connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-coralogix",
+    "vendorId": "glean",
+    "name": "Coralogix",
+    "description": "Coralogix connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-coupa",
+    "vendorId": "glean",
+    "name": "Coupa",
+    "description": "Coupa connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/coupa",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-coupler-io",
+    "vendorId": "glean",
+    "name": "Coupler.io",
+    "description": "Coupler.io connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-crayon",
+    "vendorId": "glean",
+    "name": "Crayon",
+    "description": "Crayon connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/crayon",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-crossbeam",
+    "vendorId": "glean",
+    "name": "Crossbeam",
+    "description": "Crossbeam connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-crunchbase",
+    "vendorId": "glean",
+    "name": "Crunchbase",
+    "description": "Crunchbase connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/crunchbase",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-customer-io",
+    "vendorId": "glean",
+    "name": "Customer.io",
+    "description": "Customer.io connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-daloopa",
+    "vendorId": "glean",
+    "name": "Daloopa",
+    "description": "Daloopa connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/daloopa",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-databricks",
+    "vendorId": "glean",
+    "name": "Databricks",
+    "description": "Databricks connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/databricks",
+    "integrationTypes": [
+      "Native",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-datadog",
+    "vendorId": "glean",
+    "name": "Datadog",
+    "description": "Datadog connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/datadog",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-datastax",
+    "vendorId": "glean",
+    "name": "Datastax",
+    "description": "Datastax connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/datastax",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-day-ai",
+    "vendorId": "glean",
+    "name": "Day AI",
+    "description": "Day AI connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-deel",
+    "vendorId": "glean",
+    "name": "Deel",
+    "description": "Deel connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-deepwiki",
+    "vendorId": "glean",
+    "name": "DeepWiki",
+    "description": "DeepWiki connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-defense-com",
+    "vendorId": "glean",
+    "name": "Defense.com",
+    "description": "Defense.com connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-dice",
+    "vendorId": "glean",
+    "name": "Dice",
+    "description": "Dice connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-docebo",
+    "vendorId": "glean",
+    "name": "Docebo",
+    "description": "Docebo connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/docebo",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-docusign",
+    "vendorId": "glean",
+    "name": "Docusign",
+    "description": "Docusign connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/docusign",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-dropbox",
+    "vendorId": "glean",
+    "name": "Dropbox",
+    "description": "Dropbox connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/dropbox",
+    "integrationTypes": [
+      "Native",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-dynatrace",
+    "vendorId": "glean",
+    "name": "Dynatrace",
+    "description": "Dynatrace connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-egnyte",
+    "vendorId": "glean",
+    "name": "Egnyte",
+    "description": "Egnyte connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/egnyte",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-enterpret",
+    "vendorId": "glean",
+    "name": "Enterpret",
+    "description": "Enterpret connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/enterpret",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-esalesmanager-esm",
+    "vendorId": "glean",
+    "name": "eSalesManager (eSM)",
+    "description": "eSalesManager (eSM) connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/esalesmanager",
+    "integrationTypes": [
+      "Push API",
+      "Partner built"
+    ]
+  },
+  {
+    "id": "gl-evernote",
+    "vendorId": "glean",
+    "name": "Evernote",
+    "description": "Evernote connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/evernote",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-exa",
+    "vendorId": "glean",
+    "name": "Exa",
+    "description": "Exa connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-excalidraw",
+    "vendorId": "glean",
+    "name": "Excalidraw",
+    "description": "Excalidraw connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-facebook-workplace",
+    "vendorId": "glean",
+    "name": "Facebook Workplace",
+    "description": "Facebook Workplace connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/facebook-workplace",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-factset",
+    "vendorId": "glean",
+    "name": "Factset",
+    "description": "Factset connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/factset",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-fellow",
+    "vendorId": "glean",
+    "name": "Fellow",
+    "description": "Fellow connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/fellow",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-file-upload",
+    "vendorId": "glean",
+    "name": "File Upload",
+    "description": "File Upload connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-fireflies",
+    "vendorId": "glean",
+    "name": "Fireflies",
+    "description": "Fireflies connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-freshdesk",
+    "vendorId": "glean",
+    "name": "FreshDesk",
+    "description": "FreshDesk connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/freshdesk",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-freshservice",
+    "vendorId": "glean",
+    "name": "Freshservice",
+    "description": "Freshservice connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/freshservice",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-g2",
+    "vendorId": "glean",
+    "name": "G2",
+    "description": "G2 connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-gainsight",
+    "vendorId": "glean",
+    "name": "Gainsight",
+    "description": "Gainsight connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/gainsight",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-gamma",
+    "vendorId": "glean",
+    "name": "Gamma",
+    "description": "Gamma connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/gamma",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-github",
+    "vendorId": "glean",
+    "name": "GitHub",
+    "description": "GitHub connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/github",
+    "integrationTypes": [
+      "MCP tool",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-github-enterprise",
+    "vendorId": "glean",
+    "name": "GitHub Enterprise",
+    "description": "GitHub Enterprise connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/github-enterprise",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-github-issues",
+    "vendorId": "glean",
+    "name": "GitHub Issues",
+    "description": "GitHub Issues connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-github-on-premise",
+    "vendorId": "glean",
+    "name": "GitHub On Premise",
+    "description": "GitHub On Premise connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/github-on-premise"
+  },
+  {
+    "id": "gl-gitlab",
+    "vendorId": "glean",
+    "name": "GitLab",
+    "description": "GitLab connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/gitlab",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-gmail",
+    "vendorId": "glean",
+    "name": "Gmail",
+    "description": "Gmail connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/gmail",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-gong",
+    "vendorId": "glean",
+    "name": "Gong",
+    "description": "Gong connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/gong",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-google-calendar",
+    "vendorId": "glean",
+    "name": "Google Calendar",
+    "description": "Google Calendar connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-calendar",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-google-chat",
+    "vendorId": "glean",
+    "name": "Google Chat",
+    "description": "Google Chat connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-chat",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-google-cloud-platform",
+    "vendorId": "glean",
+    "name": "Google Cloud Platform",
+    "description": "Google Cloud Platform connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-cloud-platform",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-google-compute-engine",
+    "vendorId": "glean",
+    "name": "Google Compute Engine",
+    "description": "Google Compute Engine connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-google-datastudio",
+    "vendorId": "glean",
+    "name": "Google Datastudio",
+    "description": "Google Datastudio connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-google-drive",
+    "vendorId": "glean",
+    "name": "Google Drive",
+    "description": "Google Drive connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-drive",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-google-sites",
+    "vendorId": "glean",
+    "name": "Google Sites",
+    "description": "Google Sites connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-sites",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-google-workspace-sso",
+    "vendorId": "glean",
+    "name": "Google Workspace SSO",
+    "description": "Google Workspace SSO connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/google-workspace"
+  },
+  {
+    "id": "gl-grafana",
+    "vendorId": "glean",
+    "name": "Grafana",
+    "description": "Grafana connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-granola",
+    "vendorId": "glean",
+    "name": "Granola",
+    "description": "Granola connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/granola",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-greenhouse",
+    "vendorId": "glean",
+    "name": "Greenhouse",
+    "description": "Greenhouse connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/greenhouse",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-guidde",
+    "vendorId": "glean",
+    "name": "Guidde",
+    "description": "Guidde connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/guidde",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-guru",
+    "vendorId": "glean",
+    "name": "Guru",
+    "description": "Guru connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/guru",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-harmonic",
+    "vendorId": "glean",
+    "name": "Harmonic",
+    "description": "Harmonic connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-harvest",
+    "vendorId": "glean",
+    "name": "Harvest",
+    "description": "Harvest connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/harvest",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-harvey",
+    "vendorId": "glean",
+    "name": "Harvey",
+    "description": "Harvey connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-haystack",
+    "vendorId": "glean",
+    "name": "Haystack",
+    "description": "Haystack connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/haystack",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-hex",
+    "vendorId": "glean",
+    "name": "Hex",
+    "description": "Hex connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/hex",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-highspot",
+    "vendorId": "glean",
+    "name": "Highspot",
+    "description": "Highspot connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/highspot",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-honeycomb",
+    "vendorId": "glean",
+    "name": "Honeycomb",
+    "description": "Honeycomb connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-hubspot",
+    "vendorId": "glean",
+    "name": "Hubspot",
+    "description": "Hubspot connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/hubspot",
+    "integrationTypes": [
+      "Native",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-hugging-face",
+    "vendorId": "glean",
+    "name": "Hugging Face",
+    "description": "Hugging Face connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-iap-sso",
+    "vendorId": "glean",
+    "name": "IAP SSO",
+    "description": "IAP SSO connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-ibisworld",
+    "vendorId": "glean",
+    "name": "IBISWorld",
+    "description": "IBISWorld connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/ibis-world",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-incident-io",
+    "vendorId": "glean",
+    "name": "incident.io",
+    "description": "incident.io connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-interact",
+    "vendorId": "glean",
+    "name": "Interact",
+    "description": "Interact connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/interact",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-intercom",
+    "vendorId": "glean",
+    "name": "Intercom",
+    "description": "Intercom connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/intercom",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-invision",
+    "vendorId": "glean",
+    "name": "InVision",
+    "description": "InVision connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/invision",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-ironclad",
+    "vendorId": "glean",
+    "name": "Ironclad",
+    "description": "Ironclad connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/ironclad",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-jam",
+    "vendorId": "glean",
+    "name": "Jam",
+    "description": "Jam connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-jasper",
+    "vendorId": "glean",
+    "name": "Jasper",
+    "description": "Jasper connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-jenkins",
+    "vendorId": "glean",
+    "name": "Jenkins",
+    "description": "Jenkins connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/jenkins",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-jentic",
+    "vendorId": "glean",
+    "name": "Jentic",
+    "description": "Jentic connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-jfrog",
+    "vendorId": "glean",
+    "name": "JFrog",
+    "description": "JFrog connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/jfrog",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-jira",
+    "vendorId": "glean",
+    "name": "Jira",
+    "description": "Jira connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/jira",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-jumpcloud",
+    "vendorId": "glean",
+    "name": "Jumpcloud",
+    "description": "Jumpcloud connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/jumpcloud"
+  },
+  {
+    "id": "gl-keycloak",
+    "vendorId": "glean",
+    "name": "Keycloak",
+    "description": "Keycloak connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/keycloak"
+  },
+  {
+    "id": "gl-klaviyo",
+    "vendorId": "glean",
+    "name": "Klaviyo",
+    "description": "Klaviyo connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-krisp",
+    "vendorId": "glean",
+    "name": "Krisp",
+    "description": "Krisp connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-lattice",
+    "vendorId": "glean",
+    "name": "Lattice",
+    "description": "Lattice connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/lattice",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-lessonly",
+    "vendorId": "glean",
+    "name": "Lessonly",
+    "description": "Lessonly connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/lessonly",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-lilt",
+    "vendorId": "glean",
+    "name": "LILT",
+    "description": "LILT connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-linear",
+    "vendorId": "glean",
+    "name": "Linear",
+    "description": "Linear connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/linear",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-llm-trained-data",
+    "vendorId": "glean",
+    "name": "LLM-trained data",
+    "description": "LLM-trained data connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-looker-studio",
+    "vendorId": "glean",
+    "name": "Looker Studio",
+    "description": "Looker Studio connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/looker",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-loopio",
+    "vendorId": "glean",
+    "name": "Loopio",
+    "description": "Loopio connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/loopio",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-lorikeet",
+    "vendorId": "glean",
+    "name": "Lorikeet",
+    "description": "Lorikeet connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-lseg",
+    "vendorId": "glean",
+    "name": "LSEG",
+    "description": "LSEG connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/lseg",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-lucid",
+    "vendorId": "glean",
+    "name": "Lucid",
+    "description": "Lucid connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/lucid",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-lumapps",
+    "vendorId": "glean",
+    "name": "LumApps",
+    "description": "LumApps connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/lumapps",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-lumin",
+    "vendorId": "glean",
+    "name": "Lumin",
+    "description": "Lumin connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-magic-patterns",
+    "vendorId": "glean",
+    "name": "Magic Patterns",
+    "description": "Magic Patterns connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-make",
+    "vendorId": "glean",
+    "name": "Make",
+    "description": "Make connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-medidata",
+    "vendorId": "glean",
+    "name": "Medidata",
+    "description": "Medidata connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-meetgeek",
+    "vendorId": "glean",
+    "name": "MeetGeek",
+    "description": "MeetGeek connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-mercury",
+    "vendorId": "glean",
+    "name": "Mercury",
+    "description": "Mercury connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-mermaid-chart",
+    "vendorId": "glean",
+    "name": "Mermaid Chart",
+    "description": "Mermaid Chart connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-microsoft-365",
+    "vendorId": "glean",
+    "name": "Microsoft 365",
+    "description": "Microsoft 365 connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/microsoft-365",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-microsoft-dynamics-365",
+    "vendorId": "glean",
+    "name": "Microsoft Dynamics 365",
+    "description": "Microsoft Dynamics 365 connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/microsoft-dynamics-365",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-microsoft-entra-id",
+    "vendorId": "glean",
+    "name": "Microsoft Entra ID",
+    "description": "Microsoft Entra ID connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/microsoft-entra-id"
+  },
+  {
+    "id": "gl-microsoft-learn",
+    "vendorId": "glean",
+    "name": "Microsoft Learn",
+    "description": "Microsoft Learn connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-microsoft-onedrive",
+    "vendorId": "glean",
+    "name": "Microsoft OneDrive",
+    "description": "Microsoft OneDrive connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/onedrive",
+    "integrationTypes": [
+      "Native",
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-microsoft-onenote",
+    "vendorId": "glean",
+    "name": "Microsoft OneNote",
+    "description": "Microsoft OneNote connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/microsoft-onenote",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-microsoft-outlook",
+    "vendorId": "glean",
+    "name": "Microsoft Outlook",
+    "description": "Microsoft Outlook connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/outlook",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-microsoft-sharepoint",
+    "vendorId": "glean",
+    "name": "Microsoft SharePoint",
+    "description": "Microsoft SharePoint connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/sharepoint",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-microsoft-teams",
+    "vendorId": "glean",
+    "name": "Microsoft Teams",
+    "description": "Microsoft Teams connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/microsoft-teams",
+    "integrationTypes": [
+      "MCP",
+      "Push API",
+      "Partner"
+    ]
+  },
+  {
+    "id": "gl-midpage-legal-research",
+    "vendorId": "glean",
+    "name": "Midpage Legal Research",
+    "description": "Midpage Legal Research connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-mindtickle",
+    "vendorId": "glean",
+    "name": "Mindtickle",
+    "description": "Mindtickle connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/mindtickle",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-mindtouch",
+    "vendorId": "glean",
+    "name": "Mindtouch",
+    "description": "Mindtouch connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-miro",
+    "vendorId": "glean",
+    "name": "Miro",
+    "description": "Miro connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/miro",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-mixpanel",
+    "vendorId": "glean",
+    "name": "Mixpanel",
+    "description": "Mixpanel connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/mixpanel",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-monday",
+    "vendorId": "glean",
+    "name": "Monday",
+    "description": "Monday connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/monday",
+    "integrationTypes": [
+      "MCP tool",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-moody-s",
+    "vendorId": "glean",
+    "name": "Moody's",
+    "description": "Moody's connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-morningstar",
+    "vendorId": "glean",
+    "name": "Morningstar",
+    "description": "Morningstar connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-msci",
+    "vendorId": "glean",
+    "name": "MSCI",
+    "description": "MSCI connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-mt-newswires",
+    "vendorId": "glean",
+    "name": "MT Newswires",
+    "description": "MT Newswires connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-netlify",
+    "vendorId": "glean",
+    "name": "Netlify",
+    "description": "Netlify connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-netsuite",
+    "vendorId": "glean",
+    "name": "NetSuite",
+    "description": "NetSuite connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/netsuite",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-nice-cxone",
+    "vendorId": "glean",
+    "name": "Nice CXone",
+    "description": "Nice CXone connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/nice-cxone",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-notion",
+    "vendorId": "glean",
+    "name": "Notion",
+    "description": "Notion connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/notion",
+    "integrationTypes": [
+      "MCP tool",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-okta",
+    "vendorId": "glean",
+    "name": "Okta",
+    "description": "Okta connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/okta",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-omni-analytics",
+    "vendorId": "glean",
+    "name": "Omni Analytics",
+    "description": "Omni Analytics connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-onelogin",
+    "vendorId": "glean",
+    "name": "OneLogin",
+    "description": "OneLogin connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/onelogin",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-onetrust",
+    "vendorId": "glean",
+    "name": "OneTrust",
+    "description": "OneTrust connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/onetrust",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-opsgenie",
+    "vendorId": "glean",
+    "name": "Opsgenie",
+    "description": "Opsgenie connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/opsgenie",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-otter-ai",
+    "vendorId": "glean",
+    "name": "Otter.ai",
+    "description": "Otter.ai connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/otter-ai",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-outreach",
+    "vendorId": "glean",
+    "name": "Outreach",
+    "description": "Outreach connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-pagerduty",
+    "vendorId": "glean",
+    "name": "PagerDuty",
+    "description": "PagerDuty connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/pagerduty",
+    "integrationTypes": [
+      "MCP tool",
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-palo-alto-networks",
+    "vendorId": "glean",
+    "name": "Palo Alto Networks",
+    "description": "Palo Alto Networks connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-panopto",
+    "vendorId": "glean",
+    "name": "Panopto",
+    "description": "Panopto connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/panopto",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-paypal",
+    "vendorId": "glean",
+    "name": "PayPal",
+    "description": "PayPal connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-pendo",
+    "vendorId": "glean",
+    "name": "Pendo",
+    "description": "Pendo connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-phabricator",
+    "vendorId": "glean",
+    "name": "Phabricator",
+    "description": "Phabricator connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/phabricator",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-pigment",
+    "vendorId": "glean",
+    "name": "Pigment",
+    "description": "Pigment connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-pinecone",
+    "vendorId": "glean",
+    "name": "Pinecone",
+    "description": "Pinecone connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-pingboard",
+    "vendorId": "glean",
+    "name": "Pingboard",
+    "description": "Pingboard connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/pingboard",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-ping-identity",
+    "vendorId": "glean",
+    "name": "Ping Identity",
+    "description": "Ping Identity connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/ping-identity"
+  },
+  {
+    "id": "gl-pipedrive",
+    "vendorId": "glean",
+    "name": "Pipedrive",
+    "description": "Pipedrive connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/pipedrive",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-pitchbook",
+    "vendorId": "glean",
+    "name": "PitchBook",
+    "description": "PitchBook connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/pitchbook",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-planetscale",
+    "vendorId": "glean",
+    "name": "PlanetScale",
+    "description": "PlanetScale connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-plusplus",
+    "vendorId": "glean",
+    "name": "PlusPlus",
+    "description": "PlusPlus connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/plusplus",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-posthog",
+    "vendorId": "glean",
+    "name": "PostHog",
+    "description": "PostHog connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-postman",
+    "vendorId": "glean",
+    "name": "Postman",
+    "description": "Postman connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-process-street",
+    "vendorId": "glean",
+    "name": "Process Street",
+    "description": "Process Street connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-procore",
+    "vendorId": "glean",
+    "name": "Procore",
+    "description": "Procore connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/procore",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-pylon",
+    "vendorId": "glean",
+    "name": "Pylon",
+    "description": "Pylon connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-quickbooks-online",
+    "vendorId": "glean",
+    "name": "QuickBooks Online",
+    "description": "QuickBooks Online connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-quip",
+    "vendorId": "glean",
+    "name": "Quip",
+    "description": "Quip connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/quip",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-ramp",
+    "vendorId": "glean",
+    "name": "Ramp",
+    "description": "Ramp connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/ramp",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-rootly",
+    "vendorId": "glean",
+    "name": "Rootly",
+    "description": "Rootly connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/rootly",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-salesforce",
+    "vendorId": "glean",
+    "name": "Salesforce",
+    "description": "Salesforce connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/salesforce",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-saleshood",
+    "vendorId": "glean",
+    "name": "SalesHood",
+    "description": "SalesHood connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/saleshood",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-sanity",
+    "vendorId": "glean",
+    "name": "Sanity",
+    "description": "Sanity connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-screensteps",
+    "vendorId": "glean",
+    "name": "ScreenSteps",
+    "description": "ScreenSteps connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/screensteps",
+    "integrationTypes": [
+      "Partner built",
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-scribe",
+    "vendorId": "glean",
+    "name": "Scribe",
+    "description": "Scribe connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-seismic",
+    "vendorId": "glean",
+    "name": "Seismic",
+    "description": "Seismic connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/seismic",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-sendgrid",
+    "vendorId": "glean",
+    "name": "SendGrid",
+    "description": "SendGrid connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-sentry",
+    "vendorId": "glean",
+    "name": "Sentry",
+    "description": "Sentry connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-servicenow",
+    "vendorId": "glean",
+    "name": "ServiceNow",
+    "description": "ServiceNow connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/servicenow",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-shortcut",
+    "vendorId": "glean",
+    "name": "Shortcut",
+    "description": "Shortcut connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/shortcut",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-showpad",
+    "vendorId": "glean",
+    "name": "Showpad",
+    "description": "Showpad connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/showpad",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-signnow",
+    "vendorId": "glean",
+    "name": "SignNow",
+    "description": "SignNow connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-similarweb",
+    "vendorId": "glean",
+    "name": "Similarweb",
+    "description": "Similarweb connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-simpplr",
+    "vendorId": "glean",
+    "name": "Simpplr",
+    "description": "Simpplr connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/simpplr",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-slab",
+    "vendorId": "glean",
+    "name": "Slab",
+    "description": "Slab connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/slab",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-slack",
+    "vendorId": "glean",
+    "name": "Slack",
+    "description": "Slack connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/slack",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-slack-enterprise",
+    "vendorId": "glean",
+    "name": "Slack Enterprise",
+    "description": "Slack Enterprise connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/slack-enterprise",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-smartsheet",
+    "vendorId": "glean",
+    "name": "Smartsheet",
+    "description": "Smartsheet connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/smartsheet",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-snowflake",
+    "vendorId": "glean",
+    "name": "Snowflake",
+    "description": "Snowflake connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/snowflake",
+    "integrationTypes": [
+      "Native",
+      "MCP tool"
+    ]
+  },
+  {
+    "id": "gl-socket",
+    "vendorId": "glean",
+    "name": "Socket",
+    "description": "Socket connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-s-p-global",
+    "vendorId": "glean",
+    "name": "S&P Global",
+    "description": "S&P Global connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/s-p-global",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-splunk",
+    "vendorId": "glean",
+    "name": "Splunk",
+    "description": "Splunk connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-sprouts-data-intelligence",
+    "vendorId": "glean",
+    "name": "Sprouts Data Intelligence",
+    "description": "Sprouts Data Intelligence connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-stack-overflow-for-teams",
+    "vendorId": "glean",
+    "name": "Stack Overflow for Teams",
+    "description": "Stack Overflow for Teams connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/stack-overflow-for-teams",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-starburst",
+    "vendorId": "glean",
+    "name": "Starburst",
+    "description": "Starburst connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-stytch",
+    "vendorId": "glean",
+    "name": "Stytch",
+    "description": "Stytch connector for Glean.",
+    "categoryId": "security",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-supabase",
+    "vendorId": "glean",
+    "name": "Supabase",
+    "description": "Supabase connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/supabase",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-superhuman-mail",
+    "vendorId": "glean",
+    "name": "Superhuman Mail",
+    "description": "Superhuman Mail connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-supermetrics",
+    "vendorId": "glean",
+    "name": "Supermetrics",
+    "description": "Supermetrics connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-swagger",
+    "vendorId": "glean",
+    "name": "Swagger",
+    "description": "Swagger connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-sybill",
+    "vendorId": "glean",
+    "name": "Sybill",
+    "description": "Sybill connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-tableau",
+    "vendorId": "glean",
+    "name": "Tableau",
+    "description": "Tableau connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/tableau",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-tally",
+    "vendorId": "glean",
+    "name": "Tally",
+    "description": "Tally connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-tavily",
+    "vendorId": "glean",
+    "name": "Tavily",
+    "description": "Tavily connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-testrail",
+    "vendorId": "glean",
+    "name": "TestRail",
+    "description": "TestRail connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/testrail",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-thoughtspot",
+    "vendorId": "glean",
+    "name": "ThoughtSpot",
+    "description": "ThoughtSpot connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/thoughtspot",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-tines",
+    "vendorId": "glean",
+    "name": "Tines",
+    "description": "Tines connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-tldraw",
+    "vendorId": "glean",
+    "name": "tldraw",
+    "description": "tldraw connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-tomba",
+    "vendorId": "glean",
+    "name": "Tomba",
+    "description": "Tomba connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-trello",
+    "vendorId": "glean",
+    "name": "Trello",
+    "description": "Trello connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/trello",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-typeform",
+    "vendorId": "glean",
+    "name": "Typeform",
+    "description": "Typeform connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-udemy",
+    "vendorId": "glean",
+    "name": "Udemy",
+    "description": "Udemy connector for Glean.",
+    "categoryId": "education",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/udemy",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-unily",
+    "vendorId": "glean",
+    "name": "Unily",
+    "description": "Unily connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/unily",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-unthread",
+    "vendorId": "glean",
+    "name": "Unthread",
+    "description": "Unthread connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-url",
+    "vendorId": "glean",
+    "name": "URL",
+    "description": "URL connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-veeva-vault",
+    "vendorId": "glean",
+    "name": "Veeva Vault",
+    "description": "Veeva Vault connector for Glean.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/veeva",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-vendr",
+    "vendorId": "glean",
+    "name": "Vendr",
+    "description": "Vendr connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-vercel",
+    "vendorId": "glean",
+    "name": "Vercel",
+    "description": "Vercel connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-vibe-prospecting",
+    "vendorId": "glean",
+    "name": "Vibe Prospecting",
+    "description": "Vibe Prospecting connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-vimeo",
+    "vendorId": "glean",
+    "name": "Vimeo",
+    "description": "Vimeo connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-visier",
+    "vendorId": "glean",
+    "name": "Visier",
+    "description": "Visier connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-webflow",
+    "vendorId": "glean",
+    "name": "Webflow",
+    "description": "Webflow connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-web-search",
+    "vendorId": "glean",
+    "name": "Web Search",
+    "description": "Web Search connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "gl-windchill",
+    "vendorId": "glean",
+    "name": "Windchill",
+    "description": "Windchill connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/windchill",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-wisdomai",
+    "vendorId": "glean",
+    "name": "WisdomAI",
+    "description": "WisdomAI connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/wisdomai",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-wix",
+    "vendorId": "glean",
+    "name": "Wix",
+    "description": "Wix connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-wordpress",
+    "vendorId": "glean",
+    "name": "WordPress",
+    "description": "WordPress connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/wordpress",
+    "integrationTypes": [
+      "Native",
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-workato",
+    "vendorId": "glean",
+    "name": "Workato",
+    "description": "Workato connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-workday",
+    "vendorId": "glean",
+    "name": "Workday",
+    "description": "Workday connector for Glean.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/workday",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-workplace-from-meta",
+    "vendorId": "glean",
+    "name": "Workplace from Meta",
+    "description": "Workplace from Meta connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-workramp",
+    "vendorId": "glean",
+    "name": "WorkRamp",
+    "description": "WorkRamp connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/workramp",
+    "integrationTypes": [
+      "Push API"
+    ]
+  },
+  {
+    "id": "gl-xero",
+    "vendorId": "glean",
+    "name": "Xero",
+    "description": "Xero connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-yardi-virtuoso",
+    "vendorId": "glean",
+    "name": "Yardi Virtuoso",
+    "description": "Yardi Virtuoso connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-youtrack",
+    "vendorId": "glean",
+    "name": "YouTrack",
+    "description": "YouTrack connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/youtrack",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-zendesk",
+    "vendorId": "glean",
+    "name": "Zendesk",
+    "description": "Zendesk connector for Glean.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/zendesk",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-zeplin",
+    "vendorId": "glean",
+    "name": "Zeplin",
+    "description": "Zeplin connector for Glean.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/zeplin",
+    "integrationTypes": [
+      "Web history"
+    ]
+  },
+  {
+    "id": "gl-zoho",
+    "vendorId": "glean",
+    "name": "Zoho",
+    "description": "Zoho connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-zoominfo",
+    "vendorId": "glean",
+    "name": "Zoominfo",
+    "description": "Zoominfo connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-zoom-v2",
+    "vendorId": "glean",
+    "name": "Zoom V2",
+    "description": "Zoom V2 connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/zoom",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
+    "id": "gl-zulip",
+    "vendorId": "glean",
+    "name": "Zulip",
+    "description": "Zulip connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/zulip",
+    "integrationTypes": [
+      "Push API"
+    ]
+  }
+]

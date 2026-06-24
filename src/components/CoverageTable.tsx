@@ -16,6 +16,7 @@ const vendors: { key: VendorId; label: string; color: string; bg: string; active
   { key: 'google', label: 'Google', color: 'text-emerald-600', bg: 'bg-emerald-50', activeBg: 'bg-emerald-600', activeText: 'text-white' },
   { key: 'anthropic', label: 'Anthropic', color: 'text-amber-600', bg: 'bg-amber-50', activeBg: 'bg-amber-600', activeText: 'text-white' },
   { key: 'openai', label: 'OpenAI', color: 'text-slate-700', bg: 'bg-slate-100', activeBg: 'bg-slate-700', activeText: 'text-white' },
+  { key: 'glean', label: 'Glean', color: 'text-violet-600', bg: 'bg-violet-50', activeBg: 'bg-violet-600', activeText: 'text-white' },
 ];
 
 export default function CoverageTable({ entries, categories }: CoverageTableProps) {
@@ -75,7 +76,8 @@ export default function CoverageTable({ entries, categories }: CoverageTableProp
         case 'microsoft':
         case 'google':
         case 'anthropic':
-        case 'openai': {
+        case 'openai':
+        case 'glean': {
           const av = a[sortKey] ? 0 : 1;
           const bv = b[sortKey] ? 0 : 1;
           return dir * (av - bv);
@@ -192,7 +194,7 @@ export default function CoverageTable({ entries, categories }: CoverageTableProp
               ))}
               {sorted.length === 0 && (
                 <tr>
-                  <td colSpan={6} className="px-4 py-8 text-center text-sm text-slate-500">
+                  <td colSpan={7} className="px-4 py-8 text-center text-sm text-slate-500">
                     No entries match your filters.
                   </td>
                 </tr>

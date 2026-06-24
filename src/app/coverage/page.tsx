@@ -9,7 +9,7 @@ export default function CoveragePage() {
 
   // Count vendors per entry
   const msCount = coverage.filter(e => e.microsoft).length;
-  const allVendorCount = coverage.filter(e => e.microsoft && e.google && e.anthropic && e.openai).length;
+  const allVendorCount = coverage.filter(e => e.microsoft && e.google && e.anthropic && e.openai && e.glean).length;
 
   return (
     <div className="space-y-6">
@@ -17,7 +17,7 @@ export default function CoveragePage() {
         <h1 className="text-2xl font-bold text-slate-900">Coverage Matrix</h1>
         <p className="text-sm text-slate-600 mt-1">
           Full connector coverage across all vendors.
-          Tracking {coverage.length} unique connectors ({msCount} by Microsoft, {allVendorCount} offered by all 4 vendors).
+          Tracking {coverage.length} unique connectors ({msCount} by Microsoft, {allVendorCount} offered by all 5 vendors).
           Microsoft shows official connectors only.
         </p>
       </div>

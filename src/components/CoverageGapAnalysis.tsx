@@ -5,12 +5,13 @@ interface CoverageGapAnalysisProps {
   coverage: CoverageEntry[];
 }
 
-const vendorIds: VendorId[] = ['microsoft', 'google', 'anthropic', 'openai'];
+const vendorIds: VendorId[] = ['microsoft', 'google', 'anthropic', 'openai', 'glean'];
 const vendorNames: Record<VendorId, string> = {
   microsoft: 'Microsoft',
   google: 'Google',
   anthropic: 'Anthropic',
   openai: 'OpenAI',
+  glean: 'Glean',
 };
 
 export default function CoverageGapAnalysis({ coverage }: CoverageGapAnalysisProps) {
@@ -28,7 +29,7 @@ export default function CoverageGapAnalysis({ coverage }: CoverageGapAnalysisPro
     <div className="glass-card p-6">
       <h2 className="font-semibold text-slate-900 mb-1">Coverage Gap Analysis</h2>
       <p className="text-sm text-slate-600 mb-4">Data sources each vendor is missing from the tracked matrix</p>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
         {gaps.map(gap => (
           <div key={gap.vendorId} className={`rounded-lg border p-4 ${vendorColors[gap.vendorId]?.border || 'border-slate-200'}`}>
             <h3 className={`text-sm font-semibold mb-2 ${vendorColors[gap.vendorId]?.text || 'text-slate-700'}`}>

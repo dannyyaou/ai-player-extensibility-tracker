@@ -724,7 +724,7 @@
     "vendorId": "anthropic",
     "name": "CMS Coverage",
     "description": "Access the CMS Coverage Database",
-    "categoryId": "data",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/cms-coverage"
@@ -1138,6 +1138,16 @@
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/enterpret"
+  },
+  {
+    "id": "a-enrichr",
+    "vendorId": "anthropic",
+    "name": "Enrichr",
+    "description": "Gene set enrichment analysis and pathway visualization",
+    "categoryId": "healthcare",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://claude.com/connectors/enrichr"
   },
   {
     "id": "a-era-context",
@@ -2454,7 +2464,7 @@
     "vendorId": "anthropic",
     "name": "NPI Registry",
     "description": "Access US National Provider Identifier (NPI) Registry",
-    "categoryId": "dev-tools",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/npi-registry"
@@ -3294,7 +3304,7 @@
     "vendorId": "anthropic",
     "name": "Synapse.org",
     "description": "Search and metadata tools for Synapse scientific data",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/synapse-org"
@@ -3424,7 +3434,7 @@
     "vendorId": "anthropic",
     "name": "Tool Universe",
     "description": "AI scientists with 600+ scientific tools",
-    "categoryId": "productivity",
+    "categoryId": "healthcare",
     "type": "official",
     "status": "stable",
     "sourceUrl": "https://claude.com/connectors/tool-universe"

@@ -1,4 +1,6 @@
-export type VendorId = 'microsoft' | 'google' | 'anthropic' | 'openai';
+export type VendorId = 'microsoft' | 'google' | 'anthropic' | 'openai' | 'glean';
+
+export type IntegrationType = 'native-sync' | 'mcp' | 'mcp-app' | 'mcp-tool' | 'push-api' | 'web-history' | 'partner-built' | 'gpt-action' | 'extension';
 
 export interface Vendor {
   id: VendorId;
@@ -21,6 +23,7 @@ export interface Connector {
   status: 'stable' | 'beta' | 'preview' | 'deprecated';
   docsUrl?: string;
   sourceUrl?: string;
+  integrationTypes?: string[];
 }
 
 export interface Category {
@@ -37,6 +40,21 @@ export interface CoverageEntry {
   google: boolean;
   anthropic: boolean;
   openai: boolean;
+  glean: boolean;
+}
+
+export interface ConnectorCapabilities {
+  integrationType: string;
+  dataFlow: 'read-only' | 'read-write';
+  authScope: 'tenant' | 'user';
+  syncMode: 'real-time' | 'batch';
+  authMethod: string;
+}
+
+export interface CapabilityMatrixEntry {
+  dataSource: string;
+  category: string;
+  vendors: Partial<Record<VendorId, ConnectorCapabilities>>;
 }
 
 export interface Stats {

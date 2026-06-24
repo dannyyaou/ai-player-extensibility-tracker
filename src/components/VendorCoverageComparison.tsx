@@ -11,6 +11,7 @@ const VENDOR_COLORS: Record<string, { text: string; bar: string }> = {
   google: { text: 'text-emerald-700', bar: '#d1fae5' },
   anthropic: { text: 'text-amber-700', bar: '#fef3c7' },
   openai: { text: 'text-slate-700', bar: '#e2e8f0' },
+  glean: { text: 'text-violet-700', bar: '#ede9fe' },
 };
 
 // Shared = purple, MS only = blue, Competitor only = their color
@@ -22,7 +23,7 @@ function normalise(name: string) {
 }
 
 export default function VendorCoverageComparison({ vendors, connectors }: VendorCoverageComparisonProps) {
-  const competitors: VendorId[] = ['google', 'anthropic', 'openai'];
+  const competitors: VendorId[] = ['google', 'anthropic', 'openai', 'glean'];
   const msOfficial = connectors.filter(c => c.vendorId === 'microsoft' && c.type === 'official');
   const msNames = new Set(msOfficial.map(c => normalise(c.name)));
 
@@ -53,6 +54,7 @@ export default function VendorCoverageComparison({ vendors, connectors }: Vendor
     google: '#10b981',
     anthropic: '#f59e0b',
     openai: '#64748b',
+    glean: '#8b5cf6',
   };
 
   return (

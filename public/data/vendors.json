@@ -38,5 +38,15 @@
     "websiteUrl": "https://platform.openai.com/docs/actions",
     "totalConnectors": 12,
     "officialConnectors": 3
+  },
+  {
+    "id": "glean",
+    "name": "Glean",
+    "productName": "Glean Connectors",
+    "description": "Glean connects to enterprise apps and data sources to power workplace search and AI assistance, supporting native, MCP, and push API integrations.",
+    "color": "violet",
+    "websiteUrl": "https://www.glean.com/connectors",
+    "totalConnectors": 0,
+    "officialConnectors": 0
   }
 ]

@@ -13,7 +13,7 @@ interface Connector {
   status: string;
 }
 
-const vendorFiles = ['microsoft', 'google', 'anthropic', 'openai'];
+const vendorFiles = ['microsoft', 'google', 'anthropic', 'openai', 'glean'];
 const allConnectors: Connector[] = [];
 const vendorCounts: Record<string, number> = {};
 const categoryCounts: Record<string, number> = {};

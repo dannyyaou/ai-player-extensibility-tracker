@@ -1,31 +1,33 @@
 {
-  "totalConnectors": 667,
-  "totalVendors": 4,
-  "totalCategories": 17,
+  "totalConnectors": 944,
+  "totalVendors": 5,
+  "totalCategories": 18,
   "coverageEntries": 25,
   "vendorCounts": {
     "microsoft": 239,
-    "anthropic": 389,
     "google": 27,
-    "openai": 12
+    "anthropic": 390,
+    "openai": 12,
+    "glean": 276
   },
   "categoryCounts": {
-    "productivity": 309,
-    "dev-tools": 71,
-    "cloud-storage": 49,
-    "data": 33,
-    "communication": 32,
-    "healthcare": 24,
-    "project-mgmt": 24,
-    "design": 22,
-    "support": 22,
+    "dev-tools": 156,
+    "productivity": 337,
+    "project-mgmt": 39,
+    "communication": 49,
+    "design": 36,
+    "crm": 67,
+    "support": 33,
+    "hr": 18,
+    "healthcare": 29,
+    "data": 32,
+    "cloud-storage": 73,
     "legal": 20,
-    "crm": 18,
-    "travel": 12,
-    "hr": 10,
-    "finance": 10,
     "marketing": 7,
-    "education": 3,
-    "ecommerce": 1
+    "travel": 12,
+    "education": 14,
+    "finance": 10,
+    "ecommerce": 1,
+    "security": 11
   }
 }

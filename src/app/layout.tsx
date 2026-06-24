@@ -4,7 +4,7 @@ import Navigation from "@/components/Navigation";
 
 export const metadata: Metadata = {
   title: "Copilot Extensibility Tracker",
-  description: "Monitor and compare connector/extension ecosystems across Microsoft, Google, Anthropic, and OpenAI",
+  description: "Monitor and compare connector/extension ecosystems across Microsoft, Google, Anthropic, OpenAI, and Glean",
 };
 
 export default function RootLayout({

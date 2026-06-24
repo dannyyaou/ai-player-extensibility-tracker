@@ -12,6 +12,7 @@ const VENDOR_CHART_COLORS: Record<string, string> = {
   google: '#10b981',
   anthropic: '#f59e0b',
   openai: '#475569',
+  glean: '#8b5cf6',
 };
 
 export default function CoverageChart({ vendors }: CoverageChartProps) {

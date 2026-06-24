@@ -7,6 +7,7 @@ import { cn } from '@/lib/utils';
 const navLinks = [
   { href: '/', label: 'Dashboard' },
   { href: '/coverage', label: 'Coverage Matrix' },
+  { href: '/capabilities', label: 'Capabilities' },
 ];
 
 const vendorLinks = [
@@ -14,6 +15,7 @@ const vendorLinks = [
   { href: '/vendor/google', label: 'Google' },
   { href: '/vendor/anthropic', label: 'Anthropic' },
   { href: '/vendor/openai', label: 'OpenAI' },
+  { href: '/vendor/glean', label: 'Glean' },
 ];
 
 export default function Navigation() {
