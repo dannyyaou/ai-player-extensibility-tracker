@@ -2,8 +2,8 @@
   {
     "id": "microsoft",
     "name": "Microsoft",
-    "productName": "Copilot Connectors (Graph Connectors)",
-    "description": "Microsoft Graph Connectors enable third-party data to be indexed and searchable in Microsoft 365 Copilot, Search, and other Microsoft experiences.",
+    "productName": "Graph Connectors + Power Platform",
+    "description": "Microsoft Graph Connectors and Power Platform connectors enable third-party data to be indexed and actionable across Microsoft 365 Copilot, Search, Power Automate, and Power Apps.",
     "color": "blue",
     "websiteUrl": "https://learn.microsoft.com/en-us/graph/connecting-external-content-connectors-overview",
     "totalConnectors": 239,
