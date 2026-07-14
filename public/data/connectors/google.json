@@ -3,7 +3,7 @@
     "id": "g-how-connectors-work",
     "vendorId": "google",
     "name": "How connectors work",
-    "description": "Connectors securely link Gemini Enterprise \u2013 Business edition to different applications and data sources commonly used by businesses and enterprises. These connectors let you search for information...",
+    "description": "Connectors securely link Gemini Enterprise – Business edition to different applications and data sources commonly used by businesses and enterprises. These connectors let you search for information...",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable"
@@ -11,8 +11,8 @@
   {
     "id": "g-gemini-enterprise-business-edition-will-only-access-what-you-specifically-authorize",
     "vendorId": "google",
-    "name": "Gemini Enterprise \u2013 Business edition will only access what you specifically authorize.",
-    "description": "Ensure that your connector is configured to allow\u00a0Gemini Enterprise \u2013 Business edition to access any data you wish to connect.",
+    "name": "Gemini Enterprise – Business edition will only access what you specifically authorize.",
+    "description": "Ensure that your connector is configured to allow Gemini Enterprise – Business edition to access any data you wish to connect.",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable"
@@ -21,7 +21,7 @@
     "id": "g-available-connectors",
     "vendorId": "google",
     "name": "Available connectors",
-    "description": "To view and enable the connectors in your Gemini Enterprise \u2013 Business edition workspace: Sign in to\u00a0Gemini Enterprise \u2013 Business edition\u00a0(business.gemini.google/).\n  Click\u00a0Settings & help\u00a0.\n  Sele...",
+    "description": "To view and enable the connectors in your Gemini Enterprise – Business edition workspace: Sign in to Gemini Enterprise – Business edition (business.gemini.google/).\n  Click Settings & help .\n  Sele...",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable"
@@ -29,8 +29,8 @@
   {
     "id": "g-supported-actions-in-gemini-enterprise-business-edition",
     "vendorId": "google",
-    "name": "Supported actions in\u00a0Gemini Enterprise \u2013 Business edition",
-    "description": "Gemini Enterprise \u2013 Business edition\u00a0allows authorized and authenticated users to take specified actions with supported connectors. Select the app name below to reveal the available actions for eac...",
+    "name": "Supported actions in Gemini Enterprise – Business edition",
+    "description": "Gemini Enterprise – Business edition allows authorized and authenticated users to take specified actions with supported connectors. Select the app name below to reveal the available actions for eac...",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable"

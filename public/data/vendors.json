@@ -26,8 +26,8 @@
     "description": "The Model Context Protocol provides a standard way to connect AI models to external data sources, tools, and services through a unified protocol.",
     "color": "amber",
     "websiteUrl": "https://modelcontextprotocol.io",
-    "totalConnectors": 389,
-    "officialConnectors": 389
+    "totalConnectors": 390,
+    "officialConnectors": 390
   },
   {
     "id": "openai",
@@ -36,7 +36,7 @@
     "description": "OpenAI GPT Actions allow custom GPTs to interact with external APIs. The GPT Store provides a marketplace for discovering and sharing custom GPTs.",
     "color": "slate",
     "websiteUrl": "https://platform.openai.com/docs/actions",
-    "totalConnectors": 12,
+    "totalConnectors": 3,
     "officialConnectors": 3
   },
   {

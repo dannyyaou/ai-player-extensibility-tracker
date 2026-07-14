@@ -1,110 +1,32 @@
 [
   {
-    "id": "o-browsing",
+    "id": "oai-extend-chatgpt",
     "vendorId": "openai",
-    "name": "Web Browsing",
-    "description": "Browse the web to find current information and answer questions with citations.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable"
-  },
-  {
-    "id": "o-code-interpreter",
-    "vendorId": "openai",
-    "name": "Code Interpreter",
-    "description": "Execute Python code in a sandboxed environment for data analysis and computation.",
-    "categoryId": "cloud-storage",
-    "type": "official",
-    "status": "stable"
-  },
-  {
-    "id": "o-dall-e",
-    "vendorId": "openai",
-    "name": "DALL-E",
-    "description": "Generate and edit images using DALL-E directly within ChatGPT.",
+    "name": "Extend ChatGPT",
+    "description": "Learn how to build apps for ChatGPT using the Apps SDK.",
     "categoryId": "communication",
     "type": "official",
-    "status": "stable"
+    "status": "stable",
+    "sourceUrl": "https://chatgpt.com/apps-sdk"
   },
   {
-    "id": "o-zapier",
+    "id": "oai-get-started-with-codex",
     "vendorId": "openai",
-    "name": "Zapier",
-    "description": "Connect to 5000+ apps through Zapier automations via GPT Actions.",
+    "name": "Get started with Codex",
+    "description": "Try our coding agent in the IDE, CLI, or cloud.",
     "categoryId": "dev-tools",
-    "type": "third-party",
-    "status": "stable"
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://chatgpt.com/codex"
   },
   {
-    "id": "o-canva",
+    "id": "oai-read-our-blog",
     "vendorId": "openai",
-    "name": "Canva",
-    "description": "Create designs, presentations, and social media content using Canva.",
-    "categoryId": "design",
-    "type": "third-party",
-    "status": "stable"
-  },
-  {
-    "id": "o-notion",
-    "vendorId": "openai",
-    "name": "Notion GPT",
-    "description": "Search and interact with Notion workspaces through a custom GPT.",
+    "name": "Read our blog",
+    "description": "Catch up on insights for developers using OpenAI's products and models.",
     "categoryId": "productivity",
-    "type": "third-party",
-    "status": "stable"
-  },
-  {
-    "id": "o-salesforce",
-    "vendorId": "openai",
-    "name": "Salesforce GPT",
-    "description": "Access Salesforce CRM data and perform actions through custom GPT Actions.",
-    "categoryId": "crm",
-    "type": "third-party",
-    "status": "beta"
-  },
-  {
-    "id": "o-github-copilot",
-    "vendorId": "openai",
-    "name": "GitHub Integration",
-    "description": "Custom GPTs that connect to GitHub repositories and APIs.",
-    "categoryId": "dev-tools",
-    "type": "third-party",
-    "status": "stable"
-  },
-  {
-    "id": "o-google-sheets",
-    "vendorId": "openai",
-    "name": "Google Sheets",
-    "description": "Read and manipulate Google Sheets data via GPT Actions.",
-    "categoryId": "productivity",
-    "type": "third-party",
-    "status": "stable"
-  },
-  {
-    "id": "o-slack",
-    "vendorId": "openai",
-    "name": "Slack GPT",
-    "description": "Send and read Slack messages through custom GPT Actions.",
-    "categoryId": "communication",
-    "type": "third-party",
-    "status": "beta"
-  },
-  {
-    "id": "o-jira",
-    "vendorId": "openai",
-    "name": "Jira GPT",
-    "description": "Manage Jira issues and projects through custom GPT Actions.",
-    "categoryId": "project-mgmt",
-    "type": "third-party",
-    "status": "beta"
-  },
-  {
-    "id": "o-hubspot",
-    "vendorId": "openai",
-    "name": "HubSpot GPT",
-    "description": "Access HubSpot CRM data including contacts, deals, and tickets.",
-    "categoryId": "crm",
-    "type": "third-party",
-    "status": "beta"
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://chatgpt.com/blog"
   }
 ]
