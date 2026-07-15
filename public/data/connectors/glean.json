@@ -513,19 +513,6 @@
     ]
   },
   {
-    "id": "gl-clari-copilot",
-    "vendorId": "glean",
-    "name": "Clari Copilot",
-    "description": "Clari Copilot connector for Glean.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "sourceUrl": "https://www.glean.com/connectors/clari-copilot",
-    "integrationTypes": [
-      "Native"
-    ]
-  },
-  {
     "id": "gl-clarify",
     "vendorId": "glean",
     "name": "Clarify",
@@ -1255,10 +1242,7 @@
     "description": "Google Datastudio connector for Glean.",
     "categoryId": "dev-tools",
     "type": "official",
-    "status": "stable",
-    "integrationTypes": [
-      "Web history"
-    ]
+    "status": "stable"
   },
   {
     "id": "gl-google-drive",
@@ -2599,6 +2583,19 @@
     "sourceUrl": "https://www.glean.com/connectors/saleshood",
     "integrationTypes": [
       "Push API"
+    ]
+  },
+  {
+    "id": "gl-salesloft-conversation-intelligence",
+    "vendorId": "glean",
+    "name": "Salesloft Conversation Intelligence",
+    "description": "Salesloft Conversation Intelligence connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/salesloft-conversation-intelligence",
+    "integrationTypes": [
+      "Native"
     ]
   },
   {
