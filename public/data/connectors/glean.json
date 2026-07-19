@@ -703,6 +703,7 @@
     "categoryId": "crm",
     "type": "official",
     "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/crossbeam",
     "integrationTypes": [
       "MCP"
     ]
