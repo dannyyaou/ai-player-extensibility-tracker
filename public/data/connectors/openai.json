@@ -3,11 +3,11 @@
     "id": "oai-extend-chatgpt",
     "vendorId": "openai",
     "name": "Extend ChatGPT",
-    "description": "Learn how to build apps for ChatGPT using the Apps SDK.",
+    "description": "Learn how to build plugins for ChatGPT and Codex.",
     "categoryId": "communication",
     "type": "official",
     "status": "stable",
-    "sourceUrl": "https://chatgpt.com/apps-sdk"
+    "sourceUrl": "https://chatgpt.com/plugins"
   },
   {
     "id": "oai-get-started-with-codex",
