@@ -237,7 +237,7 @@
     "id": "g-help",
     "vendorId": "google",
     "name": "Help",
-    "description": "1 of 1Connect your Google apps and third-party data",
+    "description": "1 of 2Connect your Google apps and third-party data2 of 2Set up your custom MCP server connection",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable",
