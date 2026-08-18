@@ -357,7 +357,7 @@
     "categoryId": "data",
     "type": "official",
     "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/mssql-connector"
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/mssql-overview"
   },
   {
     "id": "ms-csv",
@@ -387,7 +387,7 @@
     "categoryId": "data",
     "type": "official",
     "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/mssql-connector"
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/mssql-overview"
   },
   {
     "id": "ms-oracle-sql",
@@ -663,7 +663,7 @@
     "id": "ms-sap-successfactors",
     "vendorId": "microsoft",
     "name": "SAP SuccessFactors",
-    "description": "Allows organizations integrate with SAP SuccessFactors to securely synchronize organization data and organize HR functions via Organizational Data in Microsoft 365.",
+    "description": "Allows organizations integrate with SAP SuccessFactors to securely synchronize organization data and organize HR functions via Microsoft 365 Organizational Data Service.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
@@ -673,7 +673,7 @@
     "id": "ms-workday",
     "vendorId": "microsoft",
     "name": "Workday",
-    "description": "Allows organizations integrate with Workday to securely synchronize organization data and organize HR functions via Organizational Data in Microsoft 365.",
+    "description": "Allows organizations integrate with Workday to securely synchronize organization data and organize HR functions via Microsoft 365 Organizational Data Service.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
