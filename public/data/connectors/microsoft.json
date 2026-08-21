@@ -17,7 +17,7 @@
     "categoryId": "communication",
     "type": "official",
     "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/azure-devops-wiki-connector"
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/azure-devops-wiki-overview"
   },
   {
     "id": "ms-azure-devops-work-items",
