@@ -1,5 +1,175 @@
 [
   {
+    "id": "ms-aiwyn-tax",
+    "vendorId": "microsoft",
+    "name": "Aiwyn Tax",
+    "description": "Calculate taxes and look up tax jurisdictions and rates.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-blockscout",
+    "vendorId": "microsoft",
+    "name": "Blockscout",
+    "description": "Search blocks, transactions, tokens, and smart contracts across EVM networks.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-cb-insights",
+    "vendorId": "microsoft",
+    "name": "CB Insights",
+    "description": "Track private-company funding, M&A activity, competitors, and market maps.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-clarity-ai",
+    "vendorId": "microsoft",
+    "name": "Clarity AI",
+    "description": "Assess fund sustainability, ESG scores, and SFDR compliance.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-daloopa",
+    "vendorId": "microsoft",
+    "name": "Daloopa",
+    "description": "Get company fundamentals, KPIs, and guidance extracted from SEC filings.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-factset",
+    "vendorId": "microsoft",
+    "name": "FactSet",
+    "description": "Get company fundamentals, estimates, ownership, and market data.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-fitch-solutions",
+    "vendorId": "microsoft",
+    "name": "Fitch Solutions",
+    "description": "Get Fitch credit ratings, credit research, and country risk assessments.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-klardaten-datev-connector",
+    "vendorId": "microsoft",
+    "name": "Klardaten DATEV-Connector",
+    "description": "Access DATEV data through Klardaten in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-lseg",
+    "vendorId": "microsoft",
+    "name": "LSEG",
+    "description": "Get real-time market data, fundamentals, estimates, and pricing.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-mercury",
+    "vendorId": "microsoft",
+    "name": "Mercury",
+    "description": "Check balances, transactions, and statements in your bank account.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-money-forward",
+    "vendorId": "microsoft",
+    "name": "Money Forward",
+    "description": "Access Money Forward data in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-moody-s",
+    "vendorId": "microsoft",
+    "name": "Moody's",
+    "description": "Get credit ratings, rating actions, outlooks, and risk research.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-morningstar",
+    "vendorId": "microsoft",
+    "name": "Morningstar",
+    "description": "Look up fund and ETF ratings, stock research, and market data.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-pitchbook",
+    "vendorId": "microsoft",
+    "name": "PitchBook",
+    "description": "Search private-market deals, investors, funds, and company valuations.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-s-p-global",
+    "vendorId": "microsoft",
+    "name": "S&P Global",
+    "description": "Get company financials, analyst estimates, M&A deals, and earnings transcripts.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-xero",
+    "vendorId": "microsoft",
+    "name": "Xero",
+    "description": "Access Xero accounting data in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-zacks",
+    "vendorId": "microsoft",
+    "name": "Zacks",
+    "description": "Access Zacks financial data for income statements, balance sheets, and cash flow.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-aha",
     "vendorId": "microsoft",
     "name": "Aha!",
@@ -80,16 +250,6 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/miro-overview"
   },
   {
-    "id": "ms-notion",
-    "vendorId": "microsoft",
-    "name": "Notion",
-    "description": "Organize notes, projects, and wikis.",
-    "categoryId": "communication",
-    "type": "official",
-    "status": "preview",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
     "id": "ms-shortcut-story",
     "vendorId": "microsoft",
     "name": "Shortcut Story",
@@ -98,6 +258,16 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/shortcut-story-overview"
+  },
+  {
+    "id": "ms-teamsmaestro",
+    "vendorId": "microsoft",
+    "name": "TeamsMaestro",
+    "description": "Access your meeting transcripts, summaries, and action items.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-trello",
@@ -250,6 +420,16 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/stack-overflow-connector"
   },
   {
+    "id": "ms-templafy",
+    "vendorId": "microsoft",
+    "name": "Templafy",
+    "description": "Access Templafy content in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-unily",
     "vendorId": "microsoft",
     "name": "Unily",
@@ -273,7 +453,7 @@
     "id": "ms-veeva-vault-promomats",
     "vendorId": "microsoft",
     "name": "Veeva Vault PromoMats",
-    "description": "Empowers life sciences organizations to seamlessly integrate their compliant promotional content and regulatory content from Veeva Vault PromoMats into Microsoft 365 Copilot. This  connector was de...",
+    "description": "Empowers life sciences organizations to seamlessly integrate their compliant promotional content and regulatory content from Veeva Vault PromoMats into Microsoft 365 Copilot. This connector was dev...",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable",
@@ -310,10 +490,30 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/wordpress-onpremises-overview"
   },
   {
+    "id": "ms-clarify",
+    "vendorId": "microsoft",
+    "name": "Clarify",
+    "description": "Query your pipeline, manage CRM records, source leads, and automate GTM.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-hubspot",
     "vendorId": "microsoft",
     "name": "HubSpot",
     "description": "Manage customer data and sales pipelines.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-intercom",
+    "vendorId": "microsoft",
+    "name": "Intercom",
+    "description": "Look up customer conversations, tickets, and contact records in Intercom.",
     "categoryId": "crm",
     "type": "official",
     "status": "preview",
@@ -330,6 +530,86 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/salesforce-crm-overview"
   },
   {
+    "id": "ms-forrester",
+    "vendorId": "microsoft",
+    "name": "Forrester",
+    "description": "Search Forrester research reports, Wave evaluations, and analyst guidance.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-idc",
+    "vendorId": "microsoft",
+    "name": "IDC",
+    "description": "Access IDC market research, datasets, forecasts, trackers, and documents.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-infor-nexus-digital-assistant",
+    "vendorId": "microsoft",
+    "name": "Infor Nexus Digital Assistant",
+    "description": "Track purchase orders, shipments, invoices, and supplier performance.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-polar-analytics",
+    "vendorId": "microsoft",
+    "name": "Polar Analytics",
+    "description": "Bring all your data into one place and connect it to Copilot.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-pulse-by-passby",
+    "vendorId": "microsoft",
+    "name": "Pulse by PassBy",
+    "description": "Access real-world retail intelligence for physical stores.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-s-p-global-energy",
+    "vendorId": "microsoft",
+    "name": "S&P Global Energy",
+    "description": "Access S&P Global Energy data in real time through a federated connector.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-sight-machine",
+    "vendorId": "microsoft",
+    "name": "Sight Machine",
+    "description": "Analyze production output, machine performance, and manufacturing KPIs.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-statista",
+    "vendorId": "microsoft",
+    "name": "Statista",
+    "description": "Access Statista data in real time through a federated connector.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-tableau-cloud",
     "vendorId": "microsoft",
     "name": "Tableau Cloud",
@@ -338,6 +618,16 @@
     "type": "official",
     "status": "preview",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/tableau-cloud-overview"
+  },
+  {
+    "id": "ms-wolfram",
+    "vendorId": "microsoft",
+    "name": "Wolfram",
+    "description": "Compute answers, run calculations, and query Wolfram knowledge.",
+    "categoryId": "data",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-airtable",
@@ -410,6 +700,36 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/postgresql-connector"
   },
   {
+    "id": "ms-canva",
+    "vendorId": "microsoft",
+    "name": "Canva",
+    "description": "Find your designs, presentations, whiteboards, and brand assets.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-cloudinary",
+    "vendorId": "microsoft",
+    "name": "Cloudinary",
+    "description": "Upload, organize, transform, and optimize images and videos.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-excalidraw",
+    "vendorId": "microsoft",
+    "name": "Excalidraw",
+    "description": "Create and view Excalidraw whiteboard diagrams.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-bitbucket-knowledge",
     "vendorId": "microsoft",
     "name": "Bitbucket Knowledge",
@@ -428,6 +748,26 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/bitbucket-pull-request-overview"
+  },
+  {
+    "id": "ms-context7",
+    "vendorId": "microsoft",
+    "name": "Context7",
+    "description": "Get up-to-date documentation, API references, and code examples.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-enosix",
+    "vendorId": "microsoft",
+    "name": "Enosix",
+    "description": "Search SAP sales orders, deliveries, invoices, and stock availability.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-github-cloud-issues",
@@ -490,16 +830,6 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/github-server-pull-requests-overview"
   },
   {
-    "id": "ms-gitlab-merge-requests-server",
-    "vendorId": "microsoft",
-    "name": "GitLab Merge Requests Server",
-    "description": "Lets developers review and merge code with GitLab Server pull requests.",
-    "categoryId": "dev-tools",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/gitlab-merge-requests-server-overview"
-  },
-  {
     "id": "ms-gitlab-issues-cloud",
     "vendorId": "microsoft",
     "name": "GitLab Issues Cloud",
@@ -550,20 +880,100 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/gitlab-merge-requests-cloud-overview"
   },
   {
-    "id": "ms-gitlab-merge-requests-server-2",
+    "id": "ms-gitlab-merge-requests-server",
     "vendorId": "microsoft",
     "name": "GitLab Merge Requests Server",
-    "description": "Integrates merge request data from GitLab Self-Managed (Server) into Microsoft 365.",
+    "description": "Lets developers review and merge code with GitLab Server pull requests.",
     "categoryId": "dev-tools",
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/gitlab-merge-requests-server-overview"
   },
   {
+    "id": "ms-godaddy",
+    "vendorId": "microsoft",
+    "name": "GoDaddy",
+    "description": "Check domain availability and get name suggestions.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-graphos-mcp-tools",
+    "vendorId": "microsoft",
+    "name": "GraphOS MCP Tools",
+    "description": "Search Apollo GraphOS docs and connector specifications.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-hugging-face",
+    "vendorId": "microsoft",
+    "name": "Hugging Face",
+    "description": "Search models, datasets, Spaces, and papers on Hugging Face.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-jam",
+    "vendorId": "microsoft",
+    "name": "Jam",
+    "description": "Get bug reports with recordings, console logs, and repro steps.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-pg-aiguide",
+    "vendorId": "microsoft",
+    "name": "pg-aiguide",
+    "description": "Get PostgreSQL, TimescaleDB, and PostGIS guidance and recommended practices.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-article-galaxy",
+    "vendorId": "microsoft",
+    "name": "Article Galaxy",
+    "description": "Search scientific articles, check reuse rights, and track orders.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-autodesk-product-help",
+    "vendorId": "microsoft",
+    "name": "Autodesk Product Help",
+    "description": "Connect Autodesk product documentation through a secure, read-only interface.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-microsoft-learn",
+    "vendorId": "microsoft",
+    "name": "Microsoft Learn",
+    "description": "Search official Microsoft docs and code samples.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-amazon-s3",
     "vendorId": "microsoft",
     "name": "Amazon S3",
-    "description": "Allows your organization to index objects stored in your Amazon S3 buckets. After you configure the connector and index content from S3, users can search for those items in Microsoft 365 Copilot.",
+    "description": "Index objects stored in your Amazon S3 buckets. After you configure the connector and index content from S3, users can search for those items in Microsoft 365 Copilot.",
     "categoryId": "cloud-storage",
     "type": "official",
     "status": "stable",
@@ -573,11 +983,11 @@
     "id": "ms-azure-data-lake-storage-gen2",
     "vendorId": "microsoft",
     "name": "Azure Data Lake Storage Gen2",
-    "description": "Enables your organization to search for content stored in Azure Blob containers. Indexes hierarchy-enabled folders in specified Azure Data Lake Storage Gen2 accounts.",
+    "description": "Search for content stored in Azure Blob containers. Indexes hierarchy-enabled folders in specified Azure Data Lake Storage Gen2 accounts.",
     "categoryId": "cloud-storage",
     "type": "official",
     "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/azure-data-lake-connector"
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/azure-data-lake-storage-gen2-overview"
   },
   {
     "id": "ms-azure-file-share",
@@ -588,6 +998,16 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/azure-file-share-overview"
+  },
+  {
+    "id": "ms-box",
+    "vendorId": "microsoft",
+    "name": "Box",
+    "description": "Search and read your files, folders, and documents in Box.",
+    "categoryId": "cloud-storage",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-dropbox",
@@ -620,10 +1040,120 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/google-drive-overview"
   },
   {
+    "id": "ms-biorxiv",
+    "vendorId": "microsoft",
+    "name": "bioRxiv",
+    "description": "Search bioRxiv and medRxiv preprints, categories, publication status, and funders.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-clinicaltrials-gov-explorer-by-blen",
+    "vendorId": "microsoft",
+    "name": "ClinicalTrials.gov Explorer (by BLEN)",
+    "description": "Access public clinical study records from ClinicalTrials.gov.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-cms-coverage",
+    "vendorId": "microsoft",
+    "name": "CMS Coverage",
+    "description": "Access CMS coverage information in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-consensus",
+    "vendorId": "microsoft",
+    "name": "Consensus",
+    "description": "Access Consensus research content in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-medlineplus",
+    "vendorId": "microsoft",
+    "name": "MedlinePlus",
+    "description": "Look up patient-friendly consumer health information by medical code.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-npi-registry",
+    "vendorId": "microsoft",
+    "name": "NPI Registry",
+    "description": "Look up and validate US healthcare providers.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-nyquistai",
+    "vendorId": "microsoft",
+    "name": "NyquistAI",
+    "description": "Search FDA medical-device data, recalls, and warning letters.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-opentargets",
+    "vendorId": "microsoft",
+    "name": "OpenTargets",
+    "description": "Look up target-disease associations, drug mechanisms, and genetic evidence.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-pophive",
+    "vendorId": "microsoft",
+    "name": "PopHIVE",
+    "description": "Look up US population and public health data, including disease trends and current status.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-pubmed",
+    "vendorId": "microsoft",
+    "name": "PubMed",
+    "description": "Search biomedical and life sciences research articles.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-rxnorm",
+    "vendorId": "microsoft",
+    "name": "RxNorm",
+    "description": "Normalize drug names and look up therapeutic drug classes via the NIH/NLM RxNav service.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-15five-high-fives",
     "vendorId": "microsoft",
     "name": "15Five High Fives",
-    "description": "Lets your organization connect with the High Five feature from 15Five to enhance collaboration and team recognition.",
+    "description": "Connect your organization with the High Five feature from 15Five to enhance collaboration and team recognition.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
@@ -633,7 +1163,7 @@
     "id": "ms-15five-high-fives-priorities",
     "vendorId": "microsoft",
     "name": "15Five High Fives Priorities",
-    "description": "Allows your organization to index 15Five priority data, using Microsoft 365 Copilot and Microsoft Search.",
+    "description": "Index 15Five priority data in your organization by using Microsoft 365 Copilot and Microsoft Search.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
@@ -643,27 +1173,47 @@
     "id": "ms-bamboohr",
     "vendorId": "microsoft",
     "name": "BambooHR",
-    "description": "Allows your organization to populate People Experiences like profiles in Teams or Copilot with people data from the BambooHR system.",
+    "description": "Populate People Experiences like profiles in Teams or Copilot with people data from the BambooHR system.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/bamboohr-connector"
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/bamboohr-overview"
   },
   {
     "id": "ms-credly",
     "vendorId": "microsoft",
     "name": "Credly",
-    "description": "Integrates digital credential data from your organization's Credly platform into Microsoft 365.",
+    "description": "Integrate digital credential data from your organization's Credly platform into Microsoft 365.",
     "categoryId": "hr",
     "type": "official",
     "status": "preview",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/credly-overview"
   },
   {
+    "id": "ms-dice",
+    "vendorId": "microsoft",
+    "name": "Dice",
+    "description": "Search tech job listings on Dice by keyword, location, and filters.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-gusto",
+    "vendorId": "microsoft",
+    "name": "Gusto",
+    "description": "Look up payroll runs, employee records, benefits enrollment, and tax filings.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-sap-successfactors",
     "vendorId": "microsoft",
     "name": "SAP SuccessFactors",
-    "description": "Allows organizations integrate with SAP SuccessFactors to securely synchronize organization data and organize HR functions via Microsoft 365 Organizational Data Service.",
+    "description": "Integrate your organization with SAP SuccessFactors to securely synchronize organization data and organize HR functions through Microsoft 365 Organizational Data Service.",
     "categoryId": "hr",
     "type": "official",
     "status": "stable",
@@ -680,6 +1230,36 @@
     "docsUrl": "https://learn.microsoft.com/en-us/viva/import-org-data-workday"
   },
   {
+    "id": "ms-ziprecruiter",
+    "vendorId": "microsoft",
+    "name": "ZipRecruiter",
+    "description": "Search job listings across ZipRecruiter.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-azure-devops",
+    "vendorId": "microsoft",
+    "name": "Azure DevOps",
+    "description": "Access Azure DevOps data in real time through a federated connector.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-cloudflare",
+    "vendorId": "microsoft",
+    "name": "Cloudflare",
+    "description": "Build and manage Cloudflare Workers, storage, databases, and AI.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-freshservice",
     "vendorId": "microsoft",
     "name": "Freshservice",
@@ -688,6 +1268,16 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/freshservice-overview"
+  },
+  {
+    "id": "ms-malwarebytes",
+    "vendorId": "microsoft",
+    "name": "Malwarebytes",
+    "description": "Check URLs, email addresses, and phone numbers for scams and phishing.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-pagerduty-escalation-policies",
@@ -700,16 +1290,6 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/pagerduty-escalation-policies-overview"
   },
   {
-    "id": "ms-pagerduty-schedules",
-    "vendorId": "microsoft",
-    "name": "PagerDuty Schedules",
-    "description": "Enables organizations to index and search PagerDuty schedules.",
-    "categoryId": "support",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/pagerduty-schedules-overview"
-  },
-  {
     "id": "ms-pagerduty-incidents",
     "vendorId": "microsoft",
     "name": "PagerDuty Incidents",
@@ -718,6 +1298,16 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/pagerduty-incidents-overview"
+  },
+  {
+    "id": "ms-pagerduty-schedules",
+    "vendorId": "microsoft",
+    "name": "PagerDuty Schedules",
+    "description": "Index and search PagerDuty schedules.",
+    "categoryId": "support",
+    "type": "official",
+    "status": "stable",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/pagerduty-schedules-overview"
   },
   {
     "id": "ms-servicenow-catalog",
@@ -740,6 +1330,186 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/servicenow-tickets-overview"
   },
   {
+    "id": "ms-boardwise",
+    "vendorId": "microsoft",
+    "name": "BoardWise",
+    "description": "Search BoardWise board guidance and response letter guidance.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-descrybe-legal-engine",
+    "vendorId": "microsoft",
+    "name": "Descrybe Legal Engine",
+    "description": "Search and analyze legal questions, concepts, and cases.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-everlaw",
+    "vendorId": "microsoft",
+    "name": "Everlaw",
+    "description": "Search and analyze documents, cases, and projects in Everlaw for litigation.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-harvey",
+    "vendorId": "microsoft",
+    "name": "Harvey",
+    "description": "AI for legal research, document analysis, and professional services.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-harvey-au",
+    "vendorId": "microsoft",
+    "name": "Harvey AU",
+    "description": "Access Harvey legal data hosted in Australia in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-harvey-eu",
+    "vendorId": "microsoft",
+    "name": "Harvey EU",
+    "description": "Access Harvey legal data hosted in the European Union in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-imanage-work",
+    "vendorId": "microsoft",
+    "name": "iManage Work",
+    "description": "Search your documents, matters, folders, and recent activity.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-legal-data-hunter",
+    "vendorId": "microsoft",
+    "name": "Legal Data Hunter",
+    "description": "Search 23M+ legal documents in 160+ jurisdictions.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-kindora-funder-discovery",
+    "vendorId": "microsoft",
+    "name": "Kindora Funder Discovery",
+    "description": "Find grant funders, foundation profiles, and open grants.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-autodesk",
+    "vendorId": "microsoft",
+    "name": "Autodesk",
+    "description": "Search Autodesk products, tutorials, error codes, and troubleshooting guidance.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-deepl-mcp",
+    "vendorId": "microsoft",
+    "name": "DeepL MCP",
+    "description": "Translate and improve text in real time through a federated connector.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-fellow-ai",
+    "vendorId": "microsoft",
+    "name": "Fellow.ai",
+    "description": "Look up meeting agendas, notes, action items, and 1:1 talking points.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-google-calendar",
+    "vendorId": "microsoft",
+    "name": "Google Calendar",
+    "description": "Check your events, meetings, invites, times, and attendees.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-google-contacts",
+    "vendorId": "microsoft",
+    "name": "Google Contacts",
+    "description": "Look up names, emails, phone numbers, job titles, and companies.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-granola",
+    "vendorId": "microsoft",
+    "name": "Granola",
+    "description": "Query your Granola meeting notes, transcripts, and insights in Copilot.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-mem",
+    "vendorId": "microsoft",
+    "name": "Mem",
+    "description": "Search, create, and organize your notes and knowledge.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-notion",
+    "vendorId": "microsoft",
+    "name": "Notion",
+    "description": "Search your docs, wikis, notes, tasks, and databases.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-taskrabbit-booking-assistance",
+    "vendorId": "microsoft",
+    "name": "Taskrabbit Booking Assistance",
+    "description": "Check Tasker availability and book local services.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-asana",
     "vendorId": "microsoft",
     "name": "Asana",
@@ -748,6 +1518,26 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/asana-overview"
+  },
+  {
+    "id": "ms-dotted",
+    "vendorId": "microsoft",
+    "name": "Dotted",
+    "description": "Access Dotted project updates in real time through a federated connector.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-flow-studio-cowork",
+    "vendorId": "microsoft",
+    "name": "Flow Studio Cowork",
+    "description": "Access and manage Power Automate workflows in real time through a federated connector.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-monday-com",
@@ -760,6 +1550,16 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/monday-overview"
   },
   {
+    "id": "ms-quire",
+    "vendorId": "microsoft",
+    "name": "Quire",
+    "description": "Access Quire project data in real time through a federated connector.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-smartsheet-sheet",
     "vendorId": "microsoft",
     "name": "Smartsheet Sheet",
@@ -770,6 +1570,46 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/smartsheet-sheet-overview"
   },
   {
+    "id": "ms-adobe-journey-optimizer",
+    "vendorId": "microsoft",
+    "name": "Adobe Journey Optimizer",
+    "description": "Work with Adobe Journey Optimizer journeys, campaigns, audiences, and offers.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-ahrefs",
+    "vendorId": "microsoft",
+    "name": "Ahrefs",
+    "description": "Check backlinks, keywords, rankings, and SEO traffic.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-crossbeam",
+    "vendorId": "microsoft",
+    "name": "Crossbeam",
+    "description": "Find partner overlaps, shared customers, and co-selling opportunities.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-customer-io",
+    "vendorId": "microsoft",
+    "name": "Customer.io",
+    "description": "Analyze email, SMS, and push campaigns, journeys, and segments.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
     "id": "ms-gong",
     "vendorId": "microsoft",
     "name": "Gong",
@@ -778,6 +1618,46 @@
     "type": "official",
     "status": "stable",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/gong-connector"
+  },
+  {
+    "id": "ms-grain",
+    "vendorId": "microsoft",
+    "name": "Grain",
+    "description": "Search sales call recordings, highlights, and conversation analytics.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-hg-insights",
+    "vendorId": "microsoft",
+    "name": "HG Insights",
+    "description": "Access real-time company, technology, buyer intent, and market intelligence.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-mailerlite",
+    "vendorId": "microsoft",
+    "name": "MailerLite",
+    "description": "Manage email campaigns, subscribers, and automation workflows.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
+  },
+  {
+    "id": "ms-sprouts-data-intelligence",
+    "vendorId": "microsoft",
+    "name": "Sprouts Data Intelligence",
+    "description": "Enrich B2B account data and check your Sprouts credit balance.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "preview",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
     "id": "ms-zendesk-help-center",
@@ -800,93 +1680,23 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/zendesk-ticket-overview"
   },
   {
-    "id": "ms-canva",
+    "id": "ms-granted",
     "vendorId": "microsoft",
-    "name": "Canva",
-    "description": "Connects to Canva design content to enable users to create, edit, search, and manage designs directly within their workflows.",
+    "name": "Granted",
+    "description": "Access Granted data in real time through a federated connector.",
     "categoryId": "productivity",
     "type": "official",
-    "status": "stable",
+    "status": "preview",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
-    "id": "ms-google-calendar",
+    "id": "ms-tavily",
     "vendorId": "microsoft",
-    "name": "Google Calendar",
-    "description": "Connects to Google Calendar to enable users to access, manage, and query events and availability across their schedule.",
+    "name": "Tavily",
+    "description": "Access Tavily search results in real time through a federated connector.",
     "categoryId": "productivity",
     "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-google-contacts",
-    "vendorId": "microsoft",
-    "name": "Google Contacts",
-    "description": "Connects to Google Contacts to enable users to retrieve and reference contact details such as names, email addresses, and phone numbers.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-hubspot-2",
-    "vendorId": "microsoft",
-    "name": "HubSpot",
-    "description": "Connects to HubSpot CRM data to enable users to access and enrich responses with customer, sales, and marketing insights from HubSpot.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-intercom",
-    "vendorId": "microsoft",
-    "name": "Intercom",
-    "description": "Connects to Intercom customer communication data to help users access and work with customer interactions and support insights within their workflows.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-linear-2",
-    "vendorId": "microsoft",
-    "name": "Linear",
-    "description": "Connects to Linear to surface and work with issues, projects, and product roadmap data, helping teams streamline development workflows and collaboration.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-lseg",
-    "vendorId": "microsoft",
-    "name": "LSEG",
-    "description": "Connects to LSEG's financial data platform to enable users to access real‑time market data, analytics, and valuation tools in conversational workflows.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-moody-s",
-    "vendorId": "microsoft",
-    "name": "Moody's",
-    "description": "Connects to Moody's credit intelligence platform to provide access to credit ratings, research, and risk insights to support financial analysis and decision-making workflows.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
-    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
-  },
-  {
-    "id": "ms-notion-2",
-    "vendorId": "microsoft",
-    "name": "Notion",
-    "description": "Connects to Notion workspaces to enable users to search, retrieve, and use content from pages, databases, and notes directly in their workflows.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable",
+    "status": "preview",
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
