@@ -2866,6 +2866,19 @@
     ]
   },
   {
+    "id": "gl-stackone",
+    "vendorId": "glean",
+    "name": "StackOne",
+    "description": "StackOne connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/stackone",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
     "id": "gl-stack-overflow-for-teams",
     "vendorId": "glean",
     "name": "Stack Overflow for Teams",
