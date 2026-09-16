@@ -21,10 +21,11 @@
     "id": "g-available-connectors",
     "vendorId": "google",
     "name": "Available connectors",
-    "description": "To view and enable the connectors in your Gemini Enterprise – Business edition workspace: Sign in to Gemini Enterprise – Business edition (business.gemini.google/).\n  Click Settings & help .\n  Sele...",
+    "description": "Note: Turn on the smart features in other Google products setting in your Google account, in addition to enabling the connector in your Gemini Enterprise – Business edition workspace. To view and e...",
     "categoryId": "productivity",
     "type": "official",
-    "status": "stable"
+    "status": "stable",
+    "sourceUrl": "https://support.google.com/mail/answer/15604322#ogp"
   },
   {
     "id": "g-supported-actions-in-gemini-enterprise-business-edition",
