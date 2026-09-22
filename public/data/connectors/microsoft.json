@@ -1200,6 +1200,16 @@
     "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/federated-connectors-overview"
   },
   {
+    "id": "ms-galileo-by-the-josh-bersin-company",
+    "vendorId": "microsoft",
+    "name": "Galileo by The Josh Bersin Company",
+    "description": "Allows your organization to index The Josh Bersin Company research library and use research-backed HR guidance in Microsoft 365 Copilot, Copilot Search, and Microsoft Search.",
+    "categoryId": "hr",
+    "type": "official",
+    "status": "stable",
+    "docsUrl": "https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/galileo-overview"
+  },
+  {
     "id": "ms-gusto",
     "vendorId": "microsoft",
     "name": "Gusto",

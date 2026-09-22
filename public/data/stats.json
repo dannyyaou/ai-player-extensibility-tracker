@@ -1,10 +1,10 @@
 {
-  "totalConnectors": 1017,
+  "totalConnectors": 1018,
   "totalVendors": 5,
   "totalCategories": 18,
   "coverageEntries": 25,
   "vendorCounts": {
-    "microsoft": 320,
+    "microsoft": 321,
     "anthropic": 390,
     "google": 27,
     "openai": 3,
@@ -17,7 +17,7 @@
     "data": 53,
     "dev-tools": 135,
     "cloud-storage": 67,
-    "hr": 24,
+    "hr": 25,
     "support": 37,
     "project-mgmt": 30,
     "healthcare": 25,
