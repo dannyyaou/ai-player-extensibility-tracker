@@ -6,8 +6,8 @@
     "description": "Microsoft Graph Connectors enable third-party data to be indexed and searchable in Microsoft 365 Copilot, Search, and other Microsoft experiences.",
     "color": "blue",
     "websiteUrl": "https://learn.microsoft.com/en-us/graph/connecting-external-content-connectors-overview",
-    "totalConnectors": 321,
-    "officialConnectors": 171
+    "totalConnectors": 352,
+    "officialConnectors": 202
   },
   {
     "id": "google",
