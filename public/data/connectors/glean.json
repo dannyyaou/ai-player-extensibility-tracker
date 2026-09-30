@@ -2829,6 +2829,18 @@
     ]
   },
   {
+    "id": "gl-sourcegraph",
+    "vendorId": "glean",
+    "name": "Sourcegraph",
+    "description": "Sourcegraph connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
     "id": "gl-s-p-global",
     "vendorId": "glean",
     "name": "S&P Global",
