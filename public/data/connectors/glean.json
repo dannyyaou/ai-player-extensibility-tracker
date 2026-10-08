@@ -2434,6 +2434,19 @@
     ]
   },
   {
+    "id": "gl-planhat",
+    "vendorId": "glean",
+    "name": "Planhat",
+    "description": "Planhat connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/planhat",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
     "id": "gl-plusplus",
     "vendorId": "glean",
     "name": "PlusPlus",
