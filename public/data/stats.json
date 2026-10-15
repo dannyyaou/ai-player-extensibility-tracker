@@ -1,5 +1,5 @@
 {
-  "totalConnectors": 1104,
+  "totalConnectors": 1107,
   "totalVendors": 5,
   "totalCategories": 18,
   "coverageEntries": 25,
@@ -8,17 +8,17 @@
     "anthropic": 390,
     "google": 27,
     "openai": 3,
-    "glean": 279
+    "glean": 282
   },
   "categoryCounts": {
-    "productivity": 524,
+    "productivity": 525,
     "crm": 66,
     "cloud-storage": 68,
     "support": 36,
     "project-mgmt": 38,
-    "communication": 83,
+    "communication": 84,
     "data": 36,
-    "dev-tools": 115,
+    "dev-tools": 116,
     "hr": 15,
     "healthcare": 25,
     "marketing": 7,

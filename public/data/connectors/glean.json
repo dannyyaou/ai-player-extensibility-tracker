@@ -835,6 +835,19 @@
     ]
   },
   {
+    "id": "gl-dialpad",
+    "vendorId": "glean",
+    "name": "Dialpad",
+    "description": "Dialpad connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/dialpad",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
     "id": "gl-dice",
     "vendorId": "glean",
     "name": "Dice",
@@ -1243,7 +1256,10 @@
     "description": "Google Datastudio connector for Glean.",
     "categoryId": "dev-tools",
     "type": "official",
-    "status": "stable"
+    "status": "stable",
+    "integrationTypes": [
+      "Web history"
+    ]
   },
   {
     "id": "gl-google-drive",
@@ -1492,6 +1508,7 @@
     "categoryId": "dev-tools",
     "type": "official",
     "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/incident-io",
     "integrationTypes": [
       "MCP"
     ]
@@ -2234,6 +2251,19 @@
     ]
   },
   {
+    "id": "gl-onyx-secure-ai-control-plane",
+    "vendorId": "glean",
+    "name": "Onyx Secure AI Control Plane",
+    "description": "Onyx Secure AI Control Plane connector for Glean.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/onyx-secure-ai-control-plane",
+    "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
     "id": "gl-opsgenie",
     "vendorId": "glean",
     "name": "Opsgenie",
@@ -2308,6 +2338,19 @@
     "sourceUrl": "https://www.glean.com/connectors/panopto",
     "integrationTypes": [
       "Push API"
+    ]
+  },
+  {
+    "id": "gl-parallel",
+    "vendorId": "glean",
+    "name": "Parallel",
+    "description": "Parallel connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/parallel",
+    "integrationTypes": [
+      "MCP"
     ]
   },
   {
@@ -3451,6 +3494,7 @@
     "categoryId": "crm",
     "type": "official",
     "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/zoominfo",
     "integrationTypes": [
       "MCP"
     ]
