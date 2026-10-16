@@ -9,15 +9,6 @@
     "status": "stable"
   },
   {
-    "id": "g-gemini-enterprise-business-edition-will-only-access-what-you-specifically-authorize",
-    "vendorId": "google",
-    "name": "Gemini Enterprise – Business edition will only access what you specifically authorize.",
-    "description": "Ensure that your connector is configured to allow Gemini Enterprise – Business edition to access any data you wish to connect.",
-    "categoryId": "productivity",
-    "type": "official",
-    "status": "stable"
-  },
-  {
     "id": "g-available-connectors",
     "vendorId": "google",
     "name": "Available connectors",
@@ -91,6 +82,15 @@
     "status": "stable"
   },
   {
+    "id": "g-airops",
+    "vendorId": "google",
+    "name": "AirOps",
+    "description": "AirOps extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-asana",
     "vendorId": "google",
     "name": "Asana",
@@ -118,6 +118,15 @@
     "status": "stable"
   },
   {
+    "id": "g-aws-marketplace",
+    "vendorId": "google",
+    "name": "AWS Marketplace",
+    "description": "AWS Marketplace extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-box",
     "vendorId": "google",
     "name": "Box",
@@ -136,6 +145,33 @@
     "status": "stable"
   },
   {
+    "id": "g-fibery",
+    "vendorId": "google",
+    "name": "Fibery",
+    "description": "Fibery extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-figma",
+    "vendorId": "google",
+    "name": "Figma",
+    "description": "Figma extension for Google Gemini.",
+    "categoryId": "design",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-gamma",
+    "vendorId": "google",
+    "name": "Gamma",
+    "description": "Gamma extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-github",
     "vendorId": "google",
     "name": "GitHub",
@@ -145,11 +181,29 @@
     "status": "stable"
   },
   {
+    "id": "g-guru",
+    "vendorId": "google",
+    "name": "Guru",
+    "description": "Guru extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-hubspot",
     "vendorId": "google",
     "name": "HubSpot",
     "description": "HubSpot extension for Google Gemini.",
     "categoryId": "crm",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-intercom",
+    "vendorId": "google",
+    "name": "Intercom",
+    "description": "Intercom extension for Google Gemini.",
+    "categoryId": "support",
     "type": "official",
     "status": "stable"
   },
@@ -217,6 +271,33 @@
     "status": "stable"
   },
   {
+    "id": "g-pagerduty",
+    "vendorId": "google",
+    "name": "PagerDuty",
+    "description": "PagerDuty extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-salesforce",
+    "vendorId": "google",
+    "name": "Salesforce",
+    "description": "Salesforce extension for Google Gemini.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-sanity",
+    "vendorId": "google",
+    "name": "Sanity",
+    "description": "Sanity extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-slack",
     "vendorId": "google",
     "name": "Slack",
@@ -226,11 +307,65 @@
     "status": "stable"
   },
   {
+    "id": "g-smartsheet",
+    "vendorId": "google",
+    "name": "Smartsheet",
+    "description": "Smartsheet extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-wix",
+    "vendorId": "google",
+    "name": "Wix",
+    "description": "Wix extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
     "id": "g-zendesk",
     "vendorId": "google",
     "name": "Zendesk",
     "description": "Zendesk extension for Google Gemini.",
     "categoryId": "support",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-zoho-books",
+    "vendorId": "google",
+    "name": "Zoho Books",
+    "description": "Zoho Books extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-zoho-crm",
+    "vendorId": "google",
+    "name": "Zoho CRM",
+    "description": "Zoho CRM extension for Google Gemini.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-zoho-desk",
+    "vendorId": "google",
+    "name": "Zoho Desk",
+    "description": "Zoho Desk extension for Google Gemini.",
+    "categoryId": "productivity",
+    "type": "official",
+    "status": "stable"
+  },
+  {
+    "id": "g-zoho-projects",
+    "vendorId": "google",
+    "name": "Zoho Projects",
+    "description": "Zoho Projects extension for Google Gemini.",
+    "categoryId": "productivity",
     "type": "official",
     "status": "stable"
   },

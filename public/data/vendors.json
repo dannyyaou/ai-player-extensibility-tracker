@@ -16,8 +16,8 @@
     "description": "Google Gemini Extensions connect Gemini to Google services and third-party tools for enhanced AI assistance across the Google ecosystem.",
     "color": "emerald",
     "websiteUrl": "https://gemini.google.com/extensions",
-    "totalConnectors": 27,
-    "officialConnectors": 27
+    "totalConnectors": 42,
+    "officialConnectors": 42
   },
   {
     "id": "anthropic",
