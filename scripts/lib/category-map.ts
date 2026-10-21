@@ -110,3 +110,29 @@ export const gleanCategoryMap: Record<string, string> = {
 export function mapGleanCategory(category: string): string {
   return gleanCategoryMap[category] || 'productivity';
 }
+
+// Keyword-based categorization for Power Platform connectors
+const powerPlatformKeywordMap: Array<{ keywords: string[]; categoryId: string }> = [
+  { keywords: ['sharepoint', 'onedrive', 'office', 'word', 'excel', 'powerpoint', 'onenote', 'outlook calendar'], categoryId: 'productivity' },
+  { keywords: ['azure', 'devops', 'github', 'visual studio', 'app service', 'logic apps', 'functions', 'key vault'], categoryId: 'dev-tools' },
+  { keywords: ['dynamics', 'salesforce', 'hubspot', 'crm', 'customer insight'], categoryId: 'crm' },
+  { keywords: ['sql', 'dataverse', 'cosmos', 'data lake', 'kusto', 'blob storage', 'table storage'], categoryId: 'data' },
+  { keywords: ['teams', 'outlook', 'yammer', 'viva engage', 'communication', 'smtp', 'twilio', 'sendgrid'], categoryId: 'communication' },
+  { keywords: ['planner', 'project', 'trello', 'asana', 'monday', 'todoist'], categoryId: 'project-mgmt' },
+  { keywords: ['servicenow', 'zendesk', 'freshdesk', 'service desk', 'helpdesk'], categoryId: 'support' },
+  { keywords: ['workday', 'bamboo', 'adp', 'human resource', 'hr '], categoryId: 'hr' },
+  { keywords: ['stripe', 'quickbooks', 'xero', 'payment', 'invoice', 'finance', 'accounting'], categoryId: 'finance' },
+  { keywords: ['mailchimp', 'campaign', 'marketing', 'adobe campaign', 'marketo'], categoryId: 'marketing' },
+  { keywords: ['dropbox', 'box', 'google drive', 'ftp', 'sftp', 'file system'], categoryId: 'cloud-storage' },
+  { keywords: ['defender', 'sentinel', 'security', 'compliance', 'intune'], categoryId: 'security' },
+];
+
+export function categorizePowerPlatformConnector(name: string): string {
+  const text = name.toLowerCase();
+  for (const mapping of powerPlatformKeywordMap) {
+    if (mapping.keywords.some(kw => text.includes(kw))) {
+      return mapping.categoryId;
+    }
+  }
+  return 'productivity'; // default fallback
+}
