@@ -2016,8 +2016,7 @@
     "status": "stable",
     "sourceUrl": "https://www.glean.com/connectors/microsoft-teams",
     "integrationTypes": [
-      "MCP",
-      "Push API",
+      "Native",
       "Partner"
     ]
   },
@@ -2057,6 +2056,19 @@
     "status": "stable",
     "integrationTypes": [
       "Push API"
+    ]
+  },
+  {
+    "id": "gl-minoa",
+    "vendorId": "glean",
+    "name": "Minoa",
+    "description": "Minoa connector for Glean.",
+    "categoryId": "crm",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/minoa",
+    "integrationTypes": [
+      "MCP"
     ]
   },
   {
@@ -2524,6 +2536,20 @@
     "type": "official",
     "status": "stable",
     "integrationTypes": [
+      "MCP"
+    ]
+  },
+  {
+    "id": "gl-power-bi",
+    "vendorId": "glean",
+    "name": "Power BI",
+    "description": "Power BI connector for Glean.",
+    "categoryId": "dev-tools",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/power-bi",
+    "integrationTypes": [
+      "Native",
       "MCP"
     ]
   },
@@ -3289,6 +3315,19 @@
     ]
   },
   {
+    "id": "gl-viva-engage-yammer",
+    "vendorId": "glean",
+    "name": "Viva Engage (Yammer)",
+    "description": "Viva Engage (Yammer) connector for Glean.",
+    "categoryId": "communication",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/viva-engage-yammer",
+    "integrationTypes": [
+      "Native"
+    ]
+  },
+  {
     "id": "gl-webflow",
     "vendorId": "glean",
     "name": "Webflow",
@@ -3409,6 +3448,19 @@
     "sourceUrl": "https://www.glean.com/connectors/workramp",
     "integrationTypes": [
       "Push API"
+    ]
+  },
+  {
+    "id": "gl-wrike",
+    "vendorId": "glean",
+    "name": "Wrike",
+    "description": "Wrike connector for Glean.",
+    "categoryId": "project-mgmt",
+    "type": "official",
+    "status": "stable",
+    "sourceUrl": "https://www.glean.com/connectors/wrike",
+    "integrationTypes": [
+      "MCP"
     ]
   },
   {
