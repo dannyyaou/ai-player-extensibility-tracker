@@ -24,6 +24,8 @@ export interface Connector {
   docsUrl?: string;
   sourceUrl?: string;
   integrationTypes?: string[];
+  sourcePlatform?: 'graph-connectors' | 'power-platform' | 'both';
+  tier?: 'standard' | 'premium';
 }
 
 export interface Category {
