@@ -373,7 +373,7 @@
     "id": "g-help",
     "vendorId": "google",
     "name": "Help",
-    "description": "1 of 2Connect your Google apps and third-party data2 of 2Set up your custom MCP server connection",
+    "description": "1 of 3Connect your Google apps and third-party data2 of 3Set up your custom MCP server connection3 of 3Troubleshoot connectors",
     "categoryId": "productivity",
     "type": "official",
     "status": "stable",
